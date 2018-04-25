@@ -1,13 +1,15 @@
 import argparse
+from coursefinder.industries import industries
 
 
 class CommandlineInterface(object):
 
     def parseArguments(self):
         parser = argparse.ArgumentParser()
-        parser.add_argument('industry', help='The SIC code of an industry sector.')
+        parser.add_argument('industry', type=int,
+                            help='The SIC code of an industry sector.')
         args = parser.parse_args()
-        self.industry = args.industry
+        self.sic = args.industry
 
     def recommendCourses(self):
         """Print a list of courses that are a match for the given industry
@@ -15,4 +17,7 @@ class CommandlineInterface(object):
         Args:
             industry (int): SIC code
         """
-        print('Industry: ' + self.industry)
+        if self.sic not in industries.index:
+            print('Unknown industry SIC code.')
+        else:
+            print(industries.loc[self.sic])
