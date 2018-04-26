@@ -1,5 +1,6 @@
 import argparse
 from coursefinder.industries import industries
+from coursefinder.sic2isic import sic2isic
 
 
 class CommandlineInterface(object):
@@ -21,3 +22,5 @@ class CommandlineInterface(object):
             print('Unknown industry SIC code.')
         else:
             print(industries.loc[self.sic])
+            isic4 = sic2isic(self.sic)
+            print(isic4)
