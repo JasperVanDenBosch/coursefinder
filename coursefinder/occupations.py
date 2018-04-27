@@ -9,7 +9,6 @@ occupations = pandas.read_csv(
 )
 # occupations.dropna
 
-# occupations.Industry.str.split().str.get(0)
 code_raw = occupations.Industry.str.split().str.get(0).astype(str)
 
 
@@ -32,9 +31,7 @@ totals = occupations['All categories: Occupation (full)']
 # determine hierarchy by the number of digits in the code:
 soclevels = occupations.columns.str.split().str.get(0).str.len().values
 soclevels[0] = -1  # total columns
-# occupations.loc[str(2340)].astype(int).nlargest()
 
-#codes = ['9400', '9500']
 
 def topJobsForIndustries(codesFloat):
     codes = [str(int(code)) for code in codesFloat]
@@ -53,6 +50,3 @@ def topJobsForIndustries(codesFloat):
     for title, fraction in topjobs.iteritems():
         logger.debug('%.0f%% %s', fraction*100, title)
     return topjobs
-
-
-

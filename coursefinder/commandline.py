@@ -27,6 +27,7 @@ class CommandlineInterface(object):
         from coursefinder.industries import industries, levels
         from coursefinder.crosswalks import allCrosswalkTables, crosswalk_codes
         from coursefinder.occupations import topJobsForIndustries
+        from coursefinder.joblist import joblist
 
         codes = []
         for code in self.industry_codes:
@@ -47,5 +48,18 @@ class CommandlineInterface(object):
         for crosswalk in allCrosswalkTables:
             codes = crosswalk_codes(codes, **crosswalk)
 
-        topJobsForIndustries(codes)
+        sectorJobs = topJobsForIndustries(codes)
+        # lose codes as JOBLIST only uses names
+        sectorJobs.index = sectorJobs.index.str.lstrip('0123456789 ')
+
+        subset = joblist[joblist.JOB.isin(sectorJobs.index)]
+        subset = subset.assign(indfrac=sectorJobs.loc[subset.JOB].values)
+        subset = subset.assign(pindocc=(subset.PERC/100)*subset.indfrac)
+        subset.nlargest(5, 'pindocc')
+        # TODO Can still sum chances over jobs for same course
+        # TODO get course title etc and pretty print
+
+
+
+        
         # print(occupations.loc[str(isic4)].astype(int).nlargest())
