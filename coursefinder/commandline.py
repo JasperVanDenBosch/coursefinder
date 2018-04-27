@@ -1,6 +1,8 @@
 import argparse
 from coursefinder.industries import industries
 from coursefinder.sic2isic import sic2isic
+import logging
+logger = logging.getLogger(__name__)
 
 
 class CommandlineInterface(object):
@@ -9,7 +11,12 @@ class CommandlineInterface(object):
         parser = argparse.ArgumentParser()
         parser.add_argument('industry', type=int,
                             help='The SIC code of an industry sector.')
+        parser.add_argument('--debug', action='store_const',
+                            const=10, default=30,
+                            help='Print debug messages.')
         args = parser.parse_args()
+        logging.basicConfig(level=args.debug)
+        logger.debug('Verbosity level: %d', args.debug)
         self.sic = args.industry
 
     def recommendCourses(self):
