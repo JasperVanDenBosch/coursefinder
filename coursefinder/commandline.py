@@ -26,7 +26,7 @@ class CommandlineInterface(object):
         logger.debug('Loading data..')
         from coursefinder.industries import industries, levels
         from coursefinder.crosswalks import allCrosswalkTables, crosswalk_codes
-        # from coursefinder.occupations import occupations
+        from coursefinder.occupations import topJobsForIndustries
 
         codes = []
         for code in self.industry_codes:
@@ -47,5 +47,5 @@ class CommandlineInterface(object):
         for crosswalk in allCrosswalkTables:
             codes = crosswalk_codes(codes, **crosswalk)
 
-        # print(isic4)
+        topJobsForIndustries(codes)
         # print(occupations.loc[str(isic4)].astype(int).nlargest())

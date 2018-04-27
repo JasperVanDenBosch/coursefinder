@@ -44,8 +44,10 @@ allCrosswalkTables = [
 def crosswalk_codes(codes, table, col):
     outcodes = []
     for code in codes:
-        outcodes += table.loc[[code]][col].values.tolist()
+        outcodes += table.loc[[code]][col].dropna().values.tolist()
     outcodes = numpy.unique(outcodes).tolist()
     for outcode in outcodes:
         logger.debug('Matching %s code: %d', col, outcode)
+    if not outcodes:
+        logger.debug('No matching %s codes found.', col)
     return outcodes
