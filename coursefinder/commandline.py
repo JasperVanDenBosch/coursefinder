@@ -1,6 +1,4 @@
 import argparse
-from coursefinder.industries import industries
-from coursefinder.sic2isic import sic2isic
 import logging
 logger = logging.getLogger(__name__)
 
@@ -9,15 +7,15 @@ class CommandlineInterface(object):
 
     def parseArguments(self):
         parser = argparse.ArgumentParser()
-        parser.add_argument('industry', type=int,
-                            help='The SIC code of an industry sector.')
+        parser.add_argument('industry_codes', type=int, nargs='+',
+                            help='One or more SIC codes of industry sectors.')
         parser.add_argument('--debug', action='store_const',
                             const=10, default=30,
                             help='Print debug messages.')
         args = parser.parse_args()
         logging.basicConfig(level=args.debug)
         logger.debug('Verbosity level: %d', args.debug)
-        self.sic = args.industry
+        self.industry_codes = args.industry_codes
 
     def recommendCourses(self):
         """Print a list of courses that are a match for the given industry
@@ -25,9 +23,29 @@ class CommandlineInterface(object):
         Args:
             industry (int): SIC code
         """
-        if self.sic not in industries.index:
-            print('Unknown industry SIC code.')
-        else:
-            print(industries.loc[self.sic])
-            isic4 = sic2isic(self.sic)
-            print(isic4)
+        logger.debug('Loading data..')
+        from coursefinder.industries import industries, levels
+        from coursefinder.crosswalks import allCrosswalkTables, crosswalk_codes
+        # from coursefinder.occupations import occupations
+
+        codes = []
+        for code in self.industry_codes:
+            if code in industries.index:
+                industry = industries.loc[code]
+                name = industry[levels].dropna().values[0]
+                logger.debug('SIC %d name: %s', code, name)
+                logger.debug('SIC %d division: %s', code, industry['div'])
+                logger.debug('SIC %d level: %s', code, industry.level)
+                codes.append(code)
+            else:
+                logger.debug('Unknown SIC: %d', code)
+
+        if codes == []:
+            print('None of the SIC codes valid.')
+            return
+
+        for crosswalk in allCrosswalkTables:
+            codes = crosswalk_codes(codes, **crosswalk)
+
+        # print(isic4)
+        # print(occupations.loc[str(isic4)].astype(int).nlargest())
