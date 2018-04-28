@@ -29,13 +29,14 @@ class CommandlineInterface(object):
         from coursefinder.occupations import topJobsForIndustries
         from coursefinder.joblist import joblist
         from coursefinder.courses import courses, courseIndexCols
+        from coursefinder.providers import providers
 
         codes = []
         for code in self.industry_codes:
             if code in industries.index:
                 industry = industries.loc[code]
                 name = industry[levels].dropna().values[0]
-                logger.debug('SIC %d name: %s', code, name)
+                print('Industry name: ' + name)
                 logger.debug('SIC %d division: %s', code, industry['div'])
                 logger.debug('SIC %d level: %s', code, industry.level)
                 codes.append(code)
@@ -67,10 +68,13 @@ class CommandlineInterface(object):
         pind_by_job = comsbj_groups['pind'].mean()
         # sum over jobs
         pind = pind_by_job.groupby(courseIndexCols).sum()
-        pind.nlargest()
-        # TODO get course title etc and pretty print
-        courses.join(pind).nlargest(5, columns='pind')
-      
-        
-        # print(occupations.loc[str(isic4)].astype(int).nlargest())
-        # subset.nlargest(5, 'pind')
+        # add P(industry|course) to courses table and select 5 top matches
+        selection = courses.join(pind).nlargest(5, columns='pind')
+        # add provider info columns (name, location, etc)
+        selection = selection.join(providers, on='PUBUKPRN')
+        for idx, course in selection.iterrows():
+            print('\n')
+            print('score: {:.2f}'.format(course.pind))
+            print('name: {}'.format(course.TITLE))
+            print('provider: {}'.format(course.VIEW_NAME))
+
