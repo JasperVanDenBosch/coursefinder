@@ -48,18 +48,27 @@ class CommandlineInterface(object):
         for crosswalk in allCrosswalkTables:
             codes = crosswalk_codes(codes, **crosswalk)
 
+        courseIndexCols = ['KISCOURSEID', 'KISMODE', 'UKPRN']
+
         sectorJobs = topJobsForIndustries(codes)
-        # lose codes as JOBLIST only uses names
+        # lose code as JOBLIST only uses names
         sectorJobs.index = sectorJobs.index.str.lstrip('0123456789 ')
 
         subset = joblist[joblist.JOB.isin(sectorJobs.index)]
-        subset = subset.assign(indfrac=sectorJobs.loc[subset.JOB].values)
-        subset = subset.assign(pindocc=(subset.PERC/100)*subset.indfrac)
-        subset.nlargest(5, 'pindocc')
-        # TODO Can still sum chances over jobs for same course
+        # P(occupation|industry)
+        subset = subset.assign(poccind=sectorJobs.loc[subset.JOB].values)
+        # P(industry|course) for given occupation
+        subset = subset.assign(pind=(subset.PERC/100)*subset.poccind)
+        # identify unique courses:
+        courseIndexCols = ['KISCOURSEID', 'KISMODE', 'UKPRN']
+        subset = subset.set_index(courseIndexCols)
+        # average over COMSBJ:
+        comsbj_groups = subset.groupby(courseIndexCols+['JOB'], as_index=False)
+        pind_by_job = comsbj_groups['pind'].mean()
+        # sum over jobs
+        pind = pind_by_job.groupby(courseIndexCols).sum()
         # TODO get course title etc and pretty print
-
-
-
+      
         
         # print(occupations.loc[str(isic4)].astype(int).nlargest())
+        # subset.nlargest(5, 'pind')

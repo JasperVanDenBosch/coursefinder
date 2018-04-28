@@ -26,3 +26,14 @@ Industry-Occupation matrices
 
 - 2011 census (ISIC Rev. 4, SOC2010)
 - matrix (NAICS2012, US-SOC2010
+
+Learning Providers:
+- data from  http://learning-provider.data.ac.uk/
+
+
+KISCOURSEID is not unique:
+
+In [8]: courses.KISCOURSEID.unique().shape
+Out[8]: (32417,)
+
+also depends on KISMODE and sometimes simply short and other inst has it too
