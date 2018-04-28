@@ -53,8 +53,7 @@ class CommandlineInterface(object):
         courseIndexCols = ['KISCOURSEID', 'KISMODE', 'UKPRN']
 
         sectorJobs = topJobsForIndustries(codes)
-        # lose code as JOBLIST only uses names
-        sectorJobs.index = sectorJobs.index.str.lstrip('0123456789 ')
+
 
         subset = joblist[joblist.JOB.isin(sectorJobs.index)]
         # P(occupation|industry)

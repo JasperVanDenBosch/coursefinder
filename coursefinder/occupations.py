@@ -49,4 +49,7 @@ def topJobsForIndustries(codesFloat):
         topjobs = topjobs.append(frac.nlargest(3))
     for title, fraction in topjobs.iteritems():
         logger.debug('%.0f%% %s', fraction*100, title)
+    if topjobs.any():
+        # lose code as JOBLIST only uses names
+        topjobs.index = topjobs.index.str.lstrip('0123456789 ')
     return topjobs
