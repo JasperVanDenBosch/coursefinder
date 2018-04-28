@@ -13,3 +13,24 @@ In the directory where this code is:
 Server:
 
 nginx python3-pip supervisor
+
+## Example
+```
+$ coursefinder 9411
+Industry name: Admin. of educational programs
+
+
+score: 0.27
+name: Accounting
+provider: University of the Highlands and Islands
+
+
+score: 0.24
+name: Accounting and Finance
+provider: University of Central Lancashire
+
+
+score: 0.23
+name: Business and Human Resource Management
+provider: University of Huddersfield
+```
