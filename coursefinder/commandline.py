@@ -28,6 +28,7 @@ class CommandlineInterface(object):
         from coursefinder.crosswalks import allCrosswalkTables, crosswalk_codes
         from coursefinder.occupations import topJobsForIndustries
         from coursefinder.joblist import joblist
+        from coursefinder.courses import courses, courseIndexCols
 
         codes = []
         for code in self.industry_codes:
@@ -60,14 +61,15 @@ class CommandlineInterface(object):
         # P(industry|course) for given occupation
         subset = subset.assign(pind=(subset.PERC/100)*subset.poccind)
         # identify unique courses:
-        courseIndexCols = ['KISCOURSEID', 'KISMODE', 'UKPRN']
         subset = subset.set_index(courseIndexCols)
         # average over COMSBJ:
-        comsbj_groups = subset.groupby(courseIndexCols+['JOB'], as_index=False)
+        comsbj_groups = subset.groupby(courseIndexCols+['JOB'])
         pind_by_job = comsbj_groups['pind'].mean()
         # sum over jobs
         pind = pind_by_job.groupby(courseIndexCols).sum()
+        pind.nlargest()
         # TODO get course title etc and pretty print
+        courses.join(pind).nlargest(5, columns='pind')
       
         
         # print(occupations.loc[str(isic4)].astype(int).nlargest())
