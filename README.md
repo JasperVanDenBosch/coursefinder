@@ -1,5 +1,5 @@
 # coursefinder
-Find courses in the unistats dataset by industry
+Recommend courses from the unistats dataset for a given industry.
 
 The data are presumed to be at `~/data/coursefinder/`. 
 
