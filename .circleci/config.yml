@@ -2,15 +2,16 @@
 #
 # Check https://circleci.com/docs/2.0/language-python/ for more details
 #
+defaults: &defaults
+  working_directory: ~/repo
+  docker:
+    - image: circleci/python:3.6.1
+
 version: 2
 jobs:
   build-job:
-    docker:
-      - image: circleci/python:3.6.1
-    working_directory: ~/repo
     steps:
       - checkout
-      # Download and cache dependencies
       - restore_cache:
           keys:
           - v1-dependencies-{{ checksum "requirements.txt" }}
@@ -37,12 +38,15 @@ jobs:
           command: |
             . env/bin/activate
             python setup.py sdist
+      - persist_to_workspace:
+          root: dist
+          paths:
+            - coursefinder-0.0.tar.gz
 
   deploy-job:
-    docker:
-      - image: circleci/python:3.6.1
-    working_directory: ~/repo
     steps:
+      - attach_workspace:
+          at: dist
       - run:
           name: deploy package
           command: >-
@@ -53,7 +57,6 @@ jobs:
           name: install and start server
           command: |
             cat unpack_install_start.sh | ssh root@coursefinder.life
-
 
 workflows:
   version: 2
