@@ -39,6 +39,10 @@ jobs:
           command: |
             . env/bin/activate
             python setup.py sdist
+      - run:
+          name: add deploy script to workspace
+          command: |
+            cp unpack_install_start.sh dist/
       - persist_to_workspace:
           root: dist
           paths:
@@ -58,7 +62,7 @@ jobs:
       - run:
           name: install and start server
           command: |
-            cat unpack_install_start.sh | ssh root@coursefinder.life
+            cat dist/unpack_install_start.sh | ssh root@coursefinder.life
 
 workflows:
   version: 2
