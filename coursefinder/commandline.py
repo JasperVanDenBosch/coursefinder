@@ -40,7 +40,7 @@ class CommandlineInterface(object):
             if code in industries.index:
                 industry = industries.loc[code]
                 name = industry[levels].dropna().values[0]
-                print('Industry name: ' + name)
+                print('\nIndustry name: ' + name)
                 logger.debug('SIC %d division: %s', code, industry['div'])
                 logger.debug('SIC %d level: %s', code, industry.level)
                 codes.append(code)
@@ -51,16 +51,15 @@ class CommandlineInterface(object):
             print('None of the SIC codes valid.')
             return
 
-
-        geo_names_to_postcode_areas(self.geo_names)
+        areas = geo_names_to_postcode_areas(self.geo_names)
+        courses = courses.join(providers, on='PUBUKPRN')
+        if areas.any():
+            courses_in_range = courses[courses.POSTCODE.str[:2].isin(areas)]
 
         for crosswalk in allCrosswalkTables:
             codes = crosswalk_codes(codes, **crosswalk)
 
-        courseIndexCols = ['KISCOURSEID', 'KISMODE', 'UKPRN']
-
         sectorJobs = topJobsForIndustries(codes)
-
 
         subset = joblist[joblist.JOB.isin(sectorJobs.index)]
         # P(occupation|industry)
@@ -75,12 +74,11 @@ class CommandlineInterface(object):
         # sum over jobs
         pind = pind_by_job.groupby(courseIndexCols).sum()
         # add P(industry|course) to courses table and select 5 top matches
-        selection = courses.join(pind).nlargest(5, columns='pind')
+        selection = courses_in_range.join(pind).nlargest(5, columns='pind')
         # add provider info columns (name, location, etc)
-        selection = selection.join(providers, on='PUBUKPRN')
-        for idx, course in selection.iterrows():
+        #selection = selection.join(providers, on='PUBUKPRN')
+        for _, course in selection.iterrows():
             print('\n')
             print('score: {:.2f}'.format(course.pind))
             print('name: {}'.format(course.TITLE))
             print('provider: {}'.format(course.VIEW_NAME))
-

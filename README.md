@@ -16,21 +16,32 @@ nginx python3-pip supervisor
 
 ## Example
 ```
-$ coursefinder 9411
-Industry name: Admin. of educational programs
+$ coursefinder 9121 --regions Argyllshire Lothian
+
+Industry name: Legislative bodies
 
 
-score: 0.27
-name: Accounting
-provider: University of the Highlands and Islands
+score: 0.17
+name: Accounting and Business
+provider: University of Edinburgh
 
 
-score: 0.24
-name: Accounting and Finance
-provider: University of Central Lancashire
+score: 0.15
+name: Law
+provider: Edinburgh Napier University
 
 
-score: 0.23
-name: Business and Human Resource Management
-provider: University of Huddersfield
+score: 0.14
+name: Linguistics
+provider: University of Edinburgh
+
+
+score: 0.13
+name: Communication, Advertising and Public Relations
+provider: Edinburgh Napier University
+
+
+score: 0.13
+name: English and Film
+provider: Edinburgh Napier University
 ```
