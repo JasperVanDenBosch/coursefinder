@@ -10,6 +10,7 @@ defaults: &defaults
 version: 2
 jobs:
   build-job:
+    <<: *defaults
     steps:
       - checkout
       - restore_cache:
@@ -44,6 +45,7 @@ jobs:
             - coursefinder-0.0.tar.gz
 
   deploy-job:
+    <<: *defaults
     steps:
       - attach_workspace:
           at: dist
