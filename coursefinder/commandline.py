@@ -9,6 +9,8 @@ class CommandlineInterface(object):
         parser = argparse.ArgumentParser()
         parser.add_argument('industry_codes', type=int, nargs='+',
                             help='One or more SIC codes of industry sectors.')
+        parser.add_argument('--regions', type=str, nargs='*', default=[],
+                            help='Confine recommendations to these areas.')
         parser.add_argument('--debug', action='store_const',
                             const=10, default=30,
                             help='Print debug messages.')
@@ -16,6 +18,7 @@ class CommandlineInterface(object):
         logging.basicConfig(level=args.debug)
         logger.debug('Verbosity level: %d', args.debug)
         self.industry_codes = args.industry_codes
+        self.geo_names = args.regions
 
     def recommendCourses(self):
         """Print a list of courses that are a match for the given industry
@@ -30,6 +33,7 @@ class CommandlineInterface(object):
         from coursefinder.joblist import joblist
         from coursefinder.courses import courses, courseIndexCols
         from coursefinder.providers import providers
+        from coursefinder.postcode_areas import geo_names_to_postcode_areas
 
         codes = []
         for code in self.industry_codes:
@@ -46,6 +50,9 @@ class CommandlineInterface(object):
         if codes == []:
             print('None of the SIC codes valid.')
             return
+
+
+        geo_names_to_postcode_areas(self.geo_names)
 
         for crosswalk in allCrosswalkTables:
             codes = crosswalk_codes(codes, **crosswalk)
