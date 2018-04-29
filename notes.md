@@ -6,6 +6,15 @@ and stored them in the data/ directory of this repository.
 
 Industry: SIC 1987
 
+Geography: postcode areas / Local Government Act 1972
+Is not:
+- iso
+- counties
+- p areas
+
+but appraoch as postcode areas
+https://en.wikipedia.org/wiki/List_of_postcode_districts_in_the_United_Kingdom
+
 
 Industry classification systems
 

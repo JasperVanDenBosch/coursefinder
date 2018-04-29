@@ -1,0 +1,1755 @@
+Postcode_area,Postcode_districts,Post_town,Former_postal_county
+AB,"AB10, AB11, AB12, AB15, AB16,
+AB21, AB22, AB23, AB24, AB25,
+AB99non-geo",Aberdeen,Aberdeenshire
+AB,AB13,Milltimber,Aberdeenshire
+AB,AB14,Peterculter,Aberdeenshire
+AB,AB30,Laurencekirk,Kincardineshire
+AB,AB31,Banchory,Kincardineshire
+AB,AB32,WESTHILL,Aberdeenshire
+AB,AB33,ALFORD,Aberdeenshire
+AB,AB34,Aboyne,Aberdeenshire
+AB,AB35,Ballater,Aberdeenshire
+AB,AB36,Strathdon,Aberdeenshire
+AB,AB37,Ballindalloch,Banffshire
+AB,AB38,Aberlour,Banffshire
+AB,AB39,Stonehaven,Kincardineshire
+AB,AB41,ELLON,Aberdeenshire
+AB,AB42,Peterhead,Aberdeenshire
+AB,AB43,Fraserburgh,Aberdeenshire
+AB,AB44,MACDUFF,Banffshire
+AB,AB45,BANFF,Banffshire
+AB,AB51,Inverurie,Aberdeenshire
+AB,AB52,Insch,Aberdeenshire
+AB,AB53,Turriff,Aberdeenshire
+AB,AB54,Huntly,Aberdeenshire
+AB,AB55,KEITH,Banffshire
+AB,AB56,Buckie,Banffshire
+AL,"AL1, AL2, AL3, AL4",ST. ALBANS,Hertfordshire
+AL,AL5,Harpenden,Hertfordshire
+AL,"AL6, AL7shared",Welwyn,Hertfordshire
+AL,"AL7,shared AL8",Welwyn Garden City,Hertfordshire
+AL,"AL9,
+AL10",HATFIELD,Hertfordshire
+B,"B1, B2, B3, B4, B5, B6, B7, B8, B9,
+B10, B11, B12, B13, B14, B15, B16, B17, B18, B19,
+B20, B21, B23, B24, B25, B26, B27, B28, B29,
+B30, B31, B32, B33, B34, B35, B36, B37, B38,
+B40, B42, B43, B44, B45, B46, B47, B48,
+B99non-geo",Birmingham,West Midlands
+B,"B49,
+B50",Alcester,Warwickshire
+B,"B60, B61",Bromsgrove,Worcestershire
+B,"B62, B63",Halesowen,West Midlands
+B,B64,Cradley Heath,West Midlands
+B,B65,Rowley Regis,West Midlands
+B,"B66, B67",Smethwick,West Midlands
+B,"B68, B69",OLDBURY,West Midlands
+B,"B70, B71",West Bromwich,West Midlands
+B,"B72, B73, B74, B75, B76",Sutton Coldfield,West Midlands
+B,"B77, B78, B79",TAMWORTH,Staffordshire
+B,B80,STUDLEY,Warwickshire
+B,"B90, B91, B92, B93, B94",Solihull,West Midlands
+B,B95,Henley-in-Arden,West Midlands
+B,"B96, B97, B98",Redditch,Worcestershire
+BA,"BA1, BA2",BATH,Avon
+BA,BA3,Radstock,Avon
+BA,BA4,Shepton Mallet,Somerset
+BA,BA5,WELLS,Somerset
+BA,BA6,Glastonbury,Somerset
+BA,BA7,Castle Cary,Somerset
+BA,BA8,Templecombe,Somerset
+BA,BA9shared,Wincanton,Somerset
+BA,"BA9,non-geo shared[2]
+BA10",Bruton,Somerset
+BA,BA11,Frome,Somerset
+BA,BA12,Warminster,Wiltshire
+BA,BA13,WESTBURY,Wiltshire
+BA,BA14,Trowbridge,Wiltshire
+BA,BA15,BRADFORD-ON-AVON,Wiltshire
+BA,BA16,STREET,Somerset
+BA,"BA20, BA21, BA22",Yeovil,Somerset
+BB,"BB1, BB2, BB6",Blackburn,Lancashire
+BB,BB3,Darwen,Lancashire
+BB,BB4,Rossendale,Lancashire
+BB,BB5,Accrington,Lancashire
+BB,BB7,Clitheroe,Lancashire
+BB,BB8,Colne,Lancashire
+BB,BB9,NELSON,Lancashire
+BB,"BB10, BB11, BB12",Burnley,Lancashire
+BB,"BB18,
+BB94non-geo",Barnoldswick,Lancashire
+BD,"BD1, BD2, BD3, BD4, BD5, BD6, BD7, BD8, BD9,
+BD10, BD11, BD12, BD13, BD14, BD15,
+BD98,non-geo shared BD99non-geo",Bradford,West Yorkshire
+BD,"BD16,
+BD97non-geo",Bingley,West Yorkshire
+BD,"BD17, BD18,
+BD98non-geo shared",SHIPLEY,West Yorkshire
+BD,BD19,Cleckheaton,West Yorkshire
+BD,"BD20, BD21, BD22",Keighley,West Yorkshire
+BD,"BD23, BD24shared",Skipton,North Yorkshire
+BD,BD24shared,SETTLE,North Yorkshire
+BF,BF1non-geo,BFPO,non-geographic
+BH,"BH1, BH2, BH3, BH4, BH5, BH6, BH7, BH8, BH9,
+BH10, BH11",Bournemouth,Dorset
+BH,"BH12, BH13, BH14, BH15, BH16, BH17",Poole,Dorset
+BH,BH18,BROADSTONE,Dorset
+BH,BH19,Swanage,Dorset
+BH,BH20,WAREHAM,Dorset
+BH,BH21,WIMBORNE,Dorset
+BH,BH22,Ferndown,Dorset
+BH,BH23,CHRISTCHURCH,Dorset
+BH,BH24,Ringwood,Hampshire
+BH,BH25,New Milton,Hampshire
+BH,BH31,Verwood,Dorset
+BL,"BL0, BL8, BL9",Bury,Lancashire
+BL,"BL1, BL2, BL3, BL4, BL5, BL6, BL7,
+BL11,non-geo
+BL78non-geo",Bolton,Lancashire
+BN,"BN1, BN2,
+BN41, BN42, BN45,
+BN50,non-geo BN51,non-geo
+BN88non-geo",Brighton,East Sussex
+BN,"BN3,
+BN52non-geo",Hove,East Sussex
+BN,BN5,Henfield,West Sussex
+BN,BN6,Hassocks,West Sussex
+BN,"BN7, BN8",Lewes,East Sussex
+BN,BN9,NEWHAVEN,East Sussex
+BN,BN10,Peacehaven,East Sussex
+BN,"BN11, BN12, BN13, BN14,
+BN91,non-geo[3] BN99non-geo shared",Worthing,West Sussex
+BN,"BN15,
+BN99non-geo shared",LANCING,West Sussex
+BN,"BN16, BN17",Littlehampton,West Sussex
+BN,BN18,Arundel,West Sussex
+BN,"BN20, BN21, BN22, BN23",Eastbourne,East Sussex
+BN,BN24,Pevensey,East Sussex
+BN,BN25,SEAFORD,East Sussex
+BN,BN26,Polegate,East Sussex
+BN,BN27,Hailsham,East Sussex
+BN,BN43,Shoreham-by-Sea,West Sussex
+BN,BN44,Steyning,West Sussex
+BR,"BR1, BR2shared",Bromley,Kent
+BR,BR2shared,Keston,Kent
+BR,BR3,Beckenham,Kent
+BR,BR4,West Wickham,Kent
+BR,"BR5, BR6",Orpington,Kent
+BR,BR7,Chislehurst,Kent
+BR,BR8,Swanley,Kent
+BS,"BS0,non-geo[3][4] BS1, BS2, BS3, BS4, BS5, BS6, BS7, BS8, BS9,
+BS10, BS11, BS13, BS14, BS15, BS16,
+BS20,
+BS30, BS31, BS32, BS34, BS35, BS36, BS37, BS39,
+BS40, BS41, BS48, BS49,
+BS80,non-geo
+BS98,non-geo BS99non-geo",Bristol,Avon
+BS,BS21,Clevedon,Avon
+BS,"BS22, BS23, BS24",Weston-super-Mare,Avon
+BS,BS25,Winscombe,Avon
+BS,BS26,Axbridge,Somerset
+BS,BS27,CHEDDAR,Somerset
+BS,BS28,Wedmore,Somerset
+BS,BS29,Banwell,Avon
+BT,"BT1, BT2, BT3, BT4, BT5, BT6, BT7, BT8, BT9,
+BT10, BT11, BT12, BT13, BT14, BT15, BT16, BT17,
+BT29shared",Belfast,County Antrim
+BT,BT18,Holywood,County Down
+BT,"BT19,
+BT20",BANGOR,County Down
+BT,BT21,Donaghadee,County Down
+BT,"BT22, BT23",Newtownards,County Down
+BT,BT24,BALLYNAHINCH,County Down
+BT,BT25,DROMORE,County Down
+BT,BT26,HILLSBOROUGH,County Down
+BT,"BT27, BT28",Lisburn,County Antrim
+BT,BT29shared,CRUMLIN,County Antrim
+BT,BT30,Downpatrick,County Down
+BT,BT31,Castlewellan,County Down
+BT,BT32,Banbridge,County Down
+BT,BT33,NEWCASTLE,County Down
+BT,"BT34, BT35",Newry,County Down
+BT,"BT36, BT37,
+BT58non-geo",Newtownabbey,County Antrim
+BT,BT38,Carrickfergus,County Antrim
+BT,BT39,Ballyclare,County Antrim
+BT,BT40,Larne,County Antrim
+BT,BT41,ANTRIM,County Antrim
+BT,"BT42, BT43, BT44",Ballymena,County Antrim
+BT,BT45,Magherafelt,County Londonderry
+BT,BT46,Maghera,County Londonderry
+BT,"BT47, BT48",LONDONDERRY,County Londonderry
+BT,BT49,Limavady,County Londonderry
+BT,"BT51, BT52",Coleraine,County Londonderry
+BT,BT53,Ballymoney,County Antrim
+BT,BT54,BALLYCASTLE,County Antrim
+BT,BT55,Portstewart,County Londonderry
+BT,BT56,Portrush,County Antrim
+BT,BT57,Bushmills,County Antrim
+BT,"BT60, BT61",Armagh,County Armagh
+BT,"BT62, BT63, BT64, BT65, BT66, BT67",Craigavon,County Armagh
+BT,BT68,CALEDON,County Tyrone
+BT,BT69,AUGHNACLOY,County Tyrone
+BT,"BT70, BT71",Dungannon,County Tyrone
+BT,"BT74,
+BT92, BT93, BT94",Enniskillen,County Fermanagh
+BT,BT75,Fivemiletown,County Tyrone
+BT,BT76,Clogher,County Tyrone
+BT,BT77,Augher,County Tyrone
+BT,"BT78, BT79",Omagh,County Tyrone
+BT,BT80,Cookstown,County Tyrone
+BT,BT81,Castlederg,County Tyrone
+BT,BT82,Strabane,County Tyrone
+BX,variesnon-geo,not applicable,non-geographic
+CA,"CA1, CA2, CA3, CA4, CA5, CA6,
+CA99non-geo",CARLISLE,Cumbria
+CA,CA7,Wigton,Cumbria
+CA,CA8,BRAMPTON,Cumbria
+CA,CA9,ALSTON,Cumbria
+CA,"CA10, CA11",PENRITH,Cumbria
+CA,CA12,KESWICK,Cumbria
+CA,CA13,Cockermouth,Cumbria
+CA,"CA14,
+CA95non-geo",Workington,Cumbria
+CA,CA15,Maryport,Cumbria
+CA,CA16,Appleby-in-Westmorland,Cumbria
+CA,CA17,Kirkby Stephen,Cumbria
+CA,CA18,Ravenglass,Cumbria
+CA,CA19,Holmrook,Cumbria
+CA,CA20,Seascale,Cumbria
+CA,CA21,Beckermet,Cumbria
+CA,CA22,EGREMONT,Cumbria
+CA,CA23,Cleator,Cumbria
+CA,CA24,Moor Row,Cumbria
+CA,CA25,Cleator Moor,Cumbria
+CA,CA26,Frizington,Cumbria
+CA,CA27,ST. BEES,Cumbria
+CA,CA28,Whitehaven,Cumbria
+CB,"CB1, CB2, CB3, CB4, CB5,
+CB21, CB22, CB23, CB24, CB25",Cambridge,Cambridgeshire
+CB,"CB6, CB7",ELY,Cambridgeshire
+CB,CB8,NEWMARKET,Suffolk
+CB,CB9,HAVERHILL,Suffolk
+CB,"CB10, CB11",Saffron Walden,Essex
+CF,"CF3, CF5,
+CF10, CF11, CF14, CF15,
+CF23, CF24,
+CF30,non-geo
+CF91,non-geo CF95,non-geo CF99non-geo",Cardiff,South Glamorgan
+CF,"CF31, CF32, CF33, CF35",Bridgend,Mid Glamorgan
+CF,CF34,Maesteg,Mid Glamorgan
+CF,CF36,Porthcawl,Mid Glamorgan
+CF,"CF37, CF38",Pontypridd,Mid Glamorgan
+CF,CF39,Porth,Mid Glamorgan
+CF,CF40,Tonypandy,Mid Glamorgan
+CF,CF41,Pentre,Mid Glamorgan
+CF,CF42,Treorchy,Mid Glamorgan
+CF,CF43,FERNDALE,Mid Glamorgan
+CF,CF44,Aberdare,Mid Glamorgan
+CF,CF45,MOUNTAIN ASH,Mid Glamorgan
+CF,CF46,Treharris,Mid Glamorgan
+CF,"CF47, CF48",Merthyr Tydfil,Mid Glamorgan
+CF,"CF61,
+CF71shared",Llantwit Major,South Glamorgan
+CF,"CF62, CF63",BARRY,South Glamorgan
+CF,CF64shared,Dinas Powys,South Glamorgan
+CF,CF64shared,Penarth,South Glamorgan
+CF,CF71shared,Cowbridge,South Glamorgan
+CF,CF72,Pontyclun,Mid Glamorgan
+CF,CF81,Bargoed,Mid Glamorgan
+CF,CF82,Hengoed,Mid Glamorgan
+CF,CF83,Caerphilly,Mid Glamorgan
+CH,"CH1, CH2, CH3, CH4,
+CH70,non-geo
+CH88,non-geo
+CH99non-geo",Chester,Cheshire
+CH,CH5,Deeside,Clwyd
+CH,CH6shared,Bagillt,Clwyd
+CH,CH6shared,FLINT,Clwyd
+CH,CH7shared,Buckley,Clwyd
+CH,CH7shared,MOLD,Clwyd
+CH,CH8,Holywell,Clwyd
+CH,"CH25,non-geo
+CH41, CH42",Birkenhead,Merseyside
+CH,"CH26,non-geo
+CH43",Prenton,Merseyside
+CH,"CH27,non-geo
+CH44, CH45",Wallasey,Merseyside
+CH,"CH28,non-geo CH29,non-geo
+CH30,non-geo CH31,non-geo CH32,non-geo
+CH46, CH47, CH48, CH49,
+CH60, CH61, CH62, CH63",WIRRAL,Merseyside
+CH,"CH33,non-geo
+CH64",Neston,Merseyside
+CH,"CH34,non-geo
+CH65, CH66",Ellesmere Port,Merseyside
+CM,CM0shared,Burnham-on-Crouch,Essex
+CM,CM0shared,Southminster,Essex
+CM,"CM1, CM2, CM3,
+CM92,non-geo CM98,non-geo CM99non-geo",Chelmsford,Essex
+CM,CM4,Ingatestone,Essex
+CM,CM5,ONGAR,Essex
+CM,"CM6, CM7non-geo shared[5]",DUNMOW,Essex
+CM,"CM7,shared
+CM77",BRAINTREE,Essex
+CM,CM8,Witham,Essex
+CM,CM9,MALDON,Essex
+CM,"CM11, CM12",Billericay,Essex
+CM,"CM13, CM14, CM15",BRENTWOOD,Essex
+CM,CM16,EPPING,Essex
+CM,"CM17, CM18, CM19,
+CM20",Harlow,Essex
+CM,CM21,Sawbridgeworth,Hertfordshire
+CM,"CM22, CM23",Bishop's Stortford,Hertfordshire
+CM,CM24,STANSTED,Essex
+CO,"CO1, CO2, CO3, CO4, CO5, CO6, CO7",Colchester,Essex
+CO,CO8,BURES,Suffolk
+CO,CO9,Halstead,Essex
+CO,CO10,SUDBURY,Suffolk
+CO,CO11,Manningtree,Essex
+CO,CO12,Harwich,Essex
+CO,CO13,Frinton-on-Sea,Essex
+CO,CO14,WALTON ON THE NAZE,Essex
+CO,"CO15, CO16",Clacton-on-Sea,Essex
+CR,"CR0, CR9,non-geo
+CR44,non-geo
+CR90non-geo",Croydon,Surrey
+CR,CR2,South Croydon,Surrey
+CR,CR3shared,Caterham,Surrey
+CR,CR3shared,Whyteleafe,Surrey
+CR,CR4,Mitcham,Surrey
+CR,CR5,Coulsdon,Surrey
+CR,CR6,Warlingham,Surrey
+CR,CR7,Thornton Heath,Surrey
+CR,CR8shared,Kenley,Surrey
+CR,CR8shared,PURLEY,Surrey
+CT,"CT1, CT2, CT3, CT4",Canterbury,Kent
+CT,CT5,Whitstable,Kent
+CT,CT6,HERNE BAY,Kent
+CT,"CT7, CT9non-geo shared[6]",BIRCHINGTON,Kent
+CT,CT8,Westgate-on-Sea,Kent
+CT,CT9shared,Margate,Kent
+CT,CT10,Broadstairs,Kent
+CT,"CT11, CT12",Ramsgate,Kent
+CT,CT13,SANDWICH,Kent
+CT,CT14,DEAL,Kent
+CT,"CT15, CT16, CT17",Dover,Kent
+CT,"CT18, CT19,
+CT20,
+CT50non-geo",Folkestone,Kent
+CT,CT21,HYTHE,Kent
+CV,"CV1, CV2, CV3, CV4, CV5, CV6, CV7, CV8shared",Coventry,West Midlands
+CV,CV8shared,Kenilworth,Warwickshire
+CV,CV9,Atherstone,Warwickshire
+CV,"CV10, CV11, CV13",Nuneaton,Warwickshire
+CV,CV12,Bedworth,Warwickshire
+CV,"CV21, CV22, CV23",RUGBY,Warwickshire
+CV,"CV31, CV32, CV33",LEAMINGTON SPA,Warwickshire
+CV,"CV34, CV35",Warwick,Warwickshire
+CV,"CV36, CV37shared",Shipston-on-Stour,Warwickshire
+CV,CV37shared,Stratford-upon-Avon,Warwickshire
+CV,CV47,Southam,Warwickshire
+CW,"CW1, CW2, CW3, CW4,
+CW98non-geo",Crewe,Cheshire
+CW,CW5,Nantwich,Cheshire
+CW,CW6,Tarporley,Cheshire
+CW,CW7,Winsford,Cheshire
+CW,"CW8, CW9",Northwich,Cheshire
+CW,CW10,Middlewich,Cheshire
+CW,CW11,Sandbach,Cheshire
+CW,CW12,Congleton,Cheshire
+DA,"DA1, DA2, DA4,
+DA10shared",Dartford,Kent
+DA,DA3,Longfield,Kent
+DA,DA5,Bexley,Kent
+DA,"DA6, DA7shared",Bexleyheath,Kent
+DA,"DA7,non-geo shared[5]
+DA16",Welling,Kent
+DA,"DA8,
+DA18",Erith,Kent
+DA,DA9,Greenhithe,Kent
+DA,DA10shared,Swanscombe,Kent
+DA,"DA11, DA12, DA13",GRAVESEND,Kent
+DA,"DA14, DA15",Sidcup,Kent
+DA,DA17,BELVEDERE,Kent
+DD,"DD1, DD2, DD3, DD4, DD5",Dundee,Angus
+DD,DD6shared,Newport-on-Tay,Fife
+DD,DD6shared,Tayport,Fife
+DD,DD7,Carnoustie,Angus
+DD,DD8shared,Forfar,Angus
+DD,DD8shared,Kirriemuir,Angus
+DD,DD9,Brechin,Angus
+DD,DD10,MONTROSE,Angus
+DD,DD11,Arbroath,Angus
+DE,"DE1, DE3,
+DE21, DE22, DE23, DE24,
+DE65,
+DE72, DE73, DE74,
+DE99non-geo",Derby,Derbyshire
+DE,DE4,MATLOCK,Derbyshire
+DE,DE5,RIPLEY,Derbyshire
+DE,DE6,ASHBOURNE,Derbyshire
+DE,DE7,Ilkeston,Derbyshire
+DE,"DE11, DE12",Swadlincote,Derbyshire
+DE,"DE13, DE14, DE15",BURTON-ON-TRENT,Staffordshire
+DE,DE45,Bakewell,Derbyshire
+DE,DE55,Alfreton,Derbyshire
+DE,DE56,Belper,Derbyshire
+DE,DE75,Heanor,Derbyshire
+DG,"DG1, DG2",Dumfries,Dumfriesshire
+DG,DG3,THORNHILL,Dumfriesshire
+DG,DG4,Sanquhar,Dumfriesshire
+DG,DG5,Dalbeattie,Kirkcudbrightshire
+DG,DG6,Kirkcudbright,Kirkcudbrightshire
+DG,DG7,Castle Douglas,Kirkcudbrightshire
+DG,DG8,Newton Stewart,Wigtownshire
+DG,DG9,Stranraer,Wigtownshire
+DG,DG10,Moffat,Dumfriesshire
+DG,DG11,Lockerbie,Dumfriesshire
+DG,DG12,ANNAN,Dumfriesshire
+DG,DG13,Langholm,Dumfriesshire
+DG,DG14,Canonbie,Dumfriesshire
+DG,DG16,GRETNA,Dumfriesshire
+DH,"DH1, DH6, DH7, DH8,shared
+DH97,non-geo DH98,non-geo DH99non-geo",DURHAM,County Durham
+DH,"DH2, DH3",CHESTER LE STREET,County Durham
+DH,"DH4, DH5",HOUGHTON LE SPRING,Tyne and Wear
+DH,DH8shared,Consett,County Durham
+DH,"DH8,shared DH9",STANLEY,County Durham
+DL,"DL1, DL2, DL3,
+DL98non-geo[7][8]",Darlington,County Durham
+DL,DL4,Shildon,County Durham
+DL,DL5,Newton Aycliffe,County Durham
+DL,"DL6, DL7",Northallerton,North Yorkshire
+DL,DL8shared,Bedale,North Yorkshire
+DL,DL8shared,Hawes,North Yorkshire
+DL,DL8shared,Leyburn,North Yorkshire
+DL,DL9,Catterick Garrison,North Yorkshire
+DL,"DL10, DL11",RICHMOND,North Yorkshire
+DL,DL12,Barnard Castle,County Durham
+DL,"DL13, DL14",Bishop Auckland,County Durham
+DL,DL15,CROOK,County Durham
+DL,DL16shared,Spennymoor,County Durham
+DL,"DL16,non-geo shared[5] DL17",Ferryhill,County Durham
+DN,"DN1, DN2, DN3, DN4, DN5, DN6, DN7, DN8, DN9,
+DN10, DN11, DN12,
+DN55non-geo",Doncaster,South Yorkshire
+DN,DN14,Goole,North Humberside
+DN,"DN15, DN16, DN17",Scunthorpe,South Humberside
+DN,DN18,Barton-upon-Humber,South Humberside
+DN,DN19,BARROW-UPON-HUMBER,South Humberside
+DN,DN20,Brigg,South Humberside
+DN,DN21,GAINSBOROUGH,Lincolnshire
+DN,DN22,Retford,Nottinghamshire
+DN,"DN31, DN32, DN33, DN34, DN36, DN37,
+DN41",Grimsby,South Humberside
+DN,DN35,Cleethorpes,South Humberside
+DN,DN38,Barnetby,South Humberside
+DN,DN39,ULCEBY,South Humberside
+DN,DN40,Immingham,South Humberside
+DT,"DT1, DT2",DORCHESTER,Dorset
+DT,"DT3, DT4",WEYMOUTH,Dorset
+DT,DT5,PORTLAND,Dorset
+DT,DT6,Bridport,Dorset
+DT,DT7,Lyme Regis,Dorset
+DT,DT8,Beaminster,Dorset
+DT,DT9,Sherborne,Dorset
+DT,DT10,Sturminster Newton,Dorset
+DT,DT11,Blandford Forum,Dorset
+DY,"DY1, DY2, DY3",Dudley,West Midlands
+DY,DY4,Tipton,West Midlands
+DY,DY5,Brierley Hill,West Midlands
+DY,DY6,Kingswinford,West Midlands
+DY,"DY7, DY8, DY9",Stourbridge,West Midlands
+DY,"DY10, DY11, DY14",Kidderminster,Worcestershire
+DY,DY12,Bewdley,Worcestershire
+DY,DY13,Stourport-on-Severn,Worcestershire
+E,"E1, E1W,
+E2, E3, E4, E5, E6, E7, E8, E9,
+E10, E11, E12, E13, E14, E15, E16, E17, E18,
+E20,
+E77,non-geo
+E98non-geo",LONDON,London
+EC,"EC1A, EC1M, EC1N, EC1P,non-geo EC1R, EC1V, EC1Y,
+EC2A, EC2M, EC2N, EC2P,non-geo EC2R, EC2V, EC2Y,
+EC3A, EC3M, EC3N, EC3P,non-geo EC3R, EC3V,
+EC4A, EC4M, EC4N, EC4P,non-geo EC4R, EC4V, EC4Y,
+EC50non-geo",LONDON,London
+EH,"EH1, EH2, EH3, EH4, EH5, EH6, EH7, EH8, EH9,
+EH10, EH11, EH12, EH13, EH14,shared EH15, EH16, EH17,
+EH91,non-geo EH95,non-geo EH99non-geo",Edinburgh,Midlothian
+EH,EH14shared,Balerno,Midlothian
+EH,EH14shared,Currie,Midlothian
+EH,EH14shared,Juniper Green,Midlothian
+EH,EH18,Lasswade,Midlothian
+EH,EH19,Bonnyrigg,Midlothian
+EH,EH20,Loanhead,Midlothian
+EH,EH21,Musselburgh,Midlothian
+EH,EH22,Dalkeith,Midlothian
+EH,EH23,Gorebridge,Midlothian
+EH,EH24,ROSEWELL,Midlothian
+EH,EH25,ROSLIN,Midlothian
+EH,EH26,Penicuik,Midlothian
+EH,EH27,KIRKNEWTON,Midlothian
+EH,EH28,NEWBRIDGE,Midlothian
+EH,EH29,Kirkliston,West Lothian
+EH,EH30,South Queensferry,West Lothian
+EH,EH31,Gullane,East Lothian
+EH,EH32shared,Longniddry,East Lothian
+EH,EH32shared,Prestonpans,East Lothian
+EH,"EH33, EH34, EH35",Tranent,East Lothian
+EH,EH36,Humbie,East Lothian
+EH,EH37,PATHHEAD,Midlothian
+EH,EH38,HERIOT,Midlothian
+EH,EH39,North Berwick,East Lothian
+EH,EH40,East Linton,East Lothian
+EH,EH41,HADDINGTON,East Lothian
+EH,EH42,Dunbar,East Lothian
+EH,EH43,Walkerburn,Peeblesshire
+EH,EH44,Innerleithen,Peeblesshire
+EH,EH45,Peebles,Peeblesshire
+EH,EH46,West Linton,Peeblesshire
+EH,"EH47, EH48",Bathgate,West Lothian
+EH,EH49,Linlithgow,West Lothian
+EH,EH51,Bo'ness,West Lothian
+EH,EH52,BROXBURN,West Lothian
+EH,"EH53, EH54",LIVINGSTON,West Lothian
+EH,EH55,West Calder,West Lothian
+EN,"EN1, EN2, EN3",ENFIELD,Middlesex
+EN,"EN4, EN5",BARNET,Hertfordshire
+EN,EN6,Potters Bar,Hertfordshire
+EN,"EN7, EN8,
+EN77non-geo[3]",Waltham Cross,Hertfordshire
+EN,EN9,WALTHAM ABBEY,Essex
+EN,"EN10, EN11non-geo shared[5]",Broxbourne,Hertfordshire
+EN,EN11shared,Hoddesdon,Hertfordshire
+EX,"EX1, EX2, EX3, EX4, EX5, EX6",Exeter,Devon
+EX,EX7,Dawlish,Devon
+EX,EX8,Exmouth,Devon
+EX,EX9,Budleigh Salterton,Devon
+EX,EX10,Sidmouth,Devon
+EX,EX11,OTTERY ST. MARY,Devon
+EX,EX12,SEATON,Devon
+EX,EX13,Axminster,Devon
+EX,EX14,Honiton,Devon
+EX,EX15,Cullompton,Devon
+EX,EX16,TIVERTON,Devon
+EX,EX17,Crediton,Devon
+EX,EX18,Chulmleigh,Devon
+EX,EX19,Winkleigh,Devon
+EX,EX20shared,North Tawton,Devon
+EX,EX20shared,Okehampton,Devon
+EX,EX21,Beaworthy,Devon
+EX,EX22,HOLSWORTHY,Devon
+EX,EX23,Bude,Cornwall
+EX,EX24,COLYTON,Devon
+EX,"EX31, EX32",Barnstaple,Devon
+EX,EX33,Braunton,Devon
+EX,EX34shared,Ilfracombe,Devon
+EX,EX34shared,Woolacombe,Devon
+EX,EX35shared,Lynmouth,Devon
+EX,EX35shared,Lynton,Devon
+EX,EX36,South Molton,Devon
+EX,EX37,Umberleigh,Devon
+EX,EX38,TORRINGTON,Devon
+EX,EX39,Bideford,Devon
+FK,"FK1, FK2",Falkirk,Stirlingshire
+FK,FK3,Grangemouth,Stirlingshire
+FK,FK4,Bonnybridge,Stirlingshire
+FK,FK5,Larbert,Stirlingshire
+FK,FK6,DENNY,Stirlingshire
+FK,"FK7, FK8, FK9",Stirling,Stirlingshire
+FK,FK10shared,Alloa,Clackmannanshire
+FK,FK10shared,Clackmannan,Clackmannanshire
+FK,FK11,Menstrie,Clackmannanshire
+FK,FK12,ALVA,Clackmannanshire
+FK,FK13,Tillicoultry,Clackmannanshire
+FK,FK14,DOLLAR,Clackmannanshire
+FK,FK15,Dunblane,Perthshire
+FK,FK16,Doune,Perthshire
+FK,"FK17, FK18",Callander,Perthshire
+FK,FK19,Lochearnhead,Perthshire
+FK,FK20,Crianlarich,Perthshire
+FK,FK21,Killin,Perthshire
+FY,"FY0,non-geo FY1, FY2, FY3, FY4",Blackpool,Lancashire
+FY,FY5,Thornton-Cleveleys,Lancashire
+FY,FY6,Poulton-le-Fylde,Lancashire
+FY,FY7,Fleetwood,Lancashire
+FY,FY8,LYTHAM ST. ANNES,Lancashire
+G,"G1, G2, G3, G4, G5, G9,non-geo
+G11, G12, G13, G14, G15,
+G20, G21, G22, G23,
+G31, G32, G33, G34,
+G40, G41, G42, G43, G44, G45, G46,
+G51, G52, G53, G58,non-geo
+G60, G61, G62, G63, G64, G65, G66, G67, G68, G69,
+G70,non-geo G71, G72, G73, G74, G75, G76, G77, G78, G79,non-geo
+G90non-geo",Glasgow,Lanarkshire
+G,G81,Clydebank,Dunbartonshire
+G,G82,Dumbarton,Dunbartonshire
+G,G83shared,ALEXANDRIA,Dunbartonshire
+G,G83shared,ARROCHAR,Dunbartonshire
+G,G84,Helensburgh,Dunbartonshire
+GL,"GL1, GL2, GL3, GL4,
+GL19",Gloucester,Gloucestershire
+GL,"GL5, GL6",Stroud,Gloucestershire
+GL,GL7shared,Cirencester,Gloucestershire
+GL,GL7shared,Fairford,Gloucestershire
+GL,GL7shared,Lechlade,Gloucestershire
+GL,GL8,Tetbury,Gloucestershire
+GL,GL9,BADMINTON,Avon
+GL,GL10,STONEHOUSE,Gloucestershire
+GL,GL11shared,Dursley,Gloucestershire
+GL,"GL11,non-geo shared[5] GL12",Wotton-under-Edge,Gloucestershire
+GL,GL13,BERKELEY,Gloucestershire
+GL,GL14shared,Cinderford,Gloucestershire
+GL,GL14shared,NEWNHAM,Gloucestershire
+GL,GL14shared,Westbury-on-Severn,Gloucestershire
+GL,GL15shared,BLAKENEY,Gloucestershire
+GL,GL15shared,Lydney,Gloucestershire
+GL,GL16,COLEFORD,Gloucestershire
+GL,GL17shared,Drybrook,Gloucestershire
+GL,GL17shared,Longhope,Gloucestershire
+GL,GL17shared,Lydbrook,Gloucestershire
+GL,GL17shared,Mitcheldean,Gloucestershire
+GL,GL17shared,Ruardean,Gloucestershire
+GL,GL18shared,Dymock,Gloucestershire
+GL,GL18shared,Newent,Gloucestershire
+GL,GL20,Tewkesbury,Gloucestershire
+GL,"GL50, GL51, GL52, GL53, GL54",Cheltenham,Gloucestershire
+GL,GL55,Chipping Campden,Gloucestershire
+GL,GL56,Moreton-in-Marsh,Gloucestershire
+GU,"GU1, GU2, GU3, GU4, GU5",Guildford,Surrey
+GU,GU6,Cranleigh,Surrey
+GU,"GU7, GU8",Godalming,Surrey
+GU,"GU9,
+GU10",Farnham,Surrey
+GU,"GU11, GU12",Aldershot,Hampshire
+GU,GU14,FARNBOROUGH,Hampshire
+GU,"GU15, GU16, GU17,
+GU95non-geo",Camberley,Surrey
+GU,GU18,Lightwater,Surrey
+GU,GU19,Bagshot,Surrey
+GU,GU20,Windlesham,Surrey
+GU,"GU21, GU22, GU23, GU24",Woking,Surrey
+GU,GU25,Virginia Water,Surrey
+GU,"GU26, GU27non-geo shared[5]",Hindhead,Surrey
+GU,GU27shared,Haslemere,Surrey
+GU,GU28,Petworth,West Sussex
+GU,GU29,Midhurst,West Sussex
+GU,GU30,Liphook,Hampshire
+GU,"GU31, GU32",Petersfield,Hampshire
+GU,GU33,Liss,Hampshire
+GU,GU34,ALTON,Hampshire
+GU,GU35,Bordon,Hampshire
+GU,GU46,Yateley,Hampshire
+GU,GU47,SANDHURST,Berkshire
+GU,"GU51, GU52",FLEET,Hampshire
+GY,"GY1, GY2, GY3, GY4, GY5, GY6, GY7, GY8, GY9,
+GY10",Guernsey,Channel Islesnot
+HA,"HA0, HA9",Wembley,Middlesex
+HA,"HA1, HA2, HA3",HARROW,Middlesex
+HA,HA4,Ruislip,Middlesex
+HA,HA5,Pinner,Middlesex
+HA,HA6,NORTHWOOD,Middlesex
+HA,HA7,Stanmore,Middlesex
+HA,HA8,Edgware,Middlesex
+HD,"HD1, HD2, HD3, HD4, HD5, HD7, HD8",Huddersfield,West Yorkshire
+HD,HD6,Brighouse,West Yorkshire
+HD,HD9,Holmfirth,West Yorkshire
+HG,"HG1, HG2, HG3",Harrogate,North Yorkshire
+HG,HG4,Ripon,North Yorkshire
+HG,HG5,Knaresborough,North Yorkshire
+HP,"HP1, HP2, HP3",Hemel Hempstead,Hertfordshire
+HP,HP4,Berkhamsted,Hertfordshire
+HP,HP5,Chesham,Buckinghamshire
+HP,"HP6, HP7",Amersham,Buckinghamshire
+HP,HP8,CHALFONT ST. GILES,Buckinghamshire
+HP,HP9,Beaconsfield,Buckinghamshire
+HP,"HP10, HP11, HP12, HP13, HP14, HP15",High Wycombe,Buckinghamshire
+HP,HP16,Great Missenden,Buckinghamshire
+HP,"HP17, HP18, HP19,
+HP20, HP21, HP22shared",Aylesbury,Buckinghamshire
+HP,"HP22,non-geo shared[5] HP27",Princes Risborough,Buckinghamshire
+HP,HP23,Tring,Hertfordshire
+HR,"HR1, HR2, HR3, HR4",Hereford,Herefordshire
+HR,HR5,KINGTON,Herefordshire
+HR,HR6,Leominster,Herefordshire
+HR,HR7,Bromyard,Herefordshire
+HR,HR8,Ledbury,Herefordshire
+HR,HR9,Ross-on-Wye,Herefordshire
+HS,HS1,Stornoway,Isle of Lewis
+HS,HS2,ISLE OF LEWIS,Isle of Lewis
+HS,"HS3, HS5",ISLE OF HARRIS,Isle of Harris
+HS,HS4,ISLE OF SCALPAY,Isle of Scalpay
+HS,HS6,ISLE OF NORTH UIST,Isle of North Uist
+HS,HS7,ISLE OF BENBECULA,Isle of Benbecula
+HS,HS8,ISLE OF SOUTH UIST,Inverness-shire
+HS,HS9,ISLE OF BARRA,Isle of Barra
+HU,"HU1, HU2, HU3, HU4, HU5, HU6, HU7, HU8, HU9,
+HU10, HU11, HU12",HULL,North Humberside
+HU,HU13,Hessle,North Humberside
+HU,HU14,North Ferriby,North Humberside
+HU,HU15,BROUGH,North Humberside
+HU,"HU16,
+HU20",COTTINGHAM,North Humberside
+HU,HU17,Beverley,North Humberside
+HU,HU18,Hornsea,North Humberside
+HU,HU19,Withernsea,North Humberside
+HX,"HX1,non-geo shared[6] HX5",Elland,West Yorkshire
+HX,"HX1,shared HX2, HX3, HX4",HALIFAX,West Yorkshire
+HX,HX6,Sowerby Bridge,West Yorkshire
+HX,HX7,Hebden Bridge,West Yorkshire
+IG,"IG1, IG2, IG3, IG4, IG5, IG6",Ilford,Essex
+IG,"IG7, IG8non-geo shared[6]",Chigwell,Essex
+IG,IG8shared,Woodford Green,Essex
+IG,IG9,Buckhurst Hill,Essex
+IG,IG10,Loughton,Essex
+IG,IG11,Barking,Essex
+IM,"IM1, IM2, IM3, IM4, IM5, IM6, IM7, IM8, IM9,
+IM99non-geo",Isle of Man,Isle of Mannot
+IP,"IP1, IP2, IP3, IP4, IP5, IP6, IP7, IP8, IP9,
+IP10",Ipswich,Suffolk
+IP,IP11,Felixstowe,Suffolk
+IP,"IP12, IP13",WOODBRIDGE,Suffolk
+IP,IP14,Stowmarket,Suffolk
+IP,IP15,Aldeburgh,Suffolk
+IP,IP16,Leiston,Suffolk
+IP,IP17,Saxmundham,Suffolk
+IP,IP18,Southwold,Suffolk
+IP,IP19,Halesworth,Suffolk
+IP,IP20,HARLESTON,Norfolk
+IP,"IP21,shared IP22,
+IP98non-geo",Diss,Norfolk
+IP,"IP21,shared IP23",EYE,Suffolk
+IP,"IP24, IP25, IP26",Thetford,Norfolk
+IP,IP27,BRANDON,Suffolk
+IP,"IP28, IP29,
+IP30, IP31, IP32, IP33",BURY ST. EDMUNDS,Suffolk
+IV,"IV1, IV2, IV3, IV5,
+IV13,
+IV63,
+IV99non-geo",Inverness,Inverness-shire
+IV,IV4,Beauly,Inverness-shire
+IV,IV6,Muir of Ord,Ross-shire
+IV,"IV7,
+IV15, IV16",Dingwall,Ross-shire
+IV,IV8,Munlochy,Ross-shire
+IV,IV9,Avoch,Ross-shire
+IV,IV10,Fortrose,Ross-shire
+IV,IV11,Cromarty,Ross-shire
+IV,IV12,Nairn,Nairnshire
+IV,IV14,Strathpeffer,Ross-shire
+IV,IV17,Alness,Ross-shire
+IV,IV18,Invergordon,Ross-shire
+IV,"IV19,
+IV20",Tain,Ross-shire
+IV,IV21,Gairloch,Ross-shire
+IV,IV22,Achnasheen,Ross-shire
+IV,IV23,Garve,Ross-shire
+IV,IV24,Ardgay,Sutherland
+IV,IV25,Dornoch,Sutherland
+IV,IV26,Ullapool,Ross-shire
+IV,IV27,Lairg,Sutherland
+IV,IV28,Rogart,Sutherland
+IV,IV30,ELGIN,Morayshire
+IV,IV31,Lossiemouth,Morayshire
+IV,IV32,Fochabers,Morayshire
+IV,IV36,Forres,Morayshire
+IV,IV40,KYLE,Ross-shire
+IV,"IV41, IV42, IV43, IV44, IV45, IV46, IV47, IV48, IV49,
+IV55, IV56",ISLE OF SKYE,Isle of Skye
+IV,IV51,Portree,Isle of Skye
+IV,IV52,Plockton,Ross-shire
+IV,IV53,STROME FERRY,Ross-shire
+IV,IV54,STRATHCARRON,Ross-shire
+JE,"JE1,non-geo JE2, JE3, JE4,non-geo JE5",Jersey,Channel Islesnot
+KA,"KA1, KA2, KA3",Kilmarnock,Ayrshire
+KA,KA4,GALSTON,Ayrshire
+KA,KA5,Mauchline,Ayrshire
+KA,"KA6, KA7, KA8",Ayr,Ayrshire
+KA,KA9,Prestwick,Ayrshire
+KA,KA10,Troon,Ayrshire
+KA,"KA11, KA12",IRVINE,Ayrshire
+KA,KA13,Kilwinning,Ayrshire
+KA,"KA14, KA15",Beith,Ayrshire
+KA,KA16,Newmilns,Ayrshire
+KA,KA17,Darvel,Ayrshire
+KA,KA18,Cumnock,Ayrshire
+KA,KA19,Maybole,Ayrshire
+KA,KA20,Stevenston,Ayrshire
+KA,KA21,Saltcoats,Ayrshire
+KA,KA22,Ardrossan,Ayrshire
+KA,KA23,West Kilbride,Ayrshire
+KA,KA24,DALRY,Ayrshire
+KA,KA25,Kilbirnie,Ayrshire
+KA,KA26,Girvan,Ayrshire
+KA,KA27,Isle of Arran,Isle of Arran
+KA,KA28,ISLE OF CUMBRAE,Isle of Cumbrae
+KA,"KA29,
+KA30",Largs,Ayrshire
+KT,"KT1, KT2",Kingston upon Thames,Surrey
+KT,KT3,New Malden,Surrey
+KT,KT4,Worcester Park,Surrey
+KT,"KT5, KT6",Surbiton,Surrey
+KT,KT7,Thames Ditton,Surrey
+KT,KT8shared,East Molesey,Surrey
+KT,KT8shared,West Molesey,Surrey
+KT,KT9,Chessington,Surrey
+KT,KT10,Esher,Surrey
+KT,KT11,COBHAM,Surrey
+KT,KT12,Walton-on-Thames,Surrey
+KT,KT13,Weybridge,Surrey
+KT,KT14,West Byfleet,Surrey
+KT,KT15,Addlestone,Surrey
+KT,KT16,Chertsey,Surrey
+KT,"KT17, KT18, KT19",Epsom,Surrey
+KT,KT20,Tadworth,Surrey
+KT,KT21,Ashtead,Surrey
+KT,"KT22, KT23, KT24",Leatherhead,Surrey
+KW,KW1,WICK,Caithness
+KW,"KW2, KW3",Lybster,Caithness
+KW,KW5,Latheron,Caithness
+KW,KW6,Dunbeath,Caithness
+KW,KW7,BERRIEDALE,Caithness
+KW,KW8,Helmsdale,Sutherland
+KW,KW9,Brora,Sutherland
+KW,KW10,Golspie,Sutherland
+KW,KW11,Kinbrace,Sutherland
+KW,KW12,Halkirk,Caithness
+KW,KW13,Forsinard,Sutherland
+KW,KW14,Thurso,Caithness
+KW,KW15,Kirkwall,Orkney
+KW,KW16,Stromness,Orkney
+KW,KW17,Orkney,Orkney
+KY,"KY1, KY2",Kirkcaldy,Fife
+KY,KY3,Burntisland,Fife
+KY,KY4shared,Cowdenbeath,Fife
+KY,KY4shared,Kelty,Fife
+KY,KY5,Lochgelly,Fife
+KY,"KY6, KY7",Glenrothes,Fife
+KY,"KY8, KY9",LEVEN,Fife
+KY,KY10,Anstruther,Fife
+KY,KY11shared,Inverkeithing,Fife
+KY,"KY11,shared KY12,
+KY99non-geo",Dunfermline,Fife
+KY,KY13,Kinross,Kinross-shire
+KY,"KY14, KY15",Cupar,Fife
+KY,KY16,ST. ANDREWS,Fife
+L,"L1, L2, L3, L4, L5, L6, L7, L8, L9,
+L10, L11, L12, L13, L14, L15, L16, L17, L18, L19,
+L20,shared L21, L22, L23, L24, L25, L26, L27, L28, L29,
+L31, L32, L33, L36, L37, L38,
+L67,non-geo L68,non-geo L69,non-geo shared
+L70,non-geo L71,non-geo L72,non-geo L73,non-geo L74,non-geo L75non-geo",Liverpool,Merseyside
+L,"L20,shared
+L30,
+L69,non-geo shared
+L80,non-geo[9]
+GIRnon-geo",Bootle,Merseyside
+L,"L34, L35",Prescot,Merseyside
+L,"L39,
+L40",Ormskirk,Lancashire
+LA,"LA1, LA2",LANCASTER,Lancashire
+LA,"LA3, LA4",Morecambe,Lancashire
+LA,"LA5, LA6",Carnforth,Lancashire
+LA,LA7,Milnthorpe,Cumbria
+LA,"LA8, LA9",Kendal,Cumbria
+LA,LA10,Sedbergh,Cumbria
+LA,LA11,Grange-over-Sands,Cumbria
+LA,LA12,Ulverston,Cumbria
+LA,"LA13, LA14shared",Barrow-in-Furness,Cumbria
+LA,"LA14,non-geo shared[6] LA15",Dalton-in-Furness,Cumbria
+LA,LA16,Askam-in-Furness,Cumbria
+LA,LA17,Kirkby-in-Furness,Cumbria
+LA,"LA18, LA19",Millom,Cumbria
+LA,LA20,Broughton-in-Furness,Cumbria
+LA,LA21,CONISTON,Cumbria
+LA,LA22,Ambleside,Cumbria
+LA,LA23,WINDERMERE,Cumbria
+LD,LD1,Llandrindod Wells,Powys
+LD,LD2,Builth Wells,Powys
+LD,LD3,Brecon,Powys
+LD,LD4,Llangammarch Wells,Powys
+LD,LD5,Llanwrtyd Wells,Powys
+LD,LD6,Rhayader,Powys
+LD,LD7,KNIGHTON,Powys
+LD,LD8,Presteigne,Powys
+LE,"LE1, LE2, LE3, LE4, LE5, LE6, LE7, LE8, LE9,
+LE19,
+LE21,non-geo
+LE41,non-geo
+LE55,non-geo
+LE87,non-geo
+LE94,non-geo LE95non-geo",Leicester,Leicestershire
+LE,LE10,Hinckley,Leicestershire
+LE,"LE11, LE12",Loughborough,Leicestershire
+LE,"LE13, LE14",Melton Mowbray,Leicestershire
+LE,LE15,Oakham,Leicestershire / Rutland
+LE,LE16,Market Harborough,Leicestershire / Rutland
+LE,LE17,Lutterworth,Leicestershire
+LE,LE18,WIGSTON,Leicestershire
+LE,LE65,Ashby-de-la-Zouch,Leicestershire
+LE,LE67shared,Coalville,Leicestershire
+LE,LE67shared,Ibstock,Leicestershire
+LE,LE67shared,Markfield,Leicestershire
+LL,"LL11, LL12, LL13, LL14",Wrexham,Clwyd
+LL,LL15,Ruthin,Clwyd
+LL,LL16,Denbigh,Clwyd
+LL,"LL17, LL18non-geo shared[5]",ST. ASAPH,Clwyd
+LL,LL18shared,Rhyl,Clwyd
+LL,LL19,Prestatyn,Clwyd
+LL,LL20,Llangollen,Clwyd
+LL,LL21,Corwen,Clwyd
+LL,LL22,Abergele,Clwyd
+LL,LL23,BALA,Gwynedd
+LL,LL24,Betws-y-Coed,Gwynedd
+LL,LL25,Dolwyddelan,Gwynedd
+LL,LL26,Llanrwst,Gwynedd
+LL,LL27,Trefriw,Gwynedd
+LL,"LL28, LL29",Colwyn Bay,Clwyd
+LL,LL30,Llandudno,Gwynedd
+LL,LL31shared,Llandudno Junction,Gwynedd
+LL,"LL31,shared LL32",Conwy,Gwynedd
+LL,LL33,Llanfairfechan,Gwynedd
+LL,LL34,Penmaenmawr,Gwynedd
+LL,LL35,ABERDOVEY,Gwynedd
+LL,LL36,Tywyn,Gwynedd
+LL,LL37,Llwyngwril,Gwynedd
+LL,LL38,Fairbourne,Gwynedd
+LL,LL39,Arthog,Gwynedd
+LL,LL40,Dolgellau,Gwynedd
+LL,LL41,Blaenau Ffestiniog,Gwynedd
+LL,LL42,Barmouth,Gwynedd
+LL,LL43,TALYBONT,Gwynedd
+LL,LL44,Dyffryn Ardudwy,Gwynedd
+LL,LL45,Llanbedr,Gwynedd
+LL,LL46,Harlech,Gwynedd
+LL,LL47,Talsarnau,Gwynedd
+LL,LL48,Penrhyndeudraeth,Gwynedd
+LL,LL49,Porthmadog,Gwynedd
+LL,LL51,Garndolbenmaen,Gwynedd
+LL,LL52,Criccieth,Gwynedd
+LL,LL53,Pwllheli,Gwynedd
+LL,"LL54, LL55",Caernarfon,Gwynedd
+LL,LL56,Y Felinheli,Gwynedd
+LL,LL57,BANGOR,Gwynedd
+LL,LL58,Beaumaris,Gwynedd
+LL,LL59,Menai Bridge,Gwynedd
+LL,LL60,Gaerwen,Gwynedd
+LL,LL61,Llanfairpwllgwyngyll,Gwynedd
+LL,LL62,Bodorgan,Gwynedd
+LL,LL63,TY CROES,Gwynedd
+LL,"LL64,
+LL77non-geo shared[6]",Rhosneigr,Gwynedd
+LL,LL65,Holyhead,Gwynedd
+LL,LL66,Rhosgoch,Gwynedd
+LL,LL67,Cemaes Bay,Gwynedd
+LL,LL68,Amlwch,Gwynedd
+LL,LL69,Penysarn,Gwynedd
+LL,LL70,DULAS,Gwynedd
+LL,LL71,LLANERCHYMEDD,Gwynedd
+LL,LL72,MOELFRE,Gwynedd
+LL,LL73,MARIANGLAS,Gwynedd
+LL,LL74,Tyn-y-Gongl,Gwynedd
+LL,LL75,Pentraeth,Gwynedd
+LL,LL76,Llanbedrgoch,Gwynedd
+LL,LL77shared,Llangefni,Gwynedd
+LL,LL78,BRYNTEG,Gwynedd
+LN,"LN1, LN2, LN3, LN4, LN5, LN6",LINCOLN,Lincolnshire
+LN,"LN7, LN8",Market Rasen,Lincolnshire
+LN,LN9,HORNCASTLE,Lincolnshire
+LN,LN10,Woodhall Spa,Lincolnshire
+LN,LN11,LOUTH,Lincolnshire
+LN,LN12,Mablethorpe,Lincolnshire
+LN,LN13,ALFORD,Lincolnshire
+LS,"LS1, LS2, LS3, LS4, LS5, LS6, LS7, LS8, LS9,
+LS10, LS11, LS12, LS13, LS14, LS15, LS16, LS17, LS18, LS19,
+LS20, LS25, LS26, LS27,
+LS88,non-geo
+LS98,non-geo LS99non-geo",Leeds,West Yorkshire
+LS,LS21,Otley,West Yorkshire
+LS,"LS22, LS23",Wetherby,West Yorkshire
+LS,LS24,Tadcaster,North Yorkshire
+LS,LS28,Pudsey,West Yorkshire
+LS,LS29,Ilkley,West Yorkshire
+LU,"LU1, LU2, LU3, LU4",Luton,Bedfordshire
+LU,"LU5, LU6",Dunstable,Bedfordshire
+LU,LU7,Leighton Buzzard,Bedfordshire
+M,"M1, M2, M3,shared M4, M8, M9,
+M11, M12, M13, M14, M15, M16, M17, M18, M19,
+M20, M21, M22, M23, M24, M25, M26, M27, M28, M29,
+M30, M31, M32, M34, M35, M38,
+M40, M41, M43, M44, M45, M46,
+M60,non-geo shared M61,non-geo
+M90, M99non-geo",Manchester,Lancashire
+M,"M3,shared M5, M6, M7,
+M50,
+M60non-geo shared",SALFORD,Lancashire
+M,M33,SALE,Cheshire
+ME,"ME1, ME2, ME3",ROCHESTER,Kent
+ME,"ME4, ME5",CHATHAM,Kent
+ME,ME6shared,Snodland,Kent
+ME,"ME6,shared
+ME19",West Malling,Kent
+ME,"ME6,shared
+ME20",Aylesford,Kent
+ME,"ME7, ME8",GILLINGHAM,Kent
+ME,"ME9,
+ME10",Sittingbourne,Kent
+ME,ME11,Queenborough,Kent
+ME,ME12,Sheerness,Kent
+ME,ME13,Faversham,Kent
+ME,"ME14, ME15, ME16, ME17, ME18,
+ME99non-geo",Maidstone,Kent
+MK,"MK1, MK2, MK3, MK4, MK5, MK6, MK7, MK8, MK9,
+MK10, MK11, MK12, MK13, MK14, MK15, MK17, MK19,
+MK77non-geo",Milton Keynes,Buckinghamshire
+MK,MK16,Newport Pagnell,Buckinghamshire
+MK,MK18,Buckingham,Buckinghamshire
+MK,"MK40, MK41, MK42, MK43, MK44, MK45",Bedford,Bedfordshire
+MK,MK46,OLNEY,Buckinghamshire
+ML,ML1,Motherwell,Lanarkshire
+ML,ML2,Wishaw,Lanarkshire
+ML,ML3,HAMILTON,Lanarkshire
+ML,ML4,Bellshill,Lanarkshire
+ML,ML5,Coatbridge,Lanarkshire
+ML,ML6,AIRDRIE,Lanarkshire
+ML,ML7,Shotts,Lanarkshire
+ML,ML8,Carluke,Lanarkshire
+ML,ML9,Larkhall,Lanarkshire
+ML,ML10,Strathaven,Lanarkshire
+ML,ML11,Lanark,Lanarkshire
+ML,ML12,BIGGAR,Lanarkshire
+N,"N1, N1C, N1P,non-geo
+N2, N3, N4, N5, N6, N7, N8, N9,
+N10, N11, N12, N13, N14, N15, N16, N17, N18, N19,
+N20, N21, N22,
+N81non-geo",LONDON,London
+NE,"NE1, NE2, NE3, NE4, NE5, NE6, NE7,
+NE12, NE13, NE15, NE16, NE17, NE18, NE19,
+NE20, NE27,
+NE82,non-geo NE83,non-geo NE85,non-geo NE88,non-geo
+NE98,non-geo NE99non-geo",Newcastle upon Tyne,Tyne and Wear
+NE,"NE8, NE9,
+NE10, NE11,
+NE92non-geo",Gateshead,Tyne and Wear
+NE,NE21,Blaydon-on-Tyne,Tyne and Wear
+NE,NE22,Bedlington,Northumberland
+NE,NE23,Cramlington,Northumberland
+NE,NE24,BLYTH,Northumberland
+NE,"NE25, NE26",Whitley Bay,Tyne and Wear
+NE,NE28,Wallsend,Tyne and Wear
+NE,"NE29,
+NE30",North Shields,Tyne and Wear
+NE,NE31,Hebburn,Tyne and Wear
+NE,NE32,Jarrow,Tyne and Wear
+NE,"NE33, NE34",South Shields,Tyne and Wear
+NE,NE35,Boldon Colliery,Tyne and Wear
+NE,NE36,East Boldon,Tyne and Wear
+NE,"NE37, NE38",WASHINGTON,Tyne and Wear
+NE,NE39,Rowlands Gill,Tyne and Wear
+NE,NE40,RYTON,Tyne and Wear
+NE,NE41,Wylam,Northumberland
+NE,NE42,Prudhoe,Northumberland
+NE,NE43,Stocksfield,Northumberland
+NE,NE44,Riding Mill,Northumberland
+NE,NE45,Corbridge,Northumberland
+NE,"NE46, NE47, NE48",Hexham,Northumberland
+NE,NE49,Haltwhistle,Northumberland
+NE,"NE61, NE65",MORPETH,Northumberland
+NE,NE62,Choppington,Northumberland
+NE,NE63,Ashington,Northumberland
+NE,NE64,Newbiggin-by-the-Sea,Northumberland
+NE,NE66shared,Alnwick,Northumberland
+NE,"NE66,non-geo shared[6] NE69",Bamburgh,Northumberland
+NE,NE67,Chathill,Northumberland
+NE,NE68,Seahouses,Northumberland
+NE,NE70,BELFORD,Northumberland
+NE,NE71,Wooler,Northumberland
+NG,"NG1, NG2, NG3, NG4, NG5, NG6, NG7, NG8, NG9,
+NG10, NG11, NG12, NG13, NG14, NG15, NG16, NG17,shared
+NG80,non-geo
+NG90non-geo",Nottingham,Nottinghamshire
+NG,NG17shared,Sutton-in-Ashfield,Nottinghamshire
+NG,"NG18, NG19,
+NG20, NG21,
+NG70non-geo",Mansfield,Nottinghamshire
+NG,"NG22, NG23, NG24",NEWARK,Nottinghamshire
+NG,NG25,SOUTHWELL,Nottinghamshire
+NG,"NG31, NG32, NG33",Grantham,Lincolnshire
+NG,NG34,Sleaford,Lincolnshire
+NN,"NN1, NN2, NN3, NN4, NN5, NN6, NN7",Northampton,Northamptonshire
+NN,"NN8, NN9,
+NN29",Wellingborough,Northamptonshire
+NN,NN10,Rushden,Northamptonshire
+NN,NN11,Daventry,Northamptonshire
+NN,NN12,Towcester,Northamptonshire
+NN,NN13,Brackley,Northamptonshire
+NN,"NN14, NN15, NN16",Kettering,Northamptonshire
+NN,"NN17, NN18",Corby,Northamptonshire
+NP,NP4,Pontypool,Gwent
+NP,NP7shared,Abergavenny,Gwent
+NP,"NP7,shared[10] NP8",Crickhowell,Powys
+NP,"NP10, NP11, NP18, NP19,
+NP20",NEWPORT,Gwent
+NP,NP12,BLACKWOOD,Gwent
+NP,NP13,Abertillery,Gwent
+NP,NP15,Usk,Gwent
+NP,NP16,Chepstow,Gwent
+NP,NP22,Tredegar,Gwent
+NP,NP23,Ebbw Vale,Gwent
+NP,NP24,New Tredegar,Gwent
+NP,NP25,Monmouth,Gwent
+NP,NP26,CALDICOT,Gwent
+NP,NP44,Cwmbran,Gwent
+NR,"NR1, NR2, NR3, NR4, NR5, NR6, NR7, NR8, NR9,
+NR10, NR11, NR12, NR13, NR14, NR15, NR16, NR18,non-geo shared[6] NR19,non-geo shared[5]
+NR26,non-geo shared[6] NR28,non-geo shared[6]
+NR99non-geo",Norwich,Norfolk
+NR,NR17,Attleborough,Norfolk
+NR,NR18shared,Wymondham,Norfolk
+NR,"NR19,shared
+NR20",Dereham,Norfolk
+NR,NR21,Fakenham,Norfolk
+NR,NR22,Walsingham,Norfolk
+NR,NR23,Wells-next-the-Sea,Norfolk
+NR,NR24,Melton Constable,Norfolk
+NR,NR25,HOLT,Norfolk
+NR,NR26shared,Sheringham,Norfolk
+NR,NR27,Cromer,Norfolk
+NR,NR28shared,North Walsham,Norfolk
+NR,"NR29,
+NR30, NR31",Great Yarmouth,Norfolk
+NR,"NR32, NR33",Lowestoft,Suffolk
+NR,NR34,Beccles,Suffolk
+NR,NR35,Bungay,Suffolk
+NW,"NW1, NW1W,non-geo[3]
+NW2, NW3, NW4, NW5, NW6, NW7, NW8, NW9,
+NW10, NW11,
+NW26non-geo",LONDON,London
+OL,"OL1, OL2, OL3, OL4, OL8, OL9,
+OL95non-geo",Oldham,Lancashire
+OL,"OL5, OL6, OL7",Ashton-under-Lyne,Lancashire
+OL,OL10,HEYWOOD,Lancashire
+OL,"OL11, OL12, OL16shared",Rochdale,Lancashire
+OL,OL13,Bacup,Lancashire
+OL,OL14,Todmorden,Lancashire
+OL,"OL15, OL16non-geo shared[5]",LITTLEBOROUGH,Lancashire
+OX,"OX1, OX2, OX3, OX4,
+OX33,
+OX44",Oxford,Oxfordshire
+OX,OX5,Kidlington,Oxfordshire
+OX,OX7,Chipping Norton,Oxfordshire
+OX,OX9,Thame,Oxfordshire
+OX,OX10,WALLINGFORD,Oxfordshire
+OX,OX11,Didcot,Oxfordshire
+OX,OX12,Wantage,Oxfordshire
+OX,"OX13, OX14",ABINGDON,Oxfordshire
+OX,"OX15, OX16, OX17",Banbury,Oxfordshire
+OX,OX18shared,BAMPTON,Oxfordshire
+OX,OX18shared,Burford,Oxfordshire
+OX,OX18shared,CARTERTON,Oxfordshire
+OX,OX20,WOODSTOCK,Oxfordshire
+OX,"OX25, OX26, OX27",Bicester,Oxfordshire
+OX,"OX28, OX29",Witney,Oxfordshire
+OX,OX39,Chinnor,Oxfordshire
+OX,OX49,WATLINGTON,Oxfordshire
+PA,"PA1, PA2, PA3",PAISLEY,Renfrewshire
+PA,PA4,Renfrew,Renfrewshire
+PA,"PA5, PA6, PA9,
+PA10",Johnstone,Renfrewshire
+PA,PA7,BISHOPTON,Renfrewshire
+PA,PA8,Erskine,Renfrewshire
+PA,PA11,Bridge of Weir,Renfrewshire
+PA,PA12,Lochwinnoch,Renfrewshire
+PA,PA13,Kilmacolm,Renfrewshire
+PA,PA14,Port Glasgow,Renfrewshire
+PA,"PA15, PA16",Greenock,Renfrewshire
+PA,PA17,Skelmorlie,Ayrshire
+PA,PA18,Wemyss Bay,Renfrewshire
+PA,PA19,Gourock,Renfrewshire
+PA,PA20,Isle of Bute,Isle of Bute
+PA,PA21,Tighnabruaich,Argyll
+PA,PA22,Colintraive,Argyll
+PA,PA23,Dunoon,Argyll
+PA,"PA24, PA25, PA26, PA27",Cairndow,Argyll
+PA,PA28,Campbeltown,Argyll
+PA,PA29,TARBERT,Argyll
+PA,"PA30, PA31",Lochgilphead,Argyll
+PA,PA32,Inveraray,Argyll
+PA,PA33,Dalmally,Argyll
+PA,"PA34, PA37,
+PA80",Oban,Argyll
+PA,PA35,Taynuilt,Argyll
+PA,PA36,Bridge of Orchy,Argyll
+PA,PA38,Appin,Argyll
+PA,PA41,ISLE OF GIGHA,Isle of Gigha
+PA,"PA42, PA43, PA44, PA45, PA46, PA47, PA48, PA49",ISLE OF ISLAY,Isle of Islay
+PA,PA60,ISLE OF JURA,Isle of Jura
+PA,PA61,ISLE OF COLONSAY,Isle of Colonsay
+PA,"PA62, PA63, PA64, PA65, PA66, PA67, PA68, PA69,
+PA70, PA71, PA72, PA73, PA74, PA75",Isle of Mull,Isle of Mull
+PA,PA76,ISLE OF IONA,Isle of Iona
+PA,PA77,ISLE OF TIREE,Isle of Tiree
+PA,PA78,ISLE OF COLL,Isle of Coll
+PE,"PE1, PE2, PE3, PE4, PE5, PE6, PE7, PE8,
+PE99non-geo",Peterborough,Cambridgeshire
+PE,PE9,STAMFORD,Lincolnshire
+PE,PE10,BOURNE,Lincolnshire
+PE,"PE11, PE12",SPALDING,Lincolnshire
+PE,"PE13, PE14",Wisbech,Cambridgeshire
+PE,PE15,MARCH,Cambridgeshire
+PE,PE16,Chatteris,Cambridgeshire
+PE,PE19,ST. NEOTS,Cambridgeshire
+PE,"PE20, PE21, PE22",BOSTON,Lincolnshire
+PE,PE23,Spilsby,Lincolnshire
+PE,"PE24, PE25",Skegness,Lincolnshire
+PE,"PE26, PE28, PE29",Huntingdon,Cambridgeshire
+PE,PE27,ST. IVES,Cambridgeshire
+PE,"PE30, PE31, PE32, PE33, PE34",King's Lynn,Norfolk
+PE,PE35,SANDRINGHAM,Norfolk
+PE,PE36,Hunstanton,Norfolk
+PE,PE37,Swaffham,Norfolk
+PE,PE38,Downham Market,Norfolk
+PH,"PH1, PH2,
+PH14",PERTH,Perthshire
+PH,"PH3, PH4",Auchterarder,Perthshire
+PH,"PH5, PH6, PH7",Crieff,Perthshire
+PH,PH8,Dunkeld,Perthshire
+PH,"PH9,
+PH16, PH17, PH18",Pitlochry,Perthshire
+PH,"PH10, PH11, PH12, PH13",BLAIRGOWRIE,Perthshire
+PH,PH15,ABERFELDY,Perthshire
+PH,PH19,Dalwhinnie,Inverness-shire
+PH,PH20,Newtonmore,Inverness-shire
+PH,PH21,Kingussie,Inverness-shire
+PH,PH22,Aviemore,Inverness-shire
+PH,PH23,Carrbridge,Inverness-shire
+PH,PH24,Boat of Garten,Inverness-shire
+PH,PH25,Nethy Bridge,Inverness-shire
+PH,PH26,Grantown-on-Spey,Morayshire
+PH,PH30,Corrour,Inverness-shire
+PH,PH31,ROY BRIDGE,Inverness-shire
+PH,PH32,Fort Augustus,Inverness-shire
+PH,PH33,FORT WILLIAM,Inverness-shire
+PH,PH34,Spean Bridge,Inverness-shire
+PH,PH35,Invergarry,Inverness-shire
+PH,PH36,Acharacle,Argyll
+PH,PH37,Glenfinnan,Inverness-shire
+PH,PH38,Lochailort,Inverness-shire
+PH,PH39,Arisaig,Inverness-shire
+PH,"PH40, PH41",Mallaig,Inverness-shire
+PH,PH42,ISLE OF EIGG,Isle of Eigg
+PH,PH43,ISLE OF RUM,Isle of Rum
+PH,PH44,ISLE OF CANNA,Isle of Canna
+PH,PH49,Ballachulish,Argyll
+PH,PH50,Kinlochleven,Argyll
+PL,"PL1, PL2, PL3, PL4, PL5, PL6, PL7, PL8, PL9,
+PL95non-geo",Plymouth,Devon
+PL,"PL10, PL11",Torpoint,Cornwall
+PL,PL12,Saltash,Cornwall
+PL,PL13,Looe,Cornwall
+PL,PL14,Liskeard,Cornwall
+PL,PL15,LAUNCESTON,Cornwall
+PL,PL16,LIFTON,Devon
+PL,PL17,CALLINGTON,Cornwall
+PL,PL18shared,Calstock,Cornwall
+PL,PL18shared,Gunnislake,Cornwall
+PL,PL19,TAVISTOCK,Devon
+PL,PL20,YELVERTON,Devon
+PL,PL21,Ivybridge,Devon
+PL,PL22,Lostwithiel,Cornwall
+PL,PL23,Fowey,Cornwall
+PL,PL24,PAR,Cornwall
+PL,"PL25, PL26",ST. AUSTELL,Cornwall
+PL,PL27,Wadebridge,Cornwall
+PL,PL28,Padstow,Cornwall
+PL,PL29,Port Isaac,Cornwall
+PL,"PL30, PL31",Bodmin,Cornwall
+PL,PL32,Camelford,Cornwall
+PL,PL33,Delabole,Cornwall
+PL,PL34,Tintagel,Cornwall
+PL,PL35,Boscastle,Cornwall
+PO,"PO1, PO2, PO3, PO6",Portsmouth,Hampshire
+PO,"PO4, PO5",Southsea,Hampshire
+PO,"PO7, PO8",Waterlooville,Hampshire
+PO,PO9shared,Havant,Hampshire
+PO,PO9shared,Rowland's Castle,Hampshire
+PO,PO10,Emsworth,Hampshire
+PO,PO11,Hayling Island,Hampshire
+PO,"PO12,non-geo shared[2] PO13shared",Lee-on-the-Solent,Hampshire
+PO,"PO12,shared PO13shared",Gosport,Hampshire
+PO,"PO14, PO15, PO16, PO17",Fareham,Hampshire
+PO,"PO18, PO19,
+PO20",Chichester,West Sussex
+PO,"PO21, PO22",Bognor Regis,West Sussex
+PO,PO30shared,NEWPORT,Isle of Wight
+PO,"PO30,non-geo shared[2]
+PO41",YARMOUTH,Isle of Wight
+PO,PO31,Cowes,Isle of Wight
+PO,PO32,East Cowes,Isle of Wight
+PO,PO33,Ryde,Isle of Wight
+PO,PO34,SEAVIEW,Isle of Wight
+PO,PO35,Bembridge,Isle of Wight
+PO,PO36shared,Sandown,Isle of Wight
+PO,"PO36,non-geo shared[2] PO37",Shanklin,Isle of Wight
+PO,PO38,Ventnor,Isle of Wight
+PO,PO39,Totland Bay,Isle of Wight
+PO,PO40,FRESHWATER,Isle of Wight
+PR,"PR0,non-geo PR1, PR2, PR3, PR4, PR5,
+PR11non-geo",PRESTON,Lancashire
+PR,"PR6, PR7",Chorley,Lancashire
+PR,"PR8, PR9",Southport,Merseyside
+PR,"PR25, PR26",LEYLAND,Lancashire
+RG,"RG1, RG2, RG4, RG5, RG6, RG7, RG8,
+RG10, RG19,shared
+RG30, RG31",READING,Berkshire
+RG,RG9,Henley-on-Thames,Oxfordshire
+RG,"RG12,
+RG42",Bracknell,Berkshire
+RG,"RG14,
+RG20",NEWBURY,Berkshire
+RG,RG17,Hungerford,Berkshire
+RG,"RG18, RG19shared",Thatcham,Berkshire
+RG,"RG21, RG22, RG23, RG24, RG25, RG28shared",Basingstoke,Hampshire
+RG,RG26,Tadley,Hampshire
+RG,"RG27, RG29",HOOK,Hampshire
+RG,RG28shared,WHITCHURCH,Hampshire
+RG,"RG40, RG41",Wokingham,Berkshire
+RG,RG45,Crowthorne,Berkshire
+RH,RH1,REDHILL,Surrey
+RH,RH2,Reigate,Surrey
+RH,"RH3, RH4shared[10]",Betchworth,Surrey
+RH,"RH4,shared RH5",Dorking,Surrey
+RH,RH6shared,GATWICK,West Sussex
+RH,RH6shared,Horley,Surrey
+RH,RH7,LINGFIELD,Surrey
+RH,RH8,Oxted,Surrey
+RH,RH9,Godstone,Surrey
+RH,"RH10, RH11,
+RH77non-geo",Crawley,West Sussex
+RH,"RH12, RH13",Horsham,West Sussex
+RH,RH14,Billingshurst,West Sussex
+RH,RH15,Burgess Hill,West Sussex
+RH,"RH16, RH17",Haywards Heath,West Sussex
+RH,RH18,Forest Row,East Sussex
+RH,RH19,East Grinstead,West Sussex
+RH,RH20,Pulborough,West Sussex
+RM,"RM1, RM2, RM3, RM4, RM5, RM6, RM7",Romford,Essex
+RM,"RM8, RM9,
+RM10",Dagenham,Essex
+RM,"RM11, RM12",Hornchurch,Essex
+RM,RM13,RAINHAM,Essex
+RM,RM14,Upminster,Essex
+RM,RM15,South Ockendon,Essex
+RM,"RM16, RM17,
+RM20",Grays,Essex
+RM,RM18,Tilbury,Essex
+RM,RM19,Purfleet,Essex
+S,"S1, S2, S3, S4, S5, S6, S7, S8, S9,
+S10, S11, S12, S13, S14, S17,
+S20, S21, S25, S26,
+S35, S36,
+S95,non-geo S96,non-geo S97,non-geo shared S98,non-geo S99non-geo",Sheffield,South Yorkshire
+S,S18,Dronfield,Derbyshire
+S,"S32, S33",HOPE VALLEY,Derbyshire
+S,"S40, S41, S42, S43, S44, S45, S49non-geo",Chesterfield,Derbyshire
+S,"S60, S61, S62, S63, S65, S66,
+S97non-geo shared",Rotherham,South Yorkshire
+S,S64,Mexborough,South Yorkshire
+S,"S70, S71, S72, S73, S74, S75",Barnsley,South Yorkshire
+S,"S80, S81",Worksop,Nottinghamshire
+SA,"SA1, SA2, SA3, SA4, SA5, SA6, SA7, SA8, SA9,
+SA80,non-geo
+SA99non-geo",Swansea,West Glamorgan
+SA,"SA10, SA11",Neath,West Glamorgan
+SA,"SA12, SA13",Port Talbot,West Glamorgan
+SA,"SA14, SA15",Llanelli,Dyfed
+SA,SA16,Burry Port,Dyfed
+SA,SA17shared,Ferryside,Dyfed
+SA,SA17shared,Kidwelly,Dyfed
+SA,SA18,Ammanford,Dyfed
+SA,SA19shared,Llandeilo,Dyfed
+SA,SA19shared,Llangadog,Dyfed
+SA,SA19shared,Llanwrda,Dyfed
+SA,SA20,Llandovery,Dyfed
+SA,"SA31, SA32, SA33",Carmarthen,Dyfed
+SA,SA34,Whitland,Dyfed
+SA,SA35,Llanfyrnach,Dyfed
+SA,SA36,Glogue,Dyfed
+SA,SA37,Boncath,Dyfed
+SA,SA38,Newcastle Emlyn,Dyfed
+SA,SA39,PENCADER,Dyfed
+SA,SA40,Llanybydder,Dyfed
+SA,SA41,Crymych,Dyfed
+SA,SA42,NEWPORT,Dyfed
+SA,SA43,CARDIGAN,Dyfed
+SA,SA44,Llandysul,Dyfed
+SA,SA45,New Quay,Dyfed
+SA,"SA46, SA48shared",Aberaeron,Dyfed
+SA,SA47,LLANARTH,Dyfed
+SA,SA48shared,Lampeter,Dyfed
+SA,"SA61, SA62",Haverfordwest,Dyfed
+SA,SA63,Clarbeston Road,Dyfed
+SA,SA64,Goodwick,Dyfed
+SA,SA65,Fishguard,Dyfed
+SA,SA66,Clynderwen,Dyfed
+SA,SA67,NARBERTH,Dyfed
+SA,SA68,Kilgetty,Dyfed
+SA,SA69,Saundersfoot,Dyfed
+SA,SA70,Tenby,Dyfed
+SA,"SA71, SA72non-geo shared[5]",PEMBROKE,Dyfed
+SA,SA72shared,Pembroke Dock,Dyfed
+SA,SA73,Milford Haven,Dyfed
+SE,"SE1, SE1P,non-geo
+SE2, SE3, SE4, SE5, SE6, SE7, SE8, SE9,
+SE10, SE11, SE12, SE13, SE14, SE15, SE16, SE17, SE18, SE19,
+SE20, SE21, SE22, SE23, SE24, SE25, SE26, SE27, SE28",LONDON,London
+SG,"SG1, SG2",Stevenage,Hertfordshire
+SG,SG3,Knebworth,Hertfordshire
+SG,"SG4, SG5, SG6non-geo shared[5]",Hitchin,Hertfordshire
+SG,SG6shared,LETCHWORTH GARDEN CITY,Hertfordshire
+SG,SG7,Baldock,Hertfordshire
+SG,SG8,ROYSTON,Hertfordshire
+SG,SG9,Buntingford,Hertfordshire
+SG,SG10,Much Hadham,Hertfordshire
+SG,"SG11, SG12",WARE,Hertfordshire
+SG,"SG13, SG14",Hertford,Hertfordshire
+SG,SG15,Arlesey,Bedfordshire
+SG,SG16,Henlow,Bedfordshire
+SG,SG17,SHEFFORD,Bedfordshire
+SG,SG18,Biggleswade,Bedfordshire
+SG,SG19,SANDY,Bedfordshire
+SK,"SK1, SK2, SK3, SK4, SK5, SK6, SK7,
+SK12",Stockport,Cheshire
+SK,SK8,CHEADLE,Cheshire
+SK,SK9shared,Alderley Edge,Cheshire
+SK,SK9shared,Wilmslow,Cheshire
+SK,"SK10, SK11",Macclesfield,Cheshire
+SK,SK13,Glossop,Derbyshire
+SK,SK14,HYDE,Cheshire
+SK,SK15,Stalybridge,Cheshire
+SK,SK16,Dukinfield,Cheshire
+SK,SK17,Buxton,Derbyshire
+SK,"SK22, SK23",HIGH PEAK,Derbyshire
+SL,SL0,Iver,Buckinghamshire
+SL,"SL1, SL2, SL3,
+SL95non-geo",Slough,Berkshire
+SL,SL4,WINDSOR,Berkshire
+SL,SL5,ASCOT,Berkshire
+SL,"SL6,
+SL60non-geo",Maidenhead,Berkshire
+SL,SL7,MARLOW,Buckinghamshire
+SL,SL8,BOURNE END,Buckinghamshire
+SL,SL9,Gerrards Cross,Buckinghamshire
+SM,"SM1, SM2, SM3",SUTTON,Surrey
+SM,SM4,Morden,Surrey
+SM,SM5,Carshalton,Surrey
+SM,SM6,WALLINGTON,Surrey
+SM,SM7,Banstead,Surrey
+SN,"SN1, SN2, SN3, SN4, SN5, SN6,
+SN25, SN26,
+SN38,non-geo
+SN99non-geo",Swindon,Wiltshire
+SN,SN7,Faringdon,Oxfordshire
+SN,SN8,MARLBOROUGH,Wiltshire
+SN,SN9,Pewsey,Wiltshire
+SN,SN10,Devizes,Wiltshire
+SN,SN11,Calne,Wiltshire
+SN,SN12,Melksham,Wiltshire
+SN,"SN13, SN15non-geo shared[5]",Corsham,Wiltshire
+SN,"SN14, SN15shared",Chippenham,Wiltshire
+SN,SN16,Malmesbury,Wiltshire
+SO,"SO14, SO15, SO16, SO17, SO18, SO19,
+SO30, SO31, SO32,
+SO40,shared SO45,
+SO52,
+SO97non-geo",Southampton,Hampshire
+SO,SO20,STOCKBRIDGE,Hampshire
+SO,"SO21, SO22, SO23, SO25non-geo",Winchester,Hampshire
+SO,SO24,ALRESFORD,Hampshire
+SO,"SO40,shared SO43",LYNDHURST,Hampshire
+SO,SO41,Lymington,Hampshire
+SO,SO42,Brockenhurst,Hampshire
+SO,"SO50, SO53",Eastleigh,Hampshire
+SO,SO51,Romsey,Hampshire
+SP,"SP1, SP2, SP3, SP4, SP5",Salisbury,Wiltshire
+SP,SP6,Fordingbridge,Hampshire
+SP,SP7,Shaftesbury,Dorset
+SP,SP8,GILLINGHAM,Dorset
+SP,SP9,Tidworth,Hampshire
+SP,"SP10, SP11",ANDOVER,Hampshire
+SR,"SR1, SR2, SR3, SR4, SR5, SR6, SR9non-geo",SUNDERLAND,Tyne and Wear
+SR,SR7,Seaham,County Durham
+SR,SR8,Peterlee,County Durham
+SS,"SS0, SS1shared",Westcliff-on-Sea,Essex
+SS,"SS1,shared SS2, SS3,
+SS22,non-geo
+SS99non-geo",Southend-on-Sea,Essex
+SS,SS4,Rochford,Essex
+SS,SS5,Hockley,Essex
+SS,SS6,RAYLEIGH,Essex
+SS,SS7,BENFLEET,Essex
+SS,SS8,Canvey Island,Essex
+SS,SS9,Leigh-on-Sea,Essex
+SS,"SS11, SS12",Wickford,Essex
+SS,"SS13, SS14, SS15, SS16",Basildon,Essex
+SS,SS17,Stanford-le-Hope,Essex
+ST,"ST1, ST2, ST3, ST4, ST6, ST7, ST8, ST9,
+ST10, ST11, ST12",Stoke-on-Trent,Staffordshire
+ST,"ST5,
+ST55non-geo",NEWCASTLE,Staffordshire
+ST,ST13,LEEK,Staffordshire
+ST,ST14,Uttoxeter,Staffordshire
+ST,ST15,STONE,Staffordshire
+ST,"ST16, ST17, ST18, ST19,
+ST20, ST21",Stafford,Staffordshire
+SW,"SW1A, SW1E, SW1H, SW1P, SW1V, SW1W, SW1X, SW1Y,
+SW2, SW3, SW4, SW5, SW6, SW7, SW8, SW9,
+SW10, SW11, SW12, SW13, SW14, SW15, SW16, SW17, SW18, SW19,
+SW20,
+SW95non-geo",LONDON,London
+SY,"SY1, SY2, SY3, SY4, SY5,
+SY99non-geo",Shrewsbury,Shropshire
+SY,SY6,Church Stretton,Shropshire
+SY,SY7shared,BUCKNELL,Shropshire
+SY,SY7shared,Craven Arms,Shropshire
+SY,SY7shared,Lydbury North,Shropshire
+SY,SY8,Ludlow,Shropshire
+SY,SY9,BISHOPS CASTLE,Shropshire
+SY,"SY10, SY11",Oswestry,Shropshire
+SY,SY12,ELLESMERE,Shropshire
+SY,SY13,WHITCHURCH,Shropshire
+SY,SY14,MALPAS,Cheshire
+SY,SY15,MONTGOMERY,Powys
+SY,SY16,NEWTOWN,Powys
+SY,SY17shared,Caersws,Powys
+SY,SY17shared,Llandinam,Powys
+SY,SY18,Llanidloes,Powys
+SY,SY19,Llanbrynmair,Powys
+SY,SY20,Machynlleth,Powys
+SY,SY21,Welshpool,Powys
+SY,SY22shared,Llanfechain,Powys
+SY,SY22shared,Llanfyllin,Powys
+SY,SY22shared,LLANSANTFFRAID,Powys
+SY,SY22shared,Llanymynech,Powys
+SY,SY22shared,Meifod,Powys
+SY,SY23shared,Aberystwyth,Dyfed
+SY,SY23shared,Llanon,Dyfed
+SY,SY23shared,Llanrhystud,Dyfed
+SY,SY24shared,Borth,Dyfed
+SY,SY24shared,BOW STREET,Dyfed
+SY,SY24shared,TALYBONT,Dyfed
+SY,SY25shared,Tregaron,Dyfed
+SY,SY25shared,Ystrad Meurig,Dyfed
+TA,"TA1, TA2, TA3, TA4",Taunton,Somerset
+TA,"TA5, TA6, TA7",Bridgwater,Somerset
+TA,TA8,Burnham-on-Sea,Somerset
+TA,TA9,HIGHBRIDGE,Somerset
+TA,TA10,Langport,Somerset
+TA,TA11,Somerton,Somerset
+TA,TA12,Martock,Somerset
+TA,TA13,South Petherton,Somerset
+TA,TA14,Stoke-sub-Hamdon,Somerset
+TA,TA15,Montacute,Somerset
+TA,TA16,Merriott,Somerset
+TA,TA17,HINTON ST. GEORGE,Somerset
+TA,TA18,Crewkerne,Somerset
+TA,TA19,Ilminster,Somerset
+TA,TA20,CHARD,Somerset
+TA,TA21,WELLINGTON,Somerset
+TA,TA22,Dulverton,Somerset
+TA,TA23,Watchet,Somerset
+TA,TA24,Minehead,Somerset
+TD,TD1,Galashiels,Selkirkshire
+TD,TD2,Lauder,Berwickshire
+TD,TD3,GORDON,Berwickshire
+TD,TD4,Earlston,Berwickshire
+TD,TD5,KELSO,Roxburghshire
+TD,TD6,MELROSE,Roxburghshire
+TD,TD7,SELKIRK,Selkirkshire
+TD,TD8,Jedburgh,Roxburghshire
+TD,TD9shared,Hawick,Roxburghshire
+TD,TD9shared,Newcastleton,Roxburghshire
+TD,"TD10, TD11",Duns,Berwickshire
+TD,TD12shared,Coldstream,Berwickshire
+TD,TD12shared,Cornhill-on-Tweed,Northumberland
+TD,TD12shared,Mindrum,Northumberland
+TD,TD13,Cockburnspath,Berwickshire
+TD,TD14,Eyemouth,Berwickshire
+TD,TD15,Berwick-upon-Tweed,Northumberland
+TF,"TF1, TF2, TF3, TF4, TF5, TF6, TF7, TF8",Telford,Shropshire
+TF,TF9,Market Drayton,Shropshire
+TF,TF10,NEWPORT,Shropshire
+TF,TF11,Shifnal,Shropshire
+TF,TF12,Broseley,Shropshire
+TF,TF13,Much Wenlock,Shropshire
+TN,"TN1, TN2,shared TN3, TN4",TUNBRIDGE WELLS,Kent
+TN,"TN2,non-geo shared[2] TN5",Wadhurst,East Sussex
+TN,TN6,Crowborough,East Sussex
+TN,TN7,Hartfield,East Sussex
+TN,TN8,EDENBRIDGE,Kent
+TN,"TN9,
+TN10, TN11, TN12",Tonbridge,Kent
+TN,"TN13, TN14, TN15",Sevenoaks,Kent
+TN,TN16,Westerham,Kent
+TN,"TN17, TN18",CRANBROOK,Kent
+TN,TN19,Etchingham,East Sussex
+TN,TN20,MAYFIELD,East Sussex
+TN,TN21,HEATHFIELD,East Sussex
+TN,TN22,Uckfield,East Sussex
+TN,"TN23, TN24, TN25, TN26, TN27",ASHFORD,Kent
+TN,TN28,New Romney,Kent
+TN,TN29,Romney Marsh,Kent
+TN,TN30,Tenterden,Kent
+TN,TN31,RYE,East Sussex
+TN,TN32,Robertsbridge,East Sussex
+TN,TN33,BATTLE,East Sussex
+TN,"TN34, TN35",Hastings,East Sussex
+TN,TN36,Winchelsea,East Sussex
+TN,"TN37, TN38",ST. LEONARDS-ON-SEA,East Sussex
+TN,"TN39,
+TN40",Bexhill-on-Sea,East Sussex
+TQ,"TQ1, TQ2",Torquay,Devon
+TQ,"TQ3, TQ4",Paignton,Devon
+TQ,TQ5,Brixham,Devon
+TQ,TQ6,DARTMOUTH,Devon
+TQ,TQ7,Kingsbridge,Devon
+TQ,TQ8,Salcombe,Devon
+TQ,TQ9shared,Totnes,Devon
+TQ,"TQ9,non-geo shared[2] TQ10",South Brent,Devon
+TQ,TQ11,Buckfastleigh,Devon
+TQ,"TQ12, TQ13",Newton Abbot,Devon
+TQ,TQ14,Teignmouth,Devon
+TR,"TR1, TR2, TR3, TR4",Truro,Cornwall
+TR,TR5,ST. AGNES,Cornwall
+TR,TR6,Perranporth,Cornwall
+TR,"TR7, TR8",Newquay,Cornwall
+TR,TR9,ST. COLUMB,Cornwall
+TR,TR10,PENRYN,Cornwall
+TR,TR11,FALMOUTH,Cornwall
+TR,"TR12, TR13",Helston,Cornwall
+TR,TR14,Camborne,Cornwall
+TR,"TR15, TR16",Redruth,Cornwall
+TR,TR17,Marazion,Cornwall
+TR,"TR18, TR19,
+TR20",Penzance,Cornwall
+TR,"TR21, TR22, TR23, TR24, TR25",Isles of Scilly,Isles of Scilly
+TR,TR26,ST. IVES,Cornwall
+TR,TR27,Hayle,Cornwall
+TS,"TS1, TS2, TS3, TS4, TS5, TS6, TS7, TS8, TS9",Middlesbrough,Cleveland
+TS,"TS10, TS11",Redcar,Cleveland
+TS,"TS12, TS13",Saltburn-by-the-Sea,Cleveland
+TS,TS14,Guisborough,Cleveland
+TS,TS15,Yarm,Cleveland
+TS,"TS16, TS17, TS18, TS19,
+TS20, TS21",Stockton-on-Tees,Cleveland
+TS,"TS22, TS23",Billingham,Cleveland
+TS,"TS24, TS25, TS26, TS27",Hartlepool,Cleveland
+TS,TS28,WINGATE,County Durham
+TS,TS29,Trimdon Station,County Durham
+TW,"TW1, TW2",Twickenham,Middlesex
+TW,"TW3, TW4, TW5, TW6",Hounslow,Middlesex
+TW,TW7,Isleworth,Middlesex
+TW,TW8,Brentford,Middlesex
+TW,"TW9,
+TW10",RICHMOND,Surrey
+TW,TW11,Teddington,Middlesex
+TW,TW12,HAMPTON,Middlesex
+TW,"TW13, TW14",Feltham,Middlesex
+TW,TW15,ASHFORD,Middlesex
+TW,TW16,Sunbury-on-Thames,Middlesex
+TW,TW17,Shepperton,Middlesex
+TW,"TW18, TW19",Staines-upon-Thames[11],Middlesex
+TW,TW20,Egham,Surrey
+UB,"UB1, UB2, UB3non-geo shared[5]",Southall,Middlesex
+UB,"UB3,shared UB4",HAYES,Middlesex
+UB,UB5shared,Northolt,Middlesex
+UB,"UB5,non-geo shared[6] UB6,
+UB18non-geo",Greenford,Middlesex
+UB,"UB7, UB8non-geo shared[2]",West Drayton,Middlesex
+UB,"UB8,shared UB9,
+UB10, UB11",Uxbridge,Middlesex
+W,"W1A,non-geo W1B, W1C, W1D, W1F, W1G, W1H, W1J, W1K, W1S, W1T, W1U, W1W,
+W2, W3, W4, W5, W6, W7, W8, W9,
+W10, W11, W12, W13, W14",LONDON,London
+WA,"WA1, WA2, WA3, WA4, WA5,
+WA55non-geo",Warrington,Cheshire
+WA,WA6,Frodsham,Cheshire
+WA,WA7,Runcorn,Cheshire
+WA,"WA8,
+WA88non-geo",Widnes,Cheshire
+WA,"WA9,
+WA10, WA11",ST. HELENS,Merseyside
+WA,WA12,Newton-le-Willows,Merseyside
+WA,WA13,Lymm,Cheshire
+WA,"WA14, WA15",Altrincham,Cheshire
+WA,WA16,Knutsford,Cheshire
+WC,"WC1A, WC1B, WC1E, WC1H, WC1N, WC1R, WC1V, WC1X,
+WC2A, WC2B, WC2E, WC2H, WC2N, WC2R",LONDON,London
+WD,WD3,Rickmansworth,Hertfordshire
+WD,"WD4, WD18non-geo shared[5]",Kings Langley,Hertfordshire
+WD,WD5,Abbots Langley,Hertfordshire
+WD,WD6,Borehamwood,Hertfordshire
+WD,WD7,Radlett,Hertfordshire
+WD,"WD17, WD18,shared WD19,
+WD24, WD25,
+WD99non-geo",Watford,Hertfordshire
+WD,WD23,Bushey,Hertfordshire
+WF,"WF1, WF2, WF3, WF4,
+WF90non-geo",Wakefield,West Yorkshire
+WF,WF5,Ossett,West Yorkshire
+WF,"WF6,
+WF10shared",NORMANTON,West Yorkshire
+WF,"WF7, WF8, WF9",Pontefract,West Yorkshire
+WF,WF10shared,Castleford,West Yorkshire
+WF,WF11,Knottingley,West Yorkshire
+WF,"WF12, WF13",Dewsbury,West Yorkshire
+WF,WF14,Mirfield,West Yorkshire
+WF,"WF15, WF16non-geo shared[5]",Liversedge,West Yorkshire
+WF,WF16shared,Heckmondwike,West Yorkshire
+WF,WF17,Batley,West Yorkshire
+WN,"WN1, WN2, WN3, WN4, WN5, WN6, WN8shared",Wigan,Lancashire
+WN,WN7,LEIGH,Lancashire
+WN,WN8shared,Skelmersdale,Lancashire
+WR,"WR1, WR2, WR3, WR4, WR5, WR6, WR7, WR8,
+WR78,non-geo
+WR99non-geo",Worcester,Worcestershire
+WR,WR9,DROITWICH,Worcestershire
+WR,WR10,Pershore,Worcestershire
+WR,WR11shared,Evesham,Worcestershire
+WR,"WR11,non-geo shared[6] WR12",BROADWAY,Worcestershire
+WR,"WR13, WR14",MALVERN,Worcestershire
+WR,WR15,Tenbury Wells,Worcestershire
+WS,"WS1, WS2, WS3, WS4, WS5, WS6, WS8, WS9",Walsall,West Midlands
+WS,WS7,Burntwood,Staffordshire
+WS,WS10,Wednesbury,West Midlands
+WS,"WS11, WS12",Cannock,Staffordshire
+WS,"WS13, WS14",Lichfield,Staffordshire
+WS,WS15,Rugeley,Staffordshire
+WV,"WV1,non-geo shared[2]
+WV12, WV13",Willenhall,West Midlands
+WV,"WV1,shared WV2, WV3, WV4, WV5, WV6, WV7, WV8, WV9,
+WV10, WV11, WV98non-geo",Wolverhampton,West Midlands
+WV,WV14,Bilston,West Midlands
+WV,"WV15, WV16",Bridgnorth,Shropshire
+YO,"YO1,
+YO10, YO19,
+YO23, YO24, YO26,
+YO30, YO31, YO32,
+YO41, YO42, YO43,
+YO51,
+YO60, YO61, YO62,
+YO90,non-geo YO91non-geo",York,North Yorkshire
+YO,YO7,Thirsk,North Yorkshire
+YO,YO8,Selby,North Yorkshire
+YO,"YO11, YO12, YO13",SCARBOROUGH,North Yorkshire
+YO,YO14,Filey,North Yorkshire
+YO,"YO15, YO16",Bridlington,North Humberside
+YO,YO17,MALTON,North Yorkshire
+YO,YO18,PICKERING,North Yorkshire
+YO,"YO21, YO22",Whitby,North Yorkshire
+YO,YO25,Driffield,North Humberside
+ZE,"ZE1, ZE2, ZE3",Shetland,Shetland Islands
