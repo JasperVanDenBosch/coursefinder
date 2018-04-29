@@ -43,10 +43,6 @@ jobs:
       - image: circleci/python:3.6.1
     working_directory: ~/repo
     steps:
-      - run: 
-          name: familiarize with host
-          command: |
-            ssh-keyscan coursefinder.life >> ~/.ssh/known_hosts
       - run:
           name: deploy package
           command: >-
