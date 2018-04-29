@@ -1,10 +1,14 @@
 import pandas
 import logging
 import string
+import pkg_resources
+from os.path import join
 logger = logging.getLogger(__name__)
+datadir = pkg_resources.resource_filename('coursefinder', '../data')
+
 
 occupations = pandas.read_csv(
-    'data/census_2011.csv',
+    join(datadir, 'census_2011.csv'),
     header=6,
 )
 # occupations.dropna

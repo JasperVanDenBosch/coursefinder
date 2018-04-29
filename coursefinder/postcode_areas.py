@@ -1,10 +1,13 @@
 import pandas
 import logging
 from coursefinder.geographies import crosswalk
+import pkg_resources
+from os.path import join
 logger = logging.getLogger(__name__)
+datadir = pkg_resources.resource_filename('coursefinder', '../data')
 
 areas = pandas.read_csv(
-    'data/postcode_areas.csv',
+    join(datadir, 'postcode_areas.csv'),
 )
 
 def geo_names_to_postcode_areas(names):

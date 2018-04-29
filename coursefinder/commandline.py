@@ -55,6 +55,8 @@ class CommandlineInterface(object):
         courses = courses.join(providers, on='PUBUKPRN')
         if areas.any():
             courses_in_range = courses[courses.POSTCODE.str[:2].isin(areas)]
+        else:
+            courses_in_range = courses
 
         for crosswalk in allCrosswalkTables:
             codes = crosswalk_codes(codes, **crosswalk)
