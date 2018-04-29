@@ -47,6 +47,7 @@ jobs:
           root: dist
           paths:
             - coursefinder-0.0.tar.gz
+            - unpack_install_start.sh
 
   deploy-job:
     <<: *defaults
