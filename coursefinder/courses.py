@@ -5,7 +5,7 @@ from numpy import dtype
 logger = logging.getLogger(__name__)
 
 courses = pandas.read_csv(
-    expanduser('~/data/coursefinder/on_2018_04_18_14_00_16/KISCOURSE.csv'),
+    expanduser('~/data/unistats/KISCOURSE.csv'),
     dtype={
         'ASSURL': dtype('O'),
         'ASSURLW': dtype('O'),

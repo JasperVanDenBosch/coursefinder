@@ -4,7 +4,7 @@ from os.path import join, expanduser
 logger = logging.getLogger(__name__)
 
 joblist = pandas.read_csv(
-    expanduser('~/data/coursefinder/on_2018_04_18_14_00_16/JOBLIST.csv'),
+    expanduser('~/data/unistats/JOBLIST.csv'),
 )
 
 joblist[joblist.JOB=='Welfare professionals'].nlargest(30, 'PERC')
