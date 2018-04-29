@@ -1,0 +1,7 @@
+include *.txt *.ini *.cfg *.rst
+recursive-include coursefinder *.ico *.png *.css *.gif *.jpg *.txt *.js *.html *.xml *.jinja2
+recursive-include data *.csv
+include install.sh
+include unpack_install_start.sh
+include requirements.txt
+

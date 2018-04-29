@@ -14,11 +14,16 @@ setup(
     test_suite="tests",
     scripts=['exe/coursefinder'],
     zip_safe=False,
-    classifiers=[],
+    classifiers=[
+    "Programming Language :: Python",
+    "Framework :: Pyramid",
+    "Topic :: Internet :: WWW/HTTP",
+    "Topic :: Internet :: WWW/HTTP :: WSGI :: Application",
+    ],
     install_requires=[],
     include_package_data=True,
     entry_points="""\
     [paste.app_factory]
-    main = coursefinder:main
+    main = coursefinder.web:main
     """,
 )
