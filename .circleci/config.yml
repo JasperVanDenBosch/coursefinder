@@ -46,8 +46,8 @@ jobs:
       - run:
           name: install dependencies
           command: |
-            - scp -v -o ConnectTimeout=10 dist/coursefinder-0.0.tar.gz root@coursefinder.life:/root/
-            - cat unpack_install_start.sh | ssh root@coursefinder.life
+            scp -v -o ConnectTimeout=10 dist/coursefinder-0.0.tar.gz root@coursefinder.life:/root/
+            cat unpack_install_start.sh | ssh root@coursefinder.life
 
 
 workflows:
