@@ -4,38 +4,62 @@
 #
 version: 2
 jobs:
-  build:
+  build-job:
     docker:
       - image: circleci/python:3.6.1
-
     working_directory: ~/repo
-
     steps:
       - checkout
-
       # Download and cache dependencies
       - restore_cache:
           keys:
           - v1-dependencies-{{ checksum "requirements.txt" }}
           # fallback to using the latest cache if no exact match is found
           - v1-dependencies-
-
       - run:
           name: install dependencies
           command: |
             python3 -m venv env
             . env/bin/activate
             pip install -r requirements.txt
-
       - save_cache:
           paths:
             - ./env
           key: v1-dependencies-{{ checksum "requirements.txt" }}
-
       - run:
           name: run tests
           command: |
             . env/bin/activate
+            python setup.py develop
             python setup.py test
+      - run:
+          name: build package
+          command: |
+            . env/bin/activate
+            python setup.py sdist
+
+  deploy-job:
+    docker:
+      - image: circleci/python:3.6.1
+    working_directory: ~/repo
+    steps:
+      - run:
+          name: install dependencies
+          command: |
+            - scp -v -o ConnectTimeout=10 dist/coursefinder-0.0.tar.gz root@coursefinder.life:/root/
+            - cat unpack_install_start.sh | ssh root@coursefinder.life
+
+
+workflows:
+  version: 2
+  build-deploy:
+    jobs:
+      - build-job
+      - deploy-job:
+          requires:
+            - build-job
+          filters:
+            branches:
+              only: master
 
           
