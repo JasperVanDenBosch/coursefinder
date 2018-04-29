@@ -43,8 +43,12 @@ jobs:
       - image: circleci/python:3.6.1
     working_directory: ~/repo
     steps:
+      - run: 
+          name: familiarize with host
+          command: |
+            ssh-keyscan coursefinder.life >> ~/.ssh/known_hosts
       - run:
-          name: install dependencies
+          name: deploy package and install
           command: |
             scp -v -o ConnectTimeout=10 dist/coursefinder-0.0.tar.gz root@coursefinder.life:/root/
             cat unpack_install_start.sh | ssh root@coursefinder.life
