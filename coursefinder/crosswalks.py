@@ -2,6 +2,7 @@ import pandas
 import numpy
 import logging
 import pkg_resources
+from coursefinder.exceptions import MissingDataException
 from os.path import join
 logger = logging.getLogger(__name__)
 datadir = pkg_resources.resource_filename('coursefinder', '../data')
@@ -53,4 +54,5 @@ def crosswalk_codes(codes, table, col):
         logger.debug('Matching %s code: %d', col, outcode)
     if not outcodes:
         logger.debug('No matching %s codes found.', col)
+        raise MissingDataException
     return outcodes
