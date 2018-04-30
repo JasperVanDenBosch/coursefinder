@@ -45,3 +45,25 @@ score: 0.13
 name: English and Film
 provider: Edinburgh Napier University
 ```
+
+## Approach
+
+The goal is to recommend courses that would be a good match for work in a given
+industry. One way to do this is a text-search approach, where by we find courses
+of which the title contains (part of) the name of the industry.
+However, even when using synonyms, this can be tricky.
+For example "Cicero style argument construction" won't have much to do with
+the "Construction" industry.
+
+Instead I used the unistats JOBLIST data, which contains common occupations
+of former students of the course. By connecting this with 2011 Census data,
+which contains a breakdown of professions by industry sector, we can estimate
+how many people that took a given course end up in a given industry.
+
+One challenge is that the industry coding used here is not the same as the
+classification used in the other data sets. I used lookup tables to "crosswalk"
+the code to the target system.
+
+For more information on the classification systems see `notes.md`.
+
+
