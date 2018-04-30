@@ -37,8 +37,7 @@ soclevels = occupations.columns.str.split().str.get(0).str.len().values
 soclevels[0] = -1  # total columns
 
 
-def topJobsForIndustries(codesFloat):
-    codes = [str(int(code)) for code in codesFloat]
+def topJobsForIndustries(codes):
     validCodes = totals.index.intersection(codes)
     if not validCodes.any():
         logger.debug('None of the industry codes have census data')

@@ -8,7 +8,7 @@ logger = logging.getLogger(__name__)
 datadir = pkg_resources.resource_filename('coursefinder', '../data')
 
 def int_or_none(sval):
-    return int(sval) if sval.isdigit() else None
+    return sval if sval.isdigit() else None
 
 
 sic_to_naics02 = pandas.read_csv(
@@ -48,10 +48,11 @@ allCrosswalkTables = [
 def crosswalk_codes(codes, table, col):
     outcodes = []
     for code in codes:
-        outcodes += table.loc[[code]][col].dropna().values.tolist()
+        if code in table.index:
+            outcodes += table.loc[[code]][col].dropna().values.tolist()
     outcodes = numpy.unique(outcodes).tolist()
     for outcode in outcodes:
-        logger.debug('Matching %s code: %d', col, outcode)
+        logger.debug('Matching %s code: %s', col, outcode)
     if not outcodes:
         logger.debug('No matching %s codes found.', col)
         raise MissingDataException

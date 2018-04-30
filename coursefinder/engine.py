@@ -7,7 +7,7 @@ class Engine(object):
 
     def recommendCourses(self, industry_names, geo_names):
         logger.debug('Loading data..')
-        from coursefinder.industries import industries, levels
+        from coursefinder.industries import industries
         from coursefinder.crosswalks import allCrosswalkTables, crosswalk_codes
         from coursefinder.occupations import topJobsForIndustries
         from coursefinder.joblist import joblist
@@ -17,13 +17,9 @@ class Engine(object):
 
         codes = []
         for name in industry_names:
-            industry_row = industries.lvl3==name
-            if industry_row.any():
-                industry = industries[industry_row]
-                code = industry.first_valid_index()
-                logger.debug('SIC: %d', code)
-                logger.debug('SIC %d division: %s', code, industry['div'])
-                logger.debug('SIC %d level: %s', code, industry.level)
+            for code, industry in industries[industries.name==name].iterrows():
+                logger.debug('SIC: %s', code)
+                logger.debug('SIC %s level: %d', code, industry.level)
                 codes.append(code)
             else:
                 logger.debug('Unknown industry: %s', name)
