@@ -18,6 +18,7 @@ class Engine(object):
         codes = []
         for name in industry_names:
             for code, industry in industries[industries.name==name].iterrows():
+                code = code.lstrip('')
                 logger.debug('SIC: %s', code)
                 logger.debug('SIC %s level: %d', code, industry.level)
                 codes.append(code)

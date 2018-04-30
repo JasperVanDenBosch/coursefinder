@@ -1,4 +1,5 @@
 SIC,SIC Title (and note),2002 NAICS,2002 NAICS Title
+100,,111000,
 111,Wheat,111140,Wheat Farming
 112,Rice ,111160,Rice Farming
 115,Corn,111150,Corn Farming
@@ -34,6 +35,7 @@ SIC,SIC Title (and note),2002 NAICS,2002 NAICS Title
 182,Food Crops Grown Under Cover (growing mushrooms),111411,Mushroom Production
 182,Food Crops Grown Under Cover (except growing mushrooms),111419,Other Food Crops Grown Under Cover
 191,"General Farms, Primarily Crop",111998,All Other Miscellaneous Crop Farming
+200,,112000,
 211,Beef Cattle Feedlots,112112,Cattle Feedlots
 212,"Beef Cattle, Except Feedlots",112111,Beef Cattle Ranching and Farming
 213,Hogs,112210,Hog and Pig Farming
@@ -74,11 +76,13 @@ SIC,SIC Title (and note),2002 NAICS,2002 NAICS Title
 781,Landscape Counseling and Planning (horticulture consulting),541690,Other Scientific and Technical Consulting Services
 782,Lawn and Garden Services,561730,Landscaping Services
 783,Ornamental Shrub and Tree Services,561730,Landscaping Services
+800,,113000,
 811,Timber Tracts (short rotation woody crops),111421,Nursery and Tree Production
 811,Timber Tracts (long term timber farms),113110,Timber Tract Operations
 831,Forest Nurseries and Gathering of Forest Products (gathering maple sap),111998,All Other Miscellaneous Crop Farming
 831,"Forest Nurseries and Gathering of Forest Products (forest products, except gathering of maple sap)",113210,Forest Nurseries and Gathering of Forest Products
 851,Forestry Services,115310,Support Activities for Forestry
+900,,114000,
 912,Finfish,114111,Finfish Fishing
 913,Shellfish,114112,Shellfish Fishing
 919,Miscellaneous Marine Products (plant aquaculture),111998,All Other Miscellaneous Crop Farming
@@ -88,6 +92,7 @@ SIC,SIC Title (and note),2002 NAICS,2002 NAICS Title
 921,Fish Hatcheries and Preserves (finfish hatcheries),112511,Finfish Farming and Fish Hatcheries
 921,Fish Hatcheries and Preserves (shellfish hatcheries),112512,Shellfish Farming
 971,"Hunting and Trapping, and Game Propagation",114210,Hunting and Trapping
+1000,,212200,
 1011,Iron Ores,212210,Iron Ore Mining
 1021,Copper Ores,212234,Copper Ore and Nickel Ore Mining
 1031,Lead and Zinc Ores,212231,Lead Ore and Zinc Ore Mining
@@ -100,11 +105,13 @@ SIC,SIC Title (and note),2002 NAICS,2002 NAICS Title
 1081,Metal Mining Services (geophysical surveying and mapping),541360,Geophysical Surveying and Mapping Services
 1094,Uranium-Radium-Vanadium Ores,212291,Uranium-Radium-Vanadium Ore Mining
 1099,"Miscellaneous Metal Ores, NEC",212299,All Other Metal Ore Mining
+1200,,212100,
 1221,Bituminous Coal and Lignite Surface Mining,212111,Bituminous Coal and Lignite Surface Mining
 1222,Bituminous Coal Underground Mining,212112,Bituminous Coal Underground Mining
 1231,Anthracite Mining,212113,Anthracite Mining
 1241,Coal Mining Services (except site preparation and related construction activities on a contract basis),213113,Support Activities for Coal Mining
 1241,Coal Mining Services (site preparation and related construction activities on a contract basis),238910,Site Preparation Contractors
+1300,,211000,
 1311,Crude Petroleum and Natural Gas,211111,Crude Petroleum and Natural Gas Extraction
 1321,Natural Gas Liquids,211112,Natural Gas Liquid Extraction
 1381,Drilling Oil and Gas Wells,213111,Drilling Oil and Gas Wells
@@ -113,6 +120,7 @@ SIC,SIC Title (and note),2002 NAICS,2002 NAICS Title
 1389,"Oil and Gas Field Services, NEC (except construction of field gathering lines, site preparation and related construction activities performed on a contract or fee basis)",213112,Support Activities for Oil and Gas Operations
 1389,"Oil and Gas Field Services, NEC (construction of field gathering lines on a contract or fee basis)",237120,Oil and Gas Pipeline and Related Structures Construction
 1389,"Oil and Gas Field Services, NEC (site preparation and related construction activities on a contract basis)",238910,Site Preparation Contractors
+1400,,212300,
 1411,Dimension Stone,212311,Dimension Stone Mining and Quarrying
 1422,Crushed and Broken Limestone,212312,Crushed and Broken Limestone Mining and Quarrying
 1423,Crushed and Broken Granite,212313,Crushed and Broken Granite Mining and Quarrying
@@ -129,6 +137,7 @@ SIC,SIC Title (and note),2002 NAICS,2002 NAICS Title
 1481,"Nonmetallic Minerals Services, Except Fuels (geophysical surveying and mapping)",541360,Geophysical Surveying and Mapping Services
 1499,"Miscellaneous Nonmetallic Minerals, Except Fuels (bituminous limestone and bituminous sandstone)",212319,Other Crushed and Broken Stone Mining and Quarrying
 1499,"Miscellaneous Nonmetallic Minerals, Except Fuels (except bituminous limestone and bituminous sandstone)",212399,All Other Nonmetallic Mineral Mining
+1500,,236000,
 1521,General Contractors--Single Family Houses (except remodeling contractors),236115,New Single-Family Housing Construction (except Operative Builders)
 1521,General Contractors - Single-Family Houses (remodeling contractors),236118,Residential Remodelers
 1522,"General Contractors - Residential Buildings Other Than Single-Family (except remodeling contractors, hotel and motel construction contractors, and dormitory and barrack construction contractors)",236116,New Multifamily Housing Construction (except Operative Builders)
@@ -193,6 +202,7 @@ SIC,SIC Title (and note),2002 NAICS,2002 NAICS Title
 1799,"Special Trade Contractors, NEC (except indoor swimming pool contractors; anchored earth retention contractors; glass tinting work; forming contractors; ornamental metal work contractors; lightning rod installation contractors; paint and wall paper removal contractors; countertop, residential-type, installation; miscellaneous residential building finishing contractors; dewatering contractors; test drilling for construction; and core drilling for construction)",238990,All Other Specialty Trade Contractors
 1799,"Special Trade Contractors, NEC (power washing building exteriors, not associated with construction)",561790,Other Services to Buildings and Dwellings
 1799,"Special Trade Contractors, NEC (asbestos abatement and lead paint removal contractors)",562910,Remediation Services
+2000,,311000,
 2011,Meat Packing Plants,311611,Animal (except Poultry) Slaughtering
 2013,Sausages and Other Prepared Meat Products (except lard made from purchased materials),311612,Meat Processed from Carcasses 
 2013,Sausages and Other Prepared Meat Products (lard made from purchased materials),311613,Rendering and Meat Byproduct Processing
@@ -281,11 +291,13 @@ SIC,SIC Title (and note),2002 NAICS,2002 NAICS Title
 2099,"Food Preparations, NEC (spices, dry dip mix, dry salad dressing mix, and seasoning mix)",311942,Spice and Extract Manufacturing
 2099,"Food Preparations, NEC (perishable prepared food)",311991,Perishable Prepared Food Manufacturing
 2099,"Food Preparations, NEC (except bouillon, marshmallow creme, spices, peanut butter, perishable prepared foods, tortillas, tea and tea extracts, dry dip mix, prepared dips, dry salad dressing mix, seasoning mix, dried potatoes, pasta, and rice mixed with other ingredients in mills or dehydrating plants, reducing maple sap to maple syrup, wool grease, and vinegar)",311999,All Other Miscellaneous Food Manufacturing
+2100,,312200,
 2111,Cigarettes,312221,Cigarette Manufacturing
 2121,Cigars,312229,Other Tobacco Product Manufacturing
 2131,Chewing and Smoking Tobacco and Snuff,312229,Other Tobacco Product Manufacturing
 2141,Tobacco Stemming and Redrying (stemming and redrying tobacco),312210,Tobacco Stemming and Redrying
 2141,Tobacco Stemming and Redrying (reconstituted tobacco),312229,Other Tobacco Product Manufacturing
+2200,,313000,
 2211,"Broadwoven Fabric Mills, Cotton",313210,Broadwoven Fabric Mills
 2221,"Broadwoven Fabric Mills, Manmade Fiber and Silk",313210,Broadwoven Fabric Mills
 2231,"Broadwoven Fabric Mills, Wool (Including Dyeing and Finishing) (except finishing wool fabric without weaving wool fabric)",313210,Broadwoven Fabric Mills
@@ -333,6 +345,7 @@ SIC,SIC Title (and note),2002 NAICS,2002 NAICS Title
 2299,"Textile Goods, NEC (nonwoven felt)",313230,Nonwoven Fabric Mills
 2299,"Textile Goods, NEC (finishing hard fiber thread and yarn without manufacturing thread or yarn)",313312,Textile and Fabric Finishing (except Broadwoven Fabric) Mills
 2299,"Textile Goods, NEC (manufacturing other textile products)",314999,All Other Miscellaneous Textile Product Mills
+2300,,315000,
 2311,"Men’s and Boys’ Suits, Coats, and Overcoats (contractors)",315211,Men’s and Boys’ Cut and Sew Apparel Contractors
 2311,"Men’s and Boys’ Suits, Coats, and Overcoats (except contractors)",315222,"Men’s and Boys’ Cut and Sew Suit, Coat and Overcoat Manufacturing "
 2321,"Men’s and Boys’ Shirts, Except Work Shirts (contractors)",315211,Men's and Boys' Cut and Sew Apparel Contractors
@@ -436,6 +449,7 @@ SIC,SIC Title (and note),2002 NAICS,2002 NAICS Title
 2399,"Fabricated Textile Products, NEC (women's, girls', and infants' contractors)",315212,"Women’s, Girls’, and Infants’ Cut and Sew Apparel Contractors"
 2399,"Fabricated Textile Products, NEC (apparel and apparel accessories, except contractors)",315999,Other Apparel Accessories and Other Apparel Manufacturing
 2399,"Fabricated Textile Products, NEC (seat belts, and seat and tire covers)",336360,Motor Vehicle Seating and Interior Trim Manufacturing
+2400,,321000,
 2411,Logging,113310,Logging
 2421,"Sawmills and Planing Mills, General (sawmills)",321113,Sawmills
 2421,"Sawmills and Planing Mills, General (lumber manufacturing from purchased lumber, softwood cut stock, wood lath, fence pickets, and planing mill products)",321912,"Cut Stock, Resawing Lumber, and Planing"
@@ -469,6 +483,7 @@ SIC,SIC Title (and note),2002 NAICS,2002 NAICS Title
 2499,"Wood Products, NEC (laundry hampers of reed, rattan, and willow)",337125,Household Furniture (except Wood and Metal) Manufacturing
 2499,"Wood Products, NEC (cork life preservers)",339113,Surgical Appliance and Supplies Manufacturing
 2499,"Wood Products, NEC (mirror and picture frames)",339999,All Other Miscellaneous Manufacturing
+2500,,233700,
 2511,"Wood Household Furniture, Except Upholstered (except wood box spring frames)",337122,Nonupholstered Wood Household Furniture Manufacturing
 2511,"Wood Household Furniture, Except Upholstered (wood box spring frames(parts))",337215,"Showcase, Partition, Shelving, and Locker Manufacturing"
 2512,"Wood Household Furniture, Upholstered",337121,Upholstered Household Furniture Manufacturing
@@ -493,6 +508,7 @@ SIC,SIC Title (and note),2002 NAICS,2002 NAICS Title
 2591,Drapery Hardware and Window Blinds and Shades,337920,Blind and Shade Manufacturing
 2599,"Furniture and Fixtures, NEC (except hospital beds)",337127,Institutional Furniture Manufacturing
 2599,"Furniture and Fixtures, NEC (hospital beds)",339111,Laboratory Apparatus and Furniture Manufacturing
+2600,,322000,
 2611,Pulp Mills (pulp producing mills only),322110,Pulp Mills
 2611,Pulp Mills (pulp mills producing paper except newsprint),322121,Paper (except Newsprint) Mills
 2611,Pulp Mills (pulp mills producing newsprint),322122,Newsprint Mills

@@ -1,0 +1,1318 @@
+SIC,SIC Industry,2002 NAICS,NAICS Industry,SIC to NAICS Employment Ratio
+10-1000,Metal mining,10-212000,"Mining, except oil and gas",93.1
+10-1000,Metal mining,10-213000,Support activities for mining,3.8
+10-1000,Metal mining,60-550000,Management of companies & enterprises,1.8
+10-1000,Metal mining,20-238000,Specialty trade contractors,1.1
+10-1200,Coal mining,10-212000,"Mining, except oil and gas",92.8
+10-1200,Coal mining,10-213000,Support activities for mining,3.8
+10-1200,Coal mining,60-550000,Management of companies & enterprises,1.9
+10-1200,Coal mining,20-238000,Specialty trade contractors,1.4
+10-1300,Oil and gas extraction,10-213000,Support activities for mining,55.4
+10-1300,Oil and gas extraction,10-211000,Oil and gas extraction,36.9
+10-1300,Oil and gas extraction,20-238000,Specialty trade contractors,3.8
+10-1300,Oil and gas extraction,60-540000,Professional and technical services,1.5
+10-1300,Oil and gas extraction,60-550000,Management of companies & enterprises,1.4
+10-1400,"Nonmetallic minerals, except fuels",10-212000,"Mining, except oil and gas",95.1
+10-1400,"Nonmetallic minerals, except fuels",60-550000,Management of companies & enterprises,2.9
+20-1500,General building contractors,20-236000,Construction of buildings,99.4
+20-1600,"Heavy construction, except building",20-237000,Heavy and civil engineering construction,86.6
+20-1600,"Heavy construction, except building",20-236000,Construction of buildings,9.8
+20-1600,"Heavy construction, except building",20-238000,Specialty trade contractors,2.8
+20-1700,Special trade contractors,20-238000,Specialty trade contractors,97.4
+20-1700,Special trade contractors,20-237000,Heavy and civil engineering construction,1.1
+31-2400,Lumber and wood products,31-321000,Wood products,73.4
+31-2400,Lumber and wood products,31-337000,Furniture and related products,14.3
+31-2400,Lumber and wood products,10-113300,Logging,8.8
+31-2400,Lumber and wood products,60-550000,Management of companies & enterprises,1.8
+31-2400,Lumber and wood products,31-339000,Miscellaneous manufacturing,1.5
+31-2500,Furniture and fixtures,31-337000,Furniture and related products,91
+31-2500,Furniture and fixtures,31-336000,Transportation equipment,5.6
+31-2500,Furniture and fixtures,60-550000,Management of companies & enterprises,2
+31-3200,"Stone, clay, and glass products",31-327000,Nonmetallic mineral products,94.7
+31-3200,"Stone, clay, and glass products",60-550000,Management of companies & enterprises,2.3
+31-3200,"Stone, clay, and glass products",10-212000,"Mining, except oil and gas",1.1
+31-3200,"Stone, clay, and glass products",60-540000,Professional and technical services,1
+31-3300,Primary metal industries,31-331000,Primary metals,87.6
+31-3300,Primary metal industries,31-335000,Electrical equipment and appliances,5.5
+31-3300,Primary metal industries,31-332000,Fabricated metal products,4
+31-3300,Primary metal industries,60-550000,Management of companies & enterprises,1.9
+31-3400,Fabricated metal products,31-332000,Fabricated metal products,88.4
+31-3400,Fabricated metal products,31-336000,Transportation equipment,8.1
+31-3400,Fabricated metal products,31-333000,Machinery,1.8
+31-3500,Industrial machinery and equipment,31-333000,Machinery,63.4
+31-3500,Industrial machinery and equipment,31-332000,Fabricated metal products,16.4
+31-3500,Industrial machinery and equipment,31-334000,Computer and electronic products,14.6
+31-3500,Industrial machinery and equipment,31-336000,Transportation equipment,2.3
+31-3500,Industrial machinery and equipment,60-550000,Management of companies & enterprises,1.8
+31-3600,Electronic and other electrical equipment,31-334000,Computer and electronic products,59.3
+31-3600,Electronic and other electrical equipment,31-335000,Electrical equipment and appliance,30.9
+31-3600,Electronic and other electrical equipment,31-336000,Transportation equipment,4.6
+31-3600,Electronic and other electrical equipment,60-550000,Management of companies & enterprises,2.2
+31-3600,Electronic and other electrical equipment,60-540000,Professional and technical services,1.6
+31-3700,Transportation equipment,31-336000,Transportation equipment,92.8
+31-3700,Transportation equipment,60-540000,Professional and technical services,3.1
+31-3700,Transportation equipment,60-550000,Management of companies & enterprises,2.3
+31-3800,Instruments and related products,31-334000,Computer and electronic products,56.1
+31-3800,Instruments and related products,31-339000,Miscellaneous manufacturing,29.5
+31-3800,Instruments and related products,31-333000,Machinery,6.1
+31-3800,Instruments and related products,32-325000,Chemicals,4.6
+31-3800,Instruments and related products,60-550000,Management of companies & enterprises,2.4
+31-3900,Miscellaneous manufacturing industries,31-339000,Miscellaneous manufacturing,90.1
+31-3900,Miscellaneous manufacturing industries,31-332000,Fabricated metal products,2.3
+31-3900,Miscellaneous manufacturing industries,32-326000,Plastics and rubber products,2.1
+31-3900,Miscellaneous manufacturing industries,60-550000,Management of companies & enterprises,2.1
+31-3900,Miscellaneous manufacturing industries,32-323000,Printing and related support activities,1.1
+32-2000,Food and kindred products,32-311000,Food manufacturing,86
+32-2000,Food and kindred products,32-312000,Beverages and tobacco products,9.5
+32-2000,Food and kindred products,60-550000,Management of companies & enterprises,3.3
+32-2100,Tobacco products,32-312000,Beverages and tobacco products,90.3
+32-2100,Tobacco products,60-550000,Management of companies & enterprises,9.1
+32-2200,Textile mill products,32-313000,Textile mills,67.5
+32-2200,Textile mill products,32-314000,Textile product mills,14.9
+32-2200,Textile mill products,32-315000,Apparel,12.8
+32-2200,Textile mill products,60-550000,Management of companies & enterprises,2.1
+32-2200,Textile mill products,43-493000,Warehousing and storage,1.4
+32-2200,Textile mill products,60-540000,Professional and technical services,1.4
+32-2300,Apparel and other textile products,32-315000,Apparel,65
+32-2300,Apparel and other textile products,32-314000,Textile product mills,20.7
+32-2300,Apparel and other textile products,31-336000,Transportation equipment,5.4
+32-2300,Apparel and other textile products,32-323000,Printing and related support activities,4.9
+32-2300,Apparel and other textile products,60-550000,Management of companies & enterprises,1.9
+32-2600,Paper and allied products,32-322000,Paper and paper products,90.6
+32-2600,Paper and allied products,32-326000,Plastics and rubber products,5.2
+32-2600,Paper and allied products,60-550000,Management of companies & enterprises,3.7
+32-2700,Printing and publishing,50-511000,"Publishing industries, except Internet",48.3
+32-2700,Printing and publishing,32-323000,Printing and related support activities,48.3
+32-2700,Printing and publishing,60-550000,Management of companies & enterprises,1.8
+32-2800,Chemicals and allied products,32-325000,Chemicals,87.8
+32-2800,Chemicals and allied products,60-550000,Management of companies & enterprises,7.4
+32-2800,Chemicals and allied products,60-540000,Professional and technical services,3.4
+32-2900,Petroleum and coal products,32-324000,Petroleum and coal products,92.6
+32-2900,Petroleum and coal products,60-550000,Management of companies & enterprises,6
+32-2900,Petroleum and coal products,60-540000,Professional and technical services,1
+32-3000,Rubber and miscellaneous plastics products,32-326000,Plastics and rubber products,88.9
+32-3000,Rubber and miscellaneous plastics products,31-339000,Miscellaneous manufacturing,5.5
+32-3000,Rubber and miscellaneous plastics products,32-325000,Chemicals,2.7
+32-3100,Leather and leather products,32-316000,Leather and allied products,91.8
+32-3100,Leather and leather products,32-315000,Apparel,3.5
+32-3100,Leather and leather products,60-550000,Management of companies & enterprises,2.6
+32-3100,Leather and leather products,31-339000,Miscellaneous manufacturing,1.2
+41-4000,Railroad transportation,43-482000,Rail transportation,97.4
+41-4000,Railroad transportation,43-488000,Support activities for transportation,2.6
+41-4100,Local and interurban passenger transit,43-485000,Transit and ground passenger transportation,78
+41-4100,Local and interurban passenger transit,65-621000,Ambulatory health care services,19.6
+41-4100,Local and interurban passenger transit,43-487000,Scenic and sightseeing transportation,1
+41-4200,Trucking and warehousing,43-484000,Truck transportation,74.6
+41-4200,Trucking and warehousing,43-493000,Warehousing and storage,10.2
+41-4200,Trucking and warehousing,43-492000,Couriers and messengers,6.7
+41-4200,Trucking and warehousing,60-562000,Waste management & remediation services,5.3
+41-4200,Trucking and warehousing,55-531000,Real estate,1.6
+41-4400,Water transportation,43-488000,Support activities for transportation,47.5
+41-4400,Water transportation,43-483000,Water transportation,28.7
+41-4400,Water transportation,70-713000,"Amusements, gambling, & recreation",12.8
+41-4400,Water transportation,43-487000,Scenic and sightseeing transportation,4.7
+41-4400,Water transportation,55-532000,Rental and leasing services,3.4
+41-4400,Water transportation,60-550000,Management of companies & enterprises,1.9
+41-4500,Transportation by air,43-481000,Air transportation,48.6
+41-4500,Transportation by air,43-492000,Couriers and messengers,36
+41-4500,Transportation by air,43-488000,Support activities for transportation,11
+41-4500,Transportation by air,43-493000,Warehousing and storage,1.4
+41-4500,Transportation by air,60-550000,Management of companies & enterprises,1.3
+41-4600,"Pipelines, except natural gas",43-486000,Pipeline transportation,95.6
+41-4600,"Pipelines, except natural gas",60-550000,Management of companies & enterprises,3.9
+41-4700,Transportation services,43-488000,Support activities for transportation,49.7
+41-4700,Transportation services,60-561000,Administrative and support services,45.6
+41-4700,Transportation services,60-540000,Professional and technical services,2.6
+41-4700,Transportation services,60-550000,Management of companies & enterprises,1.2
+42-4800,Communications,50-517000,Telecommunications,76.5
+42-4800,Communications,50-515000,"Broadcasting, except Internet",20
+42-4800,Communications,60-550000,Management of companies & enterprises,2.1
+42-4900,"Electric, gas, and sanitary services",44-220000,Utilities,70.1
+42-4900,"Electric, gas, and sanitary services",60-562000,Waste management & remediation services,18.1
+42-4900,"Electric, gas, and sanitary services",60-550000,Management of companies & enterprises,5.7
+42-4900,"Electric, gas, and sanitary services",43-486000,Pipeline transportation,3.8
+42-4900,"Electric, gas, and sanitary services",60-561000,Administrative and support services,1.2
+52-5000,"Wholesale trade, durable goods",41-423000,Durable goods,77.6
+52-5000,"Wholesale trade, durable goods",41-425000,Electronic markets and agents and brokers,9.6
+52-5000,"Wholesale trade, durable goods",42-444000,Building material & garden supply stores,3.1
+52-5000,"Wholesale trade, durable goods",42-441000,Motor vehicle and parts dealers,2.3
+52-5000,"Wholesale trade, durable goods",42-443000,Electronics and appliance stores,1.9
+52-5000,"Wholesale trade, durable goods",60-550000,Management of companies & enterprises,1.5
+52-5000,"Wholesale trade, durable goods",42-453000,Miscellaneous store retailers,1.2
+53-5100,"Wholesale trade, nondurable goods",41-424000,Nondurable goods,73.6
+53-5100,"Wholesale trade, nondurable goods",41-425000,Electronic markets and agents and brokers,7.7
+53-5100,"Wholesale trade, nondurable goods",42-445000,Food and beverage stores,5.2
+53-5100,"Wholesale trade, nondurable goods",42-453000,Miscellaneous store retailers,3.1
+53-5100,"Wholesale trade, nondurable goods",60-550000,Management of companies & enterprises,2.3
+53-5100,"Wholesale trade, nondurable goods",42-444000,Building material & garden supply stores,1.6
+53-5100,"Wholesale trade, nondurable goods",42-446000,Health and personal care stores,1.3
+53-5100,"Wholesale trade, nondurable goods",43-493000,Warehousing and storage,1
+53-5100,"Wholesale trade, nondurable goods",60-540000,Professional and technical services,1
+60-5200,Building materials and garden supplies,42-444000,Building material & garden supply stores,94.2
+60-5200,Building materials and garden supplies,42-453000,Miscellaneous store retailers,3.8
+60-5200,Building materials and garden supplies,60-550000,Management of companies & enterprises,1.3
+60-5300,General merchandise stores,42-452000,General merchandise stores,94.3
+60-5300,General merchandise stores,43-493000,Warehousing and storage,2.8
+60-5300,General merchandise stores,60-550000,Management of companies & enterprises,2.3
+60-5400,Food stores,42-445000,Food and beverage stores,77.9
+60-5400,Food stores,42-447000,Gasoline stations,8.5
+60-5400,Food stores,70-722000,Food services and drinking places,2.9
+60-5400,Food stores,42-452000,General merchandise stores,2.9
+60-5400,Food stores,32-311000,Food manufacturing,2.4
+60-5400,Food stores,60-550000,Management of companies & enterprises,2.2
+60-5400,Food stores,43-493000,Warehousing and storage,1.6
+60-5400,Food stores,42-446000,Health and personal care stores,1.2
+60-5500,Automotive dealers and service stations,42-441000,Motor vehicle and parts dealers,72.2
+60-5500,Automotive dealers and service stations,42-447000,Gasoline stations,26
+60-5500,Automotive dealers and service stations,60-550000,Management of companies & enterprises,1
+60-5600,Apparel and accessory stores,42-448000,Clothing and clothing accessories stores,95.1
+60-5600,Apparel and accessory stores,60-550000,Management of companies & enterprises,2.9
+60-5700,Furniture and home furnishings stores,42-442000,Furniture and home furnishings stores,44
+60-5700,Furniture and home furnishings stores,42-443000,Electronics and appliance stores,36.3
+60-5700,Furniture and home furnishings stores,42-451000,"Sporting goods, hobby, book & music stores",9.7
+60-5700,Furniture and home furnishings stores,31-337000,Furniture and related products,4
+60-5700,Furniture and home furnishings stores,60-550000,Management of companies & enterprises,2.3
+60-5700,Furniture and home furnishings stores,42-441000,Motor vehicle and parts dealers,1.7
+60-5700,Furniture and home furnishings stores,43-493000,Warehousing and storage,1
+60-5800,Eating and drinking places,70-722000,Food services and drinking places,98.9
+60-5900,Miscellaneous retail establishments,42-446000,Health and personal care stores,27.1
+60-5900,Miscellaneous retail establishments,42-453000,Miscellaneous store retailers,26.4
+60-5900,Miscellaneous retail establishments,42-451000,"Sporting goods, hobby, book & music stores",17.2
+60-5900,Miscellaneous retail establishments,42-454000,Nonstore retailers,15.1
+60-5900,Miscellaneous retail establishments,42-448000,Clothing and clothing accessories stores,5.5
+60-5900,Miscellaneous retail establishments,42-445000,Food and beverage stores,3.6
+60-5900,Miscellaneous retail establishments,42-443000,Electronics and appliance stores,1.5
+60-5900,Miscellaneous retail establishments,60-550000,Management of companies & enterprises,1.4
+71-6000,Depository institutions,55-522000,Credit intermediation & related activities,90.1
+71-6000,Depository institutions,60-550000,Management of companies & enterprises,6.3
+71-6000,Depository institutions,55-523000,"Securities, commodity contracts, investments",1.2
+71-6000,Depository institutions,55-521000,Monetary authorities - central bank,1.1
+71-6000,Depository institutions,60-540000,Professional and technical services,1
+71-6100,Nondepository institutions,55-522000,Credit intermediation & related activities,97.7
+71-6100,Nondepository institutions,60-550000,Management of companies & enterprises,1.5
+71-6200,Security and commodity brokers,55-523000,"Securities, commodity contracts, investments",97.6
+71-6200,Security and commodity brokers,60-550000,Management of companies & enterprises,2.3
+71-6700,Holding and other investment offices,60-550000,Management of companies & enterprises,43.6
+71-6700,Holding and other investment offices,80-813000,Membership associations & organizations,16.2
+71-6700,Holding and other investment offices,55-525000,"Funds, trusts, & other financial vehicles",15.8
+71-6700,Holding and other investment offices,55-523000,"Securities, commodity contracts, investments",12.7
+71-6700,Holding and other investment offices,55-533000,Lessors of nonfinancial intangible assets,11.4
+72-6300,Insurance carriers,55-524000,Insurance carriers and related activities,91
+72-6300,Insurance carriers,60-550000,Management of companies & enterprises,4
+72-6300,Insurance carriers,55-525000,"Funds, trusts, & other financial vehicles",3.2
+72-6400,"Insurance agents, brokers, and services",55-524000,Insurance carriers and related activities,99.4
+73-6500,Real estate,55-531000,Real estate,85.2
+73-6500,Real estate,20-237000,Heavy and civil engineering construction,5.7
+73-6500,Real estate,60-540000,Professional and technical services,2.9
+73-6500,Real estate,80-812000,Personal and laundry services,2.3
+73-6500,Real estate,80-813000,Membership associations & organizations,1.9
+73-6500,Real estate,60-550000,Management of companies & enterprises,1.5
+80-0700,Agricultural services,60-561000,Administrative and support services,58.2
+80-0700,Agricultural services,60-540000,Professional and technical services,33.7
+80-0700,Agricultural services,80-812000,Personal and laundry services,4.2
+80-7000,Hotels and other lodging places,70-721000,Accommodations,98.9
+80-7200,Personal services,80-812000,Personal and laundry services,76.9
+80-7200,Personal services,60-540000,Professional and technical services,16
+80-7200,Personal services,60-561000,Administrative and support services,3.4
+80-7200,Personal services,55-532000,Rental and leasing services,1.4
+80-7300,Business services,60-561000,Administrative and support services,64.4
+80-7300,Business services,60-540000,Professional and technical services,20.7
+80-7300,Business services,50-518000,"ISPs, search portals, & data processing",5.2
+80-7300,Business services,50-511000,"Publishing industries, except Internet",3.1
+80-7300,Business services,55-532000,Rental and leasing services,2.6
+80-7500,"Auto repair, services, and parking",80-811000,Repair and maintenance,71.4
+80-7500,"Auto repair, services, and parking",55-532000,Rental and leasing services,16.6
+80-7500,"Auto repair, services, and parking",80-812000,Personal and laundry services,6.3
+80-7500,"Auto repair, services, and parking",43-488000,Support activities for transportation,3.5
+80-7500,"Auto repair, services, and parking",60-550000,Management of companies & enterprises,1.2
+80-7600,Miscellaneous repair services,80-811000,Repair and maintenance,77.9
+80-7600,Miscellaneous repair services,60-561000,Administrative and support services,5.8
+80-7600,Miscellaneous repair services,60-562000,Waste management & remediation services,4.9
+80-7600,Miscellaneous repair services,42-443000,Electronics and appliance stores,4
+80-7600,Miscellaneous repair services,42-444000,Building material & garden supply stores,1.9
+80-7600,Miscellaneous repair services,42-442000,Furniture and home furnishings stores,1.6
+80-7600,Miscellaneous repair services,20-238000,Specialty trade contractors,1.2
+80-7800,Motion pictures,50-512000,Motion picture and sound recording industries,59.4
+80-7800,Motion pictures,55-532000,Rental and leasing services,27.7
+80-7800,Motion pictures,60-540000,Professional and technical services,7.5
+80-7800,Motion pictures,31-334000,Computer and electronic products,1.9
+80-7800,Motion pictures,70-711000,Performing arts and spectator sports,1.1
+80-7900,Amusement and recreation services,70-713000,"Amusements, gambling, and recreation",72.6
+80-7900,Amusement and recreation services,70-711000,Performing arts and spectator sports,18.7
+80-7900,Amusement and recreation services,65-610000,Educational services,4.5
+80-7900,Amusement and recreation services,60-561000,Administrative and support services,1.1
+80-8000,Health services,65-621000,Ambulatory health care services,41.8
+80-8000,Health services,65-622000,Hospitals,38.8
+80-8000,Health services,65-623000,Nursing and residential care facilities,17.7
+80-8000,Health services,60-550000,Management of companies & enterprises,1
+80-8100,Legal services,60-540000,Professional and technical services,99.2
+80-8200,Educational services,65-610000,Educational services,97.5
+80-8200,Educational services,50-519000,Other information services,1.4
+80-8200,Educational services,60-550000,Management of companies & enterprises,1.1
+80-8300,Social services,65-624000,Social assistance,62.8
+80-8300,Social services,65-623000,Nursing and residential care facilities,28
+80-8300,Social services,80-813000,Membership associations & organizations,7.1
+80-8300,Social services,60-550000,Management of companies & enterprises,2
+80-8400,Museums and botanical and zoological gardens,70-712000,"Museums, historical sites, zoos, and parks",99.4
+80-8600,Membership organizations,80-813000,Membership associations & organizations,95.7
+80-8600,Membership organizations,60-561000,Administrative and support services,3.1
+80-8600,Membership organizations,60-550000,Management of companies & enterprises,1.1
+80-8700,Engineering and management services,60-540000,Professional and technical services,87.3
+80-8700,Engineering and management services,60-561000,Administrative and support services,10
+80-8700,Engineering and management services,20-236000,Construction of buildings,1.1
+80-8900,"Services, nec",60-540000,Professional and technical services,53.2
+80-8900,"Services, nec",70-711000,Performing arts and spectator sports,26.3
+80-8900,"Services, nec",50-512000,Motion picture and sound recording industries,7.3
+80-8900,"Services, nec",50-519000,Other information services,5.3
+80-8900,"Services, nec",50-518000,"ISPs, search portals, & data processing",4.4
+80-8900,"Services, nec",50-516000,Internet publishing and broadcasting,3.1
+10-1010,Iron ores,10-212200,Metal ore mining,100
+10-1020,Copper ores,10-212200,Metal ore mining,97.2
+10-1020,Copper ores,60-550000,Management of companies and enterprises,2.8
+10-1030,Lead and zinc ores,10-212200,Metal ore mining,100
+10-1040,Gold and silver ores,10-212200,Metal ore mining,97.5
+10-1040,Gold and silver ores,60-550000,Management of companies and enterprises,2.4
+10-1090,Other metal ores and mining services,10-212200,Metal ore mining,66.1
+10-1090,Other metal ores and mining services,10-213000,Support activities for mining,24.3
+10-1090,Other metal ores and mining services,20-238900,Other specialty trade contractors,7.2
+10-1090,Other metal ores and mining services,60-550000,Management of companies and enterprises,1.3
+10-1090,Other metal ores and mining services,60-541300,Architectural and engineering services,1.1
+10-1220,Bituminous coal and lignite mining,10-212100,Coal mining,98
+10-1220,Bituminous coal and lignite mining,60-550000,Management of companies and enterprises,1.9
+10-1240,Anthracite mining and coal mining services,10-213000,Support activities for mining,59.1
+10-1240,Anthracite mining and coal mining services,20-238900,Other specialty trade contractors,22.1
+10-1240,Anthracite mining and coal mining services,10-212100,Coal mining,16.9
+10-1240,Anthracite mining and coal mining services,60-550000,Management of companies and enterprises,1.3
+10-1310,Crude petroleum and natural gas,10-211000,Oil and gas extraction,95.9
+10-1310,Crude petroleum and natural gas,60-550000,Management of companies and enterprises,2.9
+10-1310,Crude petroleum and natural gas,60-541200,Accounting and bookkeeping services,1.2
+10-1320,Natural gas liquids,10-211000,Oil and gas extraction,99.7
+10-1380,Oil and gas field services,10-213000,Support activities for mining,89.9
+10-1380,Oil and gas field services,20-238900,Other specialty trade contractors,6.2
+10-1380,Oil and gas field services,60-541300,Architectural and engineering services,1.8
+10-1380,Oil and gas field services,20-237100,Utility system construction,1.4
+10-1420,Crushed and broken stone,10-212300,Nonmetallic mineral mining and quarrying,95
+10-1420,Crushed and broken stone,60-550000,Management of companies and enterprises,4.3
+10-1440,Sand and gravel,10-212300,Nonmetallic mineral mining and quarrying,97.4
+10-1440,Sand and gravel,60-550000,Management of companies and enterprises,1.8
+10-1450,"Clay, ceramic, and refractory minerals",10-212300,Nonmetallic mineral mining and quarrying,90.9
+10-1450,"Clay, ceramic, and refractory minerals",60-550000,Management of companies and enterprises,6.3
+10-1450,"Clay, ceramic, and refractory minerals",60-561400,Business support services,1.9
+10-1470,Chemical and fertilizer minerals,10-212300,Nonmetallic mineral mining and quarrying,99.1
+10-1490,Dimension stone and other nonmetallic minerals,10-212300,Nonmetallic mineral mining and quarrying,88.1
+10-1490,Dimension stone and other nonmetallic minerals,10-213000,Support activities for mining,8.1
+10-1490,Dimension stone and other nonmetallic minerals,60-550000,Management of companies and enterprises,1.5
+20-1520,Residential building,20-236100,Residential building,97.9
+20-1520,Residential building,20-236200,Nonresidential building,1.8
+20-1530,Operative builders,20-236100,Residential building,85.1
+20-1530,Operative builders,20-236200,Nonresidential building,11.4
+20-1530,Operative builders,60-561400,Business support services,1.8
+20-1530,Operative builders,60-550000,Management of companies and enterprises,1.5
+20-1540,Nonresidential building,20-236200,Nonresidential building,99.1
+20-1610,Highway and street construction,20-237300,"Highway, street, and bridge construction",98.3
+20-1610,Highway and street construction,60-550000,Management of companies and enterprises,1.5
+20-1620,"Heavy construction, except highway",20-237100,Utility system construction,58.6
+20-1620,"Heavy construction, except highway",20-237900,Other heavy construction,15.4
+20-1620,"Heavy construction, except highway",20-236200,Nonresidential building,13.7
+20-1620,"Heavy construction, except highway",20-237300,"Highway, street, and bridge construction",8
+20-1620,"Heavy construction, except highway",20-238900,Other specialty trade contractors,3.8
+20-1710,"Plumbing, heating, and air conditioning",20-238200,Building equipment contractors,98.4
+20-1710,"Plumbing, heating, and air conditioning",20-238900,Other specialty trade contractors,1.2
+20-1720,Painting and paper hanging,20-238300,Building finishing contractors,97
+20-1720,Painting and paper hanging,20-237300,"Highway, street, and bridge construction",2.9
+20-1730,Electrical work,20-238200,Building equipment contractors,99.3
+20-1740,"Masonry, stonework, and plastering",20-238300,Building finishing contractors,65.4
+20-1740,"Masonry, stonework, and plastering",20-238100,Building foundation and exterior contractors,34.2
+20-1750,Carpentry and floor work,20-238300,Building finishing contractors,63.3
+20-1750,Carpentry and floor work,20-238100,Building foundation and exterior contractors,36.6
+20-1760,"Roofing, siding, and sheet metal work",20-238100,Building foundation and exterior contractors,86.6
+20-1760,"Roofing, siding, and sheet metal work",20-238300,Building finishing contractors,13.3
+20-1770,Concrete work,20-238100,Building foundation and exterior contractors,62.4
+20-1770,Concrete work,20-238900,Other specialty trade contractors,37.3
+20-1780,Water well drilling,20-237100,Utility system construction,100
+20-1790,Miscellaneous special trade contractors,20-238900,Other specialty trade contractors,46
+20-1790,Miscellaneous special trade contractors,20-238100,Building foundation and exterior contractors,24.1
+20-1790,Miscellaneous special trade contractors,20-238200,Building equipment contractors,15.8
+20-1790,Miscellaneous special trade contractors,60-562900,Remediation and other waste services,4.8
+20-1790,Miscellaneous special trade contractors,20-238300,Building finishing contractors,4.8
+20-1790,Miscellaneous special trade contractors,20-237900,Other heavy construction,2.3
+20-1790,Miscellaneous special trade contractors,20-236200,Nonresidential building,1.3
+31-2410,Logging,10-113300,Logging,99.8
+31-2420,Sawmills and planing mills,31-321100,Sawmills and wood preservation,66.2
+31-2420,Sawmills and planing mills,31-321900,Other wood products,25.6
+31-2420,Sawmills and planing mills,31-337200,Office furniture and fixtures,4.8
+31-2420,Sawmills and planing mills,60-550000,Management of companies and enterprises,3.1
+31-2430,"Millwork, plywood, and structural members",31-321900,Other wood products,36.4
+31-2430,"Millwork, plywood, and structural members",31-337100,Household and institutional furniture,31.9
+31-2430,"Millwork, plywood, and structural members",31-321200,Plywood and engineered wood products,29.4
+31-2430,"Millwork, plywood, and structural members",60-550000,Management of companies and enterprises,2.2
+31-2440,Wood containers,31-321900,Other wood products,99.7
+31-2450,Wood buildings and mobile homes,31-321900,Other wood products,99.2
+31-2490,Miscellaneous wood products,31-321900,Other wood products,43.6
+31-2490,Miscellaneous wood products,31-321200,Plywood and engineered wood products,24.9
+31-2490,Miscellaneous wood products,31-321100,Sawmills and wood preservation,15.2
+31-2490,Miscellaneous wood products,31-339900,Other miscellaneous manufacturing,13.4
+31-2490,Miscellaneous wood products,60-550000,Management of companies and enterprises,1.1
+31-2510,Household furniture,31-337100,Household and institutional furniture,84.3
+31-2510,Household furniture,31-337900,Other furniture-related products,11.3
+31-2510,Household furniture,31-337200,Office furniture and fixtures,1.2
+31-2510,Household furniture,60-550000,Management of companies and enterprises,2.3
+31-2520,Office furniture,31-337200,Office furniture and fixtures,99.2
+31-2530,Public building and related furniture,31-336300,Motor vehicle parts,58
+31-2530,Public building and related furniture,31-337100,Household and institutional furniture,33.6
+31-2530,Public building and related furniture,31-339900,Other miscellaneous manufacturing,4.5
+31-2530,Public building and related furniture,60-550000,Management of companies and enterprises,3.5
+31-2540,Partitions and fixtures,31-337200,Office furniture and fixtures,84.3
+31-2540,Partitions and fixtures,31-337100,Household and institutional furniture,15.5
+31-2590,Miscellaneous furniture and fixtures,31-337900,Other furniture-related products,59.2
+31-2590,Miscellaneous furniture and fixtures,31-337100,Household and institutional furniture,30.4
+31-2590,Miscellaneous furniture and fixtures,31-339100,Medical equipment and supplies,5.7
+31-2590,Miscellaneous furniture and fixtures,60-550000,Management of companies and enterprises,4.6
+31-3210,Flat glass,31-327200,Glass and glass products,96.1
+31-3210,Flat glass,60-550000,Management of companies and enterprises,2.6
+31-3210,Flat glass,60-541500,Computer systems design and related services,1.3
+31-3220,"Glass and glassware, pressed or blown",31-327200,Glass and glass products,92.2
+31-3220,"Glass and glassware, pressed or blown",60-541700,Scientific research and development services,2.9
+31-3220,"Glass and glassware, pressed or blown",60-550000,Management of companies and enterprises,2.7
+31-3220,"Glass and glassware, pressed or blown",60-541300,Architectural and engineering services,1.2
+31-3230,Products of purchased glass,31-327200,Glass and glass products,96.6
+31-3230,Products of purchased glass,60-550000,Management of companies and enterprises,3.1
+31-3240,"Cement, hydraulic",31-327300,Cement and concrete products,94.2
+31-3240,"Cement, hydraulic",60-550000,Management of companies and enterprises,5.2
+31-3250,Structural clay products,31-327100,Clay products and refractories,94.4
+31-3250,Structural clay products,60-550000,Management of companies and enterprises,4.9
+31-3260,Pottery and related products,31-327100,Clay products and refractories,97.2
+31-3260,Pottery and related products,60-541500,Computer systems design and related services,1.3
+31-3260,Pottery and related products,60-550000,Management of companies and enterprises,1
+31-3270,"Concrete, gypsum, and plaster products",31-327300,Cement and concrete products,87.2
+31-3270,"Concrete, gypsum, and plaster products",31-327900,"Lime, gypsum, and other nonmetallic mineral products",10.1
+31-3270,"Concrete, gypsum, and plaster products",60-550000,Management of companies and enterprises,2
+31-3280,Cut stone and stone products,31-327900,"Lime, gypsum, and other nonmetallic mineral products",98.9
+31-3290,Miscellaneous nonmetallic mineral products,31-327900,"Lime, gypsum, and other nonmetallic mineral products",70.8
+31-3290,Miscellaneous nonmetallic mineral products,31-327100,Clay products and refractories,13
+31-3290,Miscellaneous nonmetallic mineral products,10-212300,Nonmetallic mineral mining and quarrying,8.9
+31-3290,Miscellaneous nonmetallic mineral products,31-332900,Other fabricated metal products,1.9
+31-3290,Miscellaneous nonmetallic mineral products,60-550000,Management of companies and enterprises,1.5
+31-3290,Miscellaneous nonmetallic mineral products,31-336300,Motor vehicle parts,1.3
+31-3290,Miscellaneous nonmetallic mineral products,60-541700,Scientific research and development services,1.2
+31-3310,Blast furnaces and basic steel products,31-331100,Iron and steel mills and ferroalloy production,59.8
+31-3310,Blast furnaces and basic steel products,31-331200,Steel products from purchased steel,31.9
+31-3310,Blast furnaces and basic steel products,31-332600,Spring and wire products,3
+31-3310,Blast furnaces and basic steel products,60-550000,Management of companies and enterprises,2.7
+31-3310,Blast furnaces and basic steel products,32-324100,Petroleum and coal products,2.3
+31-3320,Iron and steel foundries,31-331500,Foundries,98.5
+31-3320,Iron and steel foundries,60-550000,Management of companies and enterprises,1.4
+31-3330,Primary nonferrous metals,31-331300,Alumina and aluminum production,57.6
+31-3330,Primary nonferrous metals,31-331400,Other nonferrous metal production,41.8
+31-3340,Secondary nonferrous metals,31-331400,Other nonferrous metal production,56.4
+31-3340,Secondary nonferrous metals,31-331300,Alumina and aluminum production,41.6
+31-3340,Secondary nonferrous metals,60-550000,Management of companies and enterprises,1.7
+31-3350,Nonferrous rolling and drawing,31-331400,Other nonferrous metal production,38.9
+31-3350,Nonferrous rolling and drawing,31-331300,Alumina and aluminum production,37.5
+31-3350,Nonferrous rolling and drawing,31-335900,Other electrical equip. and components,20.8
+31-3350,Nonferrous rolling and drawing,60-550000,Management of companies and enterprises,2.4
+31-3360,Nonferrous foundries (castings),31-331500,Foundries,99.4
+31-3390,Miscellaneous primary metal products,31-332800,"Coating, engraving, and heat treating metals",73.3
+31-3390,Miscellaneous primary metal products,31-331400,Other nonferrous metal production,12.8
+31-3390,Miscellaneous primary metal products,31-331200,Steel products from purchased steel,8.1
+31-3390,Miscellaneous primary metal products,31-332600,Spring and wire products,2.8
+31-3390,Miscellaneous primary metal products,31-331300,Alumina and aluminum production,2.1
+31-3410,Metal cans and shipping containers,31-332400,"Boilers, tanks, and shipping containers",96.9
+31-3410,Metal cans and shipping containers,60-550000,Management of companies and enterprises,2.8
+31-3420,"Cutlery, handtools, and hardware",31-332200,Cutlery and hand tools,46.3
+31-3420,"Cutlery, handtools, and hardware",31-332500,Hardware,39
+31-3420,"Cutlery, handtools, and hardware",31-332900,Other fabricated metal products,5.2
+31-3420,"Cutlery, handtools, and hardware",31-332700,Machine shops and threaded products,2.6
+31-3420,"Cutlery, handtools, and hardware",31-336300,Motor vehicle parts,2.5
+31-3420,"Cutlery, handtools, and hardware",31-337200,Office furniture and fixtures,1.2
+31-3430,"Plumbing and heating, except electric",31-332900,Other fabricated metal products,65
+31-3430,"Plumbing and heating, except electric",31-333400,HVAC and commercial refrigeration equip.,31.8
+31-3430,"Plumbing and heating, except electric",60-550000,Management of companies and enterprises,1.6
+31-3440,Fabricated structural metal products,31-332300,Architectural and structural metals,84.4
+31-3440,Fabricated structural metal products,31-332400,"Boilers, tanks, and shipping containers",12.2
+31-3440,Fabricated structural metal products,31-332100,Forging and stamping,1.3
+31-3440,Fabricated structural metal products,31-333400,HVAC and commercial refrigeration equip.,1.1
+31-3450,"Screw machine products, bolts, etc",31-332700,Machine shops and threaded products,98.4
+31-3450,"Screw machine products, bolts, etc",60-550000,Management of companies and enterprises,1.2
+31-3460,Metal forgings and stampings,31-336300,Motor vehicle parts,48.2
+31-3460,Metal forgings and stampings,31-332100,Forging and stamping,46.9
+31-3460,Metal forgings and stampings,31-332200,Cutlery and hand tools,2.1
+31-3460,Metal forgings and stampings,31-332400,"Boilers, tanks, and shipping containers",1.7
+31-3470,"Metal services, nec",31-332800,"Coating, engraving, and heat treating metals",98.7
+31-3470,"Metal services, nec",31-339900,Other miscellaneous manufacturing,1.1
+31-3480,"Ordnance and accessories, nec",31-332900,Other fabricated metal products,99.8
+31-3490,Miscellaneous fabricated metal products,31-332900,Other fabricated metal products,61.6
+31-3490,Miscellaneous fabricated metal products,31-332600,Spring and wire products,25.9
+31-3490,Miscellaneous fabricated metal products,31-332100,Forging and stamping,4.6
+31-3490,Miscellaneous fabricated metal products,31-336300,Motor vehicle parts,1.6
+31-3490,Miscellaneous fabricated metal products,31-332400,"Boilers, tanks, and shipping containers",1.5
+31-3490,Miscellaneous fabricated metal products,60-550000,Management of companies and enterprises,1.2
+31-3510,Engines and turbines,31-333600,Turbine and power transmission equipment,88.2
+31-3510,Engines and turbines,60-541700,Scientific research and development services,6
+31-3510,Engines and turbines,60-550000,Management of companies and enterprises,3.3
+31-3510,Engines and turbines,31-336300,Motor vehicle parts,1.9
+31-3520,Farm and garden machinery,31-333100,"Ag., construction, and mining machinery",87.5
+31-3520,Farm and garden machinery,60-550000,Management of companies and enterprises,4
+31-3520,Farm and garden machinery,31-332200,Cutlery and hand tools,3.5
+31-3520,Farm and garden machinery,31-332300,Architectural and structural metals,2.9
+31-3520,Farm and garden machinery,31-333900,Other general purpose machinery,1.4
+31-3530,Construction and related machinery,31-333100,"Ag., construction, and mining machinery",57.4
+31-3530,Construction and related machinery,31-333900,Other general purpose machinery,39
+31-3530,Construction and related machinery,60-550000,Management of companies and enterprises,1.3
+31-3540,Metalworking machinery,31-333500,Metalworking machinery,82.5
+31-3540,Metalworking machinery,31-333900,Other general purpose machinery,10.8
+31-3540,Metalworking machinery,31-332200,Cutlery and hand tools,3.2
+31-3540,Metalworking machinery,31-332900,Other fabricated metal products,2.4
+31-3550,Special industry machinery,31-333200,Industrial machinery,94.3
+31-3550,Special industry machinery,31-333300,Commercial and service industry machinery,2.9
+31-3550,Special industry machinery,60-550000,Management of companies and enterprises,1.2
+31-3560,General industrial machinery,31-333900,Other general purpose machinery,52.7
+31-3560,General industrial machinery,31-332900,Other fabricated metal products,16.2
+31-3560,General industrial machinery,31-333400,HVAC and commercial refrigeration equip.,14.4
+31-3560,General industrial machinery,31-333600,Turbine and power transmission equipment,14.2
+31-3560,General industrial machinery,60-550000,Management of companies and enterprises,1.7
+31-3570,Computer and office equipment,31-334100,Computer and peripheral equipment,84.1
+31-3570,Computer and office equipment,60-550000,Management of companies and enterprises,4.7
+31-3570,Computer and office equipment,31-333300,Commercial and service industry machinery,4.6
+31-3570,Computer and office equipment,41-423400,Commercial equipment,2
+31-3570,Computer and office equipment,60-541700,Scientific research and development services,1.3
+31-3580,Refrigeration and service machinery,31-333400,HVAC and commercial refrigeration equip.,60.4
+31-3580,Refrigeration and service machinery,31-333300,Commercial and service industry machinery,27.9
+31-3580,Refrigeration and service machinery,31-336300,Motor vehicle parts,9
+31-3580,Refrigeration and service machinery,31-333900,Other general purpose machinery,2
+31-3590,Miscellaneous industrial and commercial machinery,31-332700,Machine shops and threaded products,69.7
+31-3590,Miscellaneous industrial and commercial machinery,31-333900,Other general purpose machinery,16.6
+31-3590,Miscellaneous industrial and commercial machinery,31-336300,Motor vehicle parts,6.8
+31-3590,Miscellaneous industrial and commercial machinery,31-332800,"Coating, engraving, and heat treating metals",2.4
+31-3590,Miscellaneous industrial and commercial machinery,31-332900,Other fabricated metal products,1.9
+31-3590,Miscellaneous industrial and commercial machinery,31-333300,Commercial and service industry machinery,1.8
+31-3610,Electric distribution equipment,31-335300,Electrical equipment,96.9
+31-3610,Electric distribution equipment,60-550000,Management of companies and enterprises,2.1
+31-3620,Electrical industrial apparatus,31-335300,Electrical equipment,82.7
+31-3620,Electrical industrial apparatus,31-335900,Other electrical equip. and components,16
+31-3620,Electrical industrial apparatus,60-550000,Management of companies and enterprises,1.1
+31-3630,Household appliances,31-335200,Household appliances,92.4
+31-3630,Household appliances,31-333400,HVAC and commercial refrigeration equip.,2.2
+31-3630,Household appliances,60-550000,Management of companies and enterprises,2.1
+31-3630,Household appliances,43-493000,Warehousing and storage,1.8
+31-3640,Electric lighting and wiring equipment,31-335100,Electric lighting equipment,44.6
+31-3640,Electric lighting and wiring equipment,31-335900,Other electrical equip. and components,42.1
+31-3640,Electric lighting and wiring equipment,31-336300,Motor vehicle parts,10.1
+31-3640,Electric lighting and wiring equipment,60-550000,Management of companies and enterprises,1.7
+31-3650,Household audio and video equipment,31-334300,Audio and video equipment,62.8
+31-3650,Household audio and video equipment,31-334600,Magnetic media mfg. and reproduction,22.6
+31-3650,Household audio and video equipment,50-512200,Sound recording industries,8.1
+31-3650,Household audio and video equipment,60-550000,Management of companies and enterprises,5.9
+31-3660,Communications equipment,31-334200,Communications equipment,85.2
+31-3660,Communications equipment,60-541700,Scientific research and development services,7.1
+31-3660,Communications equipment,31-334400,Semiconductors and electronic components,5.6
+31-3660,Communications equipment,60-550000,Management of companies and enterprises,1.4
+31-3670,Electronic components and accessories,31-334400,Semiconductors and electronic components,95.6
+31-3670,Electronic components and accessories,60-550000,Management of companies and enterprises,2.5
+31-3670,Electronic components and accessories,31-334200,Communications equipment,1.2
+31-3690,Miscellaneous electrical equipment and supplies,31-336300,Motor vehicle parts,45
+31-3690,Miscellaneous electrical equipment and supplies,31-335900,Other electrical equip. and components,39.6
+31-3690,Miscellaneous electrical equipment and supplies,31-334600,Magnetic media mfg. and reproduction,5.5
+31-3690,Miscellaneous electrical equipment and supplies,31-333300,Commercial and service industry machinery,5
+31-3690,Miscellaneous electrical equipment and supplies,60-550000,Management of companies and enterprises,2
+31-3690,Miscellaneous electrical equipment and supplies,31-333900,Other general purpose machinery,1.4
+31-3710,Motor vehicles and equipment,31-336300,Motor vehicle parts,49.6
+31-3710,Motor vehicles and equipment,31-336100,Motor vehicles,29.4
+31-3710,Motor vehicles and equipment,31-336200,Motor vehicle bodies and trailers,13.4
+31-3710,Motor vehicles and equipment,60-550000,Management of companies and enterprises,3
+31-3710,Motor vehicles and equipment,60-541300,Architectural and engineering services,2.4
+31-3710,Motor vehicles and equipment,60-541700,Scientific research and development services,1.2
+31-3720,Aircraft and parts,31-336400,Aerospace products and parts,94.1
+31-3720,Aircraft and parts,31-332900,Other fabricated metal products,2.2
+31-3720,Aircraft and parts,60-550000,Management of companies and enterprises,2
+31-3730,Ship and boat building and repairing,31-336600,Ship and boat building,90.9
+31-3730,Ship and boat building and repairing,80-811400,Household goods repair and maintenance,5.5
+31-3730,Ship and boat building and repairing,43-488300,Support activities for water transportation,2.9
+31-3740,Railroad equipment,31-336500,Railroad rolling stock,88.9
+31-3740,Railroad equipment,31-333900,Other general purpose machinery,8.7
+31-3740,Railroad equipment,60-550000,Management of companies and enterprises,2.2
+31-3750,"Motorcycles, bicycles, and parts",31-336900,Other transportation equipment,98.7
+31-3760,"Guided missiles, space vehicles, and parts",31-336400,Aerospace products and parts,90.7
+31-3760,"Guided missiles, space vehicles, and parts",60-541700,Scientific research and development services,5.7
+31-3760,"Guided missiles, space vehicles, and parts",60-550000,Management of companies and enterprises,2.3
+31-3760,"Guided missiles, space vehicles, and parts",60-541500,Computer systems design and related services,1.3
+31-3790,Miscellaneous transportation equipment,31-336200,Motor vehicle bodies and trailers,61.5
+31-3790,Miscellaneous transportation equipment,31-336900,Other transportation equipment,32
+31-3790,Miscellaneous transportation equipment,31-336300,Motor vehicle parts,4.1
+31-3790,Miscellaneous transportation equipment,31-333900,Other general purpose machinery,1.8
+31-3810,Search and navigation equipment,31-334500,Electronic instruments,98.3
+31-3810,Search and navigation equipment,60-550000,Management of companies and enterprises,1.1
+31-3820,Measuring and controlling devices,31-334500,Electronic instruments,84.4
+31-3820,Measuring and controlling devices,31-333300,Commercial and service industry machinery,9.4
+31-3820,Measuring and controlling devices,31-339100,Medical equipment and supplies,4
+31-3820,Measuring and controlling devices,60-550000,Management of companies and enterprises,1.4
+31-3840,Medical instruments and supplies,31-339100,Medical equipment and supplies,70.6
+31-3840,Medical instruments and supplies,31-334500,Electronic instruments,22.9
+31-3840,Medical instruments and supplies,60-550000,Management of companies and enterprises,2.8
+31-3840,Medical instruments and supplies,32-322200,Converted paper products,1.9
+31-3840,Medical instruments and supplies,31-339900,Other miscellaneous manufacturing,1.1
+31-3850,Ophthalmic goods,31-339100,Medical equipment and supplies,96.7
+31-3850,Ophthalmic goods,60-550000,Management of companies and enterprises,2.5
+31-3860,Photographic equipment and supplies,32-325900,Other chemical products and preparations,57.4
+31-3860,Photographic equipment and supplies,31-333300,Commercial and service industry machinery,34.3
+31-3860,Photographic equipment and supplies,60-550000,Management of companies and enterprises,7.8
+31-3870,"Watches, clocks, watchcases, and parts",31-334500,Electronic instruments,98.9
+31-3870,"Watches, clocks, watchcases, and parts",60-550000,Management of companies and enterprises,1
+31-3910,"Jewelry, silverware, and plated ware",31-339900,Other miscellaneous manufacturing,93
+31-3910,"Jewelry, silverware, and plated ware",60-550000,Management of companies and enterprises,3.6
+31-3910,"Jewelry, silverware, and plated ware",31-332900,Other fabricated metal products,1.3
+31-3910,"Jewelry, silverware, and plated ware",31-332200,Cutlery and hand tools,1.3
+31-3930,Musical instruments,31-339900,Other miscellaneous manufacturing,99.2
+31-3940,Toys and sporting goods,31-339900,Other miscellaneous manufacturing,94.5
+31-3940,Toys and sporting goods,60-550000,Management of companies and enterprises,4.2
+31-3950,"Pens, pencils, office, and art supplies",31-339900,Other miscellaneous manufacturing,97
+31-3950,"Pens, pencils, office, and art supplies",60-550000,Management of companies and enterprises,1.2
+31-3960,Costume jewelry and notions,31-339900,Other miscellaneous manufacturing,96.1
+31-3960,Costume jewelry and notions,60-541200,Accounting and bookkeeping services,2.5
+31-3960,Costume jewelry and notions,60-550000,Management of companies and enterprises,1.4
+31-3990,Miscellaneous manufactures,31-339900,Other miscellaneous manufacturing,84.2
+31-3990,Miscellaneous manufactures,32-326100,Plastics products,4.7
+31-3990,Miscellaneous manufactures,31-332900,Other fabricated metal products,3.9
+31-3990,Miscellaneous manufactures,32-323000,Printing and related support activities,2.4
+31-3990,Miscellaneous manufactures,31-335100,Electric lighting equipment,1.1
+32-2010,Meat products,32-311600,Animal slaughtering and processing,96.4
+32-2010,Meat products,32-311900,Other food products,1.5
+32-2010,Meat products,60-550000,Management of companies and enterprises,1.5
+32-2020,Dairy products,32-311500,Dairy products,92.8
+32-2020,Dairy products,60-550000,Management of companies and enterprises,4.8
+32-2030,Preserved fruits and vegetables,32-311400,Fruit and vegetable preserving and specialty,88.1
+32-2030,Preserved fruits and vegetables,32-311900,Other food products,6.2
+32-2030,Preserved fruits and vegetables,60-550000,Management of companies and enterprises,4.5
+32-2040,Grain mill products,32-311100,Animal food,43.2
+32-2040,Grain mill products,32-311200,Grain and oilseed milling,35.3
+32-2040,Grain mill products,32-311800,Bakeries and tortilla manufacturing,12.4
+32-2040,Grain mill products,60-550000,Management of companies and enterprises,4.7
+32-2040,Grain mill products,32-311600,Animal slaughtering and processing,1.2
+32-2040,Grain mill products,60-541700,Scientific research and development services,1.1
+32-2050,Bakery products,32-311800,Bakeries and tortilla manufacturing,95
+32-2050,Bakery products,60-550000,Management of companies and enterprises,2.5
+32-2050,Bakery products,32-311900,Other food products,2.1
+32-2060,Sugar and confectionery products,32-311300,Sugar and confectionery products,85.7
+32-2060,Sugar and confectionery products,32-311900,Other food products,8.7
+32-2060,Sugar and confectionery products,60-550000,Management of companies and enterprises,4.9
+32-2070,Fats and oils,32-311200,Grain and oilseed milling,66.2
+32-2070,Fats and oils,32-311600,Animal slaughtering and processing,25.9
+32-2070,Fats and oils,60-550000,Management of companies and enterprises,5.8
+32-2070,Fats and oils,32-311700,Seafood product preparation and packaging,1.8
+32-2080,Beverages,32-312100,Beverages,81.2
+32-2080,Beverages,32-311900,Other food products,10.1
+32-2080,Beverages,60-550000,Management of companies and enterprises,6.1
+32-2080,Beverages,43-493000,Warehousing and storage,1.3
+32-2090,Miscellaneous food and kindred products,32-311900,Other food products,52.9
+32-2090,Miscellaneous food and kindred products,32-311700,Seafood product preparation and packaging,24.9
+32-2090,Miscellaneous food and kindred products,32-311800,Bakeries and tortilla manufacturing,13.2
+32-2090,Miscellaneous food and kindred products,32-312100,Beverages,3.5
+32-2090,Miscellaneous food and kindred products,60-550000,Management of companies and enterprises,1.9
+32-2090,Miscellaneous food and kindred products,32-311300,Sugar and confectionery products,1.4
+32-2110,Cigarettes,32-312200,Tobacco and tobacco products,87.6
+32-2110,Cigarettes,60-550000,Management of companies and enterprises,12.2
+32-2120,Cigars,32-312200,Tobacco and tobacco products,99
+32-2140,Other tobacco products,32-312200,Tobacco and tobacco products,94.8
+32-2140,Other tobacco products,60-550000,Management of companies and enterprises,3.6
+32-2140,Other tobacco products,43-493000,Warehousing and storage,1.4
+32-2210,"Broadwoven fabric mills, cotton",32-313200,Fabric mills,96.7
+32-2210,"Broadwoven fabric mills, cotton",60-550000,Management of companies and enterprises,3
+32-2220,"Broadwoven fabric mills, synthetics",32-313200,Fabric mills,97.1
+32-2220,"Broadwoven fabric mills, synthetics",60-550000,Management of companies and enterprises,2.5
+32-2230,"Broadwoven fabric mills, wool",32-313200,Fabric mills,74.9
+32-2230,"Broadwoven fabric mills, wool",32-313300,Textile and fabric finishing mills,19
+32-2230,"Broadwoven fabric mills, wool",60-550000,Management of companies and enterprises,6.1
+32-2240,Narrow fabric mills,32-313200,Fabric mills,98.9
+32-2250,Knitting mills,32-315100,Apparel knitting mills,55.2
+32-2250,Knitting mills,32-313200,Fabric mills,22.3
+32-2250,Knitting mills,32-313300,Textile and fabric finishing mills,15.9
+32-2250,Knitting mills,60-550000,Management of companies and enterprises,3.2
+32-2250,Knitting mills,43-493000,Warehousing and storage,2.8
+32-2260,"Textile finishing, except wool",32-313300,Textile and fabric finishing mills,97.8
+32-2260,"Textile finishing, except wool",60-550000,Management of companies and enterprises,1.4
+32-2270,Carpets and rugs,32-314100,Textile furnishings mills,86.1
+32-2270,Carpets and rugs,60-541500,Computer systems design and related services,8.4
+32-2270,Carpets and rugs,43-493000,Warehousing and storage,4.2
+32-2270,Carpets and rugs,60-550000,Management of companies and enterprises,1.3
+32-2280,Yarn and thread mills,32-313100,"Fiber, yarn, and thread mills",96.9
+32-2280,Yarn and thread mills,60-550000,Management of companies and enterprises,1.1
+32-2290,Miscellaneous textile goods,32-313200,Fabric mills,39.4
+32-2290,Miscellaneous textile goods,32-314900,Other textile product mills,34.9
+32-2290,Miscellaneous textile goods,32-313300,Textile and fabric finishing mills,19.8
+32-2290,Miscellaneous textile goods,32-313100,"Fiber, yarn, and thread mills",4.3
+32-2290,Miscellaneous textile goods,60-550000,Management of companies and enterprises,1
+32-2310,Men's and boys' suits and coats,32-315200,Cut and sew apparel manufacturing,98
+32-2310,Men's and boys' suits and coats,60-550000,Management of companies and enterprises,1.1
+32-2320,Men's and boys' furnishings,32-315200,Cut and sew apparel manufacturing,89.2
+32-2320,Men's and boys' furnishings,60-550000,Management of companies and enterprises,5.2
+32-2320,Men's and boys' furnishings,32-315900,Accessories and other apparel,2.3
+32-2320,Men's and boys' furnishings,43-493000,Warehousing and storage,2
+32-2330,Women's and misses' outerwear,32-315200,Cut and sew apparel manufacturing,97.4
+32-2330,Women's and misses' outerwear,32-315900,Accessories and other apparel,1.1
+32-2330,Women's and misses' outerwear,60-550000,Management of companies and enterprises,1
+32-2340,Women's and children's undergarments,32-315200,Cut and sew apparel manufacturing,90.8
+32-2340,Women's and children's undergarments,60-550000,Management of companies and enterprises,5.2
+32-2340,Women's and children's undergarments,43-493000,Warehousing and storage,3.3
+32-2350,"Hats, caps, and millinery",32-315900,Accessories and other apparel,78.5
+32-2350,"Hats, caps, and millinery",32-315200,Cut and sew apparel manufacturing,21
+32-2360,Girls' and children's outerwear,32-315200,Cut and sew apparel manufacturing,94.2
+32-2360,Girls' and children's outerwear,43-493000,Warehousing and storage,3.9
+32-2360,Girls' and children's outerwear,60-550000,Management of companies and enterprises,1.7
+32-2380,Fur goods and miscellaneous apparel and accessories,32-315200,Cut and sew apparel manufacturing,67
+32-2380,Fur goods and miscellaneous apparel and accessories,32-315900,Accessories and other apparel,29.4
+32-2380,Fur goods and miscellaneous apparel and accessories,60-561400,Business support services,1.5
+32-2380,Fur goods and miscellaneous apparel and accessories,60-550000,Management of companies and enterprises,1.2
+32-2390,Miscellaneous fabricated textile products,32-314100,Textile furnishings mills,30.8
+32-2390,Miscellaneous fabricated textile products,32-314900,Other textile product mills,28.9
+32-2390,Miscellaneous fabricated textile products,31-336300,Motor vehicle parts,15.6
+32-2390,Miscellaneous fabricated textile products,32-323000,Printing and related support activities,14.1
+32-2390,Miscellaneous fabricated textile products,32-315200,Cut and sew apparel manufacturing,4.9
+32-2390,Miscellaneous fabricated textile products,32-315900,Accessories and other apparel,2.6
+32-2390,Miscellaneous fabricated textile products,32-313200,Fabric mills,1.1
+32-2390,Miscellaneous fabricated textile products,31-339900,Other miscellaneous manufacturing,1
+32-2610,Pulp mills,32-322100,"Pulp, paper, and paperboard mills",98.5
+32-2610,Pulp mills,60-550000,Management of companies and enterprises,1.4
+32-2620,Paper mills,32-322100,"Pulp, paper, and paperboard mills",96
+32-2620,Paper mills,60-550000,Management of companies and enterprises,3.2
+32-2630,Paperboard mills,32-322100,"Pulp, paper, and paperboard mills",98.2
+32-2630,Paperboard mills,60-550000,Management of companies and enterprises,1.7
+32-2650,Paperboard containers and boxes,32-322200,Converted paper products,98.3
+32-2650,Paperboard containers and boxes,60-550000,Management of companies and enterprises,1.3
+32-2670,Miscellaneous converted paper products,32-322200,Converted paper products,79
+32-2670,Miscellaneous converted paper products,32-326100,Plastics products,14
+32-2670,Miscellaneous converted paper products,60-550000,Management of companies and enterprises,6.7
+32-2710,Newspapers,50-511100,"Newspaper, book, and directory publishers",95.9
+32-2710,Newspapers,60-550000,Management of companies and enterprises,2.9
+32-2720,Periodicals,50-511100,"Newspaper, book, and directory publishers",96.1
+32-2720,Periodicals,60-550000,Management of companies and enterprises,1.7
+32-2720,Periodicals,50-516000,Internet publishing and broadcasting,1.5
+32-2730,Books,50-511100,"Newspaper, book, and directory publishers",63
+32-2730,Books,32-323000,Printing and related support activities,30.8
+32-2730,Books,60-550000,Management of companies and enterprises,2.5
+32-2730,Books,43-493000,Warehousing and storage,1.6
+32-2730,Books,50-512200,Sound recording industries,1.5
+32-2740,Miscellaneous publishing,50-511100,"Newspaper, book, and directory publishers",91.1
+32-2740,Miscellaneous publishing,50-516000,Internet publishing and broadcasting,4
+32-2740,Miscellaneous publishing,60-550000,Management of companies and enterprises,2.3
+32-2740,Miscellaneous publishing,50-512200,Sound recording industries,2
+32-2750,Commercial printing,32-323000,Printing and related support activities,99.2
+32-2760,Manifold business forms,32-323000,Printing and related support activities,93.7
+32-2760,Manifold business forms,60-550000,Management of companies and enterprises,4.7
+32-2760,Manifold business forms,60-541700,Scientific research and development services,1
+32-2770,Greeting cards,50-511100,"Newspaper, book, and directory publishers",65.7
+32-2770,Greeting cards,32-323000,Printing and related support activities,24.3
+32-2770,Greeting cards,43-493000,Warehousing and storage,8.8
+32-2770,Greeting cards,60-550000,Management of companies and enterprises,1.1
+32-2780,Blankbooks and bookbinding,32-323000,Printing and related support activities,96.9
+32-2780,Blankbooks and bookbinding,60-550000,Management of companies and enterprises,2.9
+32-2790,Printing trade services,32-323000,Printing and related support activities,99.3
+32-2810,Industrial inorganic chemicals,32-325100,Basic chemicals,85.3
+32-2810,Industrial inorganic chemicals,32-325900,Other chemical products and preparations,5.9
+32-2810,Industrial inorganic chemicals,60-550000,Management of companies and enterprises,4.5
+32-2810,Industrial inorganic chemicals,31-331300,Alumina and aluminum production,2.7
+32-2820,Plastics materials and synthetics,32-325200,"Resin, rubber, and artificial fibers",88.4
+32-2820,Plastics materials and synthetics,60-550000,Management of companies and enterprises,6.5
+32-2820,Plastics materials and synthetics,60-541700,Scientific research and development services,2.8
+32-2820,Plastics materials and synthetics,60-541500,Computer systems design and related services,1.7
+32-2830,Drugs,32-325400,Pharmaceuticals and medicines,87.8
+32-2830,Drugs,60-550000,Management of companies and enterprises,4.3
+32-2830,Drugs,60-541700,Scientific research and development services,3.5
+32-2830,Drugs,60-541300,Architectural and engineering services,2.2
+32-2840,"Soap, cleaners, and toilet goods",32-325600,"Soaps, cleaning compounds, and toiletries",82.5
+32-2840,"Soap, cleaners, and toilet goods",60-550000,Management of companies and enterprises,16.3
+32-2850,Paints and allied products,32-325500,"Paints, coatings, and adhesives",93.6
+32-2850,Paints and allied products,60-550000,Management of companies and enterprises,3.8
+32-2850,Paints and allied products,43-493000,Warehousing and storage,1.2
+32-2860,Industrial organic chemicals,32-325100,Basic chemicals,83.2
+32-2860,Industrial organic chemicals,60-550000,Management of companies and enterprises,10.1
+32-2860,Industrial organic chemicals,60-541700,Scientific research and development services,3.1
+32-2860,Industrial organic chemicals,32-325900,Other chemical products and preparations,2.6
+32-2870,Agricultural chemicals,32-325300,Agricultural chemicals,93.8
+32-2870,Agricultural chemicals,60-550000,Management of companies and enterprises,5.5
+32-2890,Miscellaneous chemical products,32-325900,Other chemical products and preparations,52
+32-2890,Miscellaneous chemical products,32-325500,"Paints, coatings, and adhesives",30.9
+32-2890,Miscellaneous chemical products,60-550000,Management of companies and enterprises,7
+32-2890,Miscellaneous chemical products,32-325100,Basic chemicals,6.1
+32-2890,Miscellaneous chemical products,32-311900,Other food products,2.5
+32-2910,Petroleum refining,32-324100,Petroleum and coal products,91.6
+32-2910,Petroleum refining,60-550000,Management of companies and enterprises,6.6
+32-2950,Asphalt paving and roofing materials,32-324100,Petroleum and coal products,96.3
+32-2950,Asphalt paving and roofing materials,60-550000,Management of companies and enterprises,3.3
+32-2990,Miscellaneous petroleum and coal products,32-324100,Petroleum and coal products,91.5
+32-2990,Miscellaneous petroleum and coal products,60-550000,Management of companies and enterprises,6.9
+32-3010,Tires and inner tubes,32-326200,Rubber products,99.1
+32-3020,Rubber and plastics footwear,32-316200,Footwear,79.4
+32-3020,Rubber and plastics footwear,60-550000,Management of companies and enterprises,19
+32-3020,Rubber and plastics footwear,43-493000,Warehousing and storage,1.6
+32-3050,"Hose, belting, gaskets, and packing",31-339900,Other miscellaneous manufacturing,57.5
+32-3050,"Hose, belting, gaskets, and packing",32-326200,Rubber products,40.8
+32-3050,"Hose, belting, gaskets, and packing",60-550000,Management of companies and enterprises,1.1
+32-3060,"Fabricated rubber products, nec",32-326200,Rubber products,88.9
+32-3060,"Fabricated rubber products, nec",32-313300,Textile and fabric finishing mills,3.2
+32-3060,"Fabricated rubber products, nec",31-339100,Medical equipment and supplies.,2.6
+32-3060,"Fabricated rubber products, nec",31-339900,Other miscellaneous manufacturing,1.7
+32-3060,"Fabricated rubber products, nec",32-326100,Plastics products,1.3
+32-3080,"Miscellaneous plastics products, nec",32-326100,Plastics products,93
+32-3080,"Miscellaneous plastics products, nec",32-325900,Other chemical products and preparations,3.6
+32-3080,"Miscellaneous plastics products, nec",31-337200,Office furniture and fixtures,1.2
+32-3080,"Miscellaneous plastics products, nec",31-339100,Medical equipment and supplies,1.1
+32-3110,Leather tanning and finishing,32-316900,"Leather and hide tanning and finishing, and other leather products",99.6
+32-3140,"Footwear cut stock and footwear, except rubber",32-316200,Footwear,91.6
+32-3140,"Footwear cut stock and footwear, except rubber",60-550000,Management of companies and enterprises,4.1
+32-3140,"Footwear cut stock and footwear, except rubber",32-316900,"Leather and hide tanning and finishing, and other leather products",3
+32-3160,Luggage,32-316900,"Leather and hide tanning and finishing, and other leather products",99.9
+32-3170,Handbags and personal leather goods,32-316900,"Leather and hide tanning and finishing, and other leather products",80.1
+32-3170,Handbags and personal leather goods,31-339900,Other miscellaneous manufacturing,10.4
+32-3170,Handbags and personal leather goods,60-550000,Management of companies and enterprises,6.4
+32-3170,Handbags and personal leather goods,43-493000,Warehousing and storage,2.1
+32-3170,Handbags and personal leather goods,60-561900,Other support services,1
+32-3190,"Leather gloves and mittens and leather goods, nec",32-316900,"Leather and hide tanning and finishing, and other leather products",80.1
+32-3190,"Leather gloves and mittens and leather goods, nec",32-315900,Accessories and other apparel,14.7
+32-3190,"Leather gloves and mittens and leather goods, nec",32-315200,Cut and sew apparel manufacturing,3.9
+41-4010,Railroad transportation,43-482000,Rail transportation,97.4
+41-4010,Railroad transportation,43-488900,"Support activities for other transportation, including rail",2.6
+41-4110,Local and suburban transportation,65-621900,Other ambulatory health care services,41
+41-4110,Local and suburban transportation,43-485900,Other ground passenger transportation,21.8
+41-4110,Local and suburban transportation,43-485300,Taxi and limousine service,16.7
+41-4110,Local and suburban transportation,43-485100,Urban transit systems,15.1
+41-4110,Local and suburban transportation,43-485400,School and employee bus transportation,2.5
+41-4110,Local and suburban transportation,43-487000,Scenic and sightseeing transportation,2.2
+41-4120,Taxicabs,43-485300,Taxi and limousine service,99.9
+41-4130,Intercity and rural bus transportation,43-485200,Interurban and rural bus transportation,94.3
+41-4130,Intercity and rural bus transportation,60-550000,Management of companies and enterprises,2.8
+41-4130,Intercity and rural bus transportation,80-811100,Automotive repair and maintenance,1.1
+41-4150,School buses,43-485400,School and employee bus transportation,99.1
+41-4170,"Bus charter service, and bus terminal and service facilities",43-485500,Charter bus industry,94.5
+41-4170,"Bus charter service, and bus terminal and service facilities",43-488400,Support activities for road transportation,5.4
+41-4210,"Trucking and courier services, except air",43-484100,General freight trucking,61.3
+41-4210,"Trucking and courier services, except air",43-484200,Specialized freight trucking,23.8
+41-4210,"Trucking and courier services, except air",60-562100,Waste collection,6.1
+41-4210,"Trucking and courier services, except air",43-492100,Couriers,4.3
+41-4220,Public warehousing and storage,43-493000,Warehousing and storage,85.4
+41-4220,Public warehousing and storage,55-531100,Lessors of real estate,13.8
+41-4230,Trucking terminal facilities,43-488400,Support activities for road transportation,99.7
+41-4440,Water transportation of freight,43-483100,"Sea, coastal, and Great Lakes transportation",56.9
+41-4440,Water transportation of freight,43-483200,Inland water transportation,37.9
+41-4440,Water transportation of freight,60-550000,Management of companies and enterprises,5
+41-4480,Water transportation of passengers,43-483100,"Sea, coastal, and Great Lakes transportation",48.7
+41-4480,Water transportation of passengers,43-487000,Scenic and sightseeing transportation,37.3
+41-4480,Water transportation of passengers,43-483200,Inland water transportation,12.2
+41-4480,Water transportation of passengers,60-550000,Management of companies and enterprises,1.2
+41-4490,Water transportation services,43-488300,Support activities for water transportation,71.8
+41-4490,Water transportation services,70-713900,Other amusement and recreation industries,19.4
+41-4490,Water transportation services,55-532400,Machinery and equipment rental and leasing,5.2
+41-4490,Water transportation services,60-541900,Other professional and technical services,1.3
+41-4490,Water transportation services,43-483200,Inland water transportation,1.2
+41-4490,Water transportation services,60-550000,Management of companies and enterprises,1
+41-4510,"Air transportation, scheduled",43-481100,Scheduled air transportation,53.6
+41-4510,"Air transportation, scheduled",43-492100,Couriers,42.5
+41-4510,"Air transportation, scheduled",43-493000,Warehousing and storage,1.7
+41-4510,"Air transportation, scheduled",60-550000,Management of companies and enterprises,1.3
+41-4520,"Air transportation, nonscheduled",43-481200,Nonscheduled air transportation,84.5
+41-4520,"Air transportation, nonscheduled",65-621900,Other ambulatory health care services,9.7
+41-4520,"Air transportation, nonscheduled",43-487000,Scenic and sightseeing transportation,3.6
+41-4520,"Air transportation, nonscheduled",60-550000,Management of companies and enterprises,1.8
+41-4580,"Airports, flying fields, and services",43-488100,Support activities for air transportation,92.8
+41-4580,"Airports, flying fields, and services",60-561700,Services to buildings and dwellings,5.8
+41-4610,"Pipelines, except natural gas",43-486000,Pipeline transportation,95.6
+41-4610,"Pipelines, except natural gas",60-550000,Management of companies and enterprises,3.9
+41-4720,Passenger transportation arrangement,60-561500,Travel arrangement and reservation services,98.1
+41-4720,Passenger transportation arrangement,60-550000,Management of companies and enterprises,1.4
+41-4730,Freight transportation arrangement,43-488500,Freight transportation arrangement,91.5
+41-4730,Freight transportation arrangement,60-541600,Management and technical consulting services,6
+41-4730,Freight transportation arrangement,60-550000,Management of companies and enterprises,1.1
+41-4780,Other transportation services,43-488900,"Support activities for other transport., including rail",82.7
+41-4780,Other transportation services,43-488400,Support activities for road transportation,8
+41-4780,Other transportation services,43-488300,Support activities for water transportation,3.2
+41-4780,Other transportation services,55-532400,Machinery and equipment rental and leasing,2.7
+41-4780,Other transportation services,43-487000,Scenic and sightseeing transportation,2.2
+42-4810,Telephone communications,50-517100,Wired telecommunications carriers,60.9
+42-4810,Telephone communications,50-517300,Telecommunications resellers,18.3
+42-4810,Telephone communications,50-517200,Wireless telecommunications carriers,16.8
+42-4810,Telephone communications,60-550000,Management of companies and enterprises,2.5
+42-4830,Radio and television broadcasting,50-515100,Radio and television broadcasting,99.2
+42-4840,Cable and other pay television services,50-517500,Cable and other program distribution,55.6
+42-4840,Cable and other pay television services,50-515200,Cable and other subscription programming,41
+42-4840,Cable and other pay television services,60-550000,Management of companies and enterprises,1.8
+42-4840,Cable and other pay television services,60-561400,Business support services,1
+42-4890,Other communications,50-517900,Satellite and other telecommunications,60
+42-4890,Other communications,50-517100,Wired telecommunications carriers,28.4
+42-4890,Other communications,50-517200,Wireless telecommunications carriers,7.7
+42-4890,Other communications,43-485300,Taxi and limousine service,3.2
+42-4910,Electric services,44-221100,Power generation and supply,90.6
+42-4910,Electric services,60-550000,Management of companies and enterprises,7.6
+42-4920,Gas production and distribution,44-221200,Natural gas distribution,69.8
+42-4920,Gas production and distribution,43-486000,Pipeline transportation,25.5
+42-4920,Gas production and distribution,60-550000,Management of companies and enterprises,4.6
+42-4930,Combination utility services,44-221100,Power generation and supply,71
+42-4930,Combination utility services,44-221200,Natural gas distribution,20.6
+42-4930,Combination utility services,60-550000,Management of companies and enterprises,7.7
+42-4950,Sanitary services,60-562200,Waste treatment and disposal,67
+42-4950,Sanitary services,60-562900,Remediation and other waste services,19.8
+42-4950,Sanitary services,44-221300,"Water, sewage and other systems",5
+42-4950,Sanitary services,60-561700,Services to buildings and dwellings,4.3
+42-4950,Sanitary services,43-488400,Support activities for road transportation,2
+42-4950,Sanitary services,60-550000,Management of companies and enterprises,1.6
+42-4970,"Water, steam and air-conditioning supply, and irrigation systems",44-221300,"Water, sewage and other systems",95.8
+42-4970,"Water, steam and air-conditioning supply, and irrigation systems",60-550000,Management of companies and enterprises,3.2
+52-5010,"Motor vehicles, parts, and supplies",41-423100,Motor vehicle and parts,68.6
+52-5010,"Motor vehicles, parts, and supplies",42-441300,"Auto parts, accessories, and tire stores",18.2
+52-5010,"Motor vehicles, parts, and supplies",41-425000,Electronic markets and agents and brokers,9.4
+52-5010,"Motor vehicles, parts, and supplies",60-550000,Management of companies and enterprises,2.1
+52-5010,"Motor vehicles, parts, and supplies",43-493000,Warehousing and storage,1.5
+52-5020,Furniture and home furnishings,41-423200,Furniture & furnishings,68
+52-5020,Furniture and home furnishings,42-442100,Furniture stores,13.7
+52-5020,Furniture and home furnishings,41-425000,Electronic markets and agents and brokers,8.7
+52-5020,Furniture and home furnishings,42-442200,Home furnishings stores,7.6
+52-5020,Furniture and home furnishings,60-550000,Management of companies and enterprises,1.1
+52-5030,Lumber and other construction materials,41-423300,Lumber & const. supplies,79
+52-5030,Lumber and other construction materials,42-444100,Building material and supplies dealers,13
+52-5030,Lumber and other construction materials,41-425000,Electronic markets and agents and brokers,5.9
+52-5030,Lumber and other construction materials,60-550000,Management of companies and enterprises,1.6
+52-5040,Professional and commercial equipment,41-423400,Commercial equip.,75.1
+52-5040,Professional and commercial equipment,41-425000,Electronic markets and agents and brokers,11
+52-5040,Professional and commercial equipment,42-453200,"Office supplies, stationery, and gift stores",4.7
+52-5040,Professional and commercial equipment,42-443000,Electronics and appliance stores,4.6
+52-5040,Professional and commercial equipment,42-446000,Health and personal care stores,2.6
+52-5040,Professional and commercial equipment,60-550000,Management of companies and enterprises,1.5
+52-5050,"Metals and minerals, except petroleum",41-423500,Metals and minerals,90
+52-5050,"Metals and minerals, except petroleum",41-425000,Electronic markets and agents and brokers,8
+52-5050,"Metals and minerals, except petroleum",60-550000,Management of companies and enterprises,1.5
+52-5060,Electrical goods,41-423600,Electric goods,72.7
+52-5060,Electrical goods,41-425000,Electronic markets and agents and brokers,11.6
+52-5060,Electrical goods,42-444100,Building material and supplies dealers,7.8
+52-5060,Electrical goods,42-443000,Electronics and appliance stores,5.9
+52-5060,Electrical goods,60-550000,Management of companies and enterprises,1.4
+52-5070,"Hardware, plumbing, and heating equipment",41-423700,Hardware & plumbing,77.1
+52-5070,"Hardware, plumbing, and heating equipment",42-444100,Building material and supplies dealers,11.9
+52-5070,"Hardware, plumbing, and heating equipment",41-425000,Electronic markets and agents and brokers,8.5
+52-5070,"Hardware, plumbing, and heating equipment",60-550000,Management of companies and enterprises,1.9
+52-5080,"Machinery, equipment, and supplies",41-423800,Machinery and supplies,86.5
+52-5080,"Machinery, equipment, and supplies",41-425000,Electronic markets and agents and brokers,8.8
+52-5080,"Machinery, equipment, and supplies",60-550000,Management of companies and enterprises,1.5
+52-5080,"Machinery, equipment, and supplies",42-446000,Health and personal care stores,1.3
+52-5090,Miscellaneous wholesale trade durable goods,41-423900,Miscellaneous durable goods,83.3
+52-5090,Miscellaneous wholesale trade durable goods,41-425000,Electronic markets and agents and brokers,9.9
+52-5090,Miscellaneous wholesale trade durable goods,42-451100,Sporting goods and musical instrument stores,2.1
+52-5090,Miscellaneous wholesale trade durable goods,42-451200,"Book, periodical, and music stores",1.7
+52-5090,Miscellaneous wholesale trade durable goods,42-448300,"Jewelry, luggage, and leather goods stores",1.6
+53-5110,Paper and paper products,41-424100,Paper and paper products,64.8
+53-5110,Paper and paper products,42-453200,"Office supplies, stationery, and gift stores",20.1
+53-5110,Paper and paper products,41-425000,Electronic markets and agents and brokers,9.2
+53-5110,Paper and paper products,60-550000,Management of companies and enterprises,2.4
+53-5110,Paper and paper products,42-453900,Other miscellaneous store retailers,1.8
+53-5110,Paper and paper products,43-493000,Warehousing and storage,1.4
+53-5120,"Drugs, proprietaries, and sundries",41-424200,Druggists' goods,72.7
+53-5120,"Drugs, proprietaries, and sundries",42-446000,Health and personal care stores,12.9
+53-5120,"Drugs, proprietaries, and sundries",41-425000,Electronic markets and agents and brokers,11.1
+53-5120,"Drugs, proprietaries, and sundries",60-550000,Management of companies and enterprises,2.7
+53-5130,"Apparel, piece goods, and notions",41-424300,Apparel & piece goods,72.2
+53-5130,"Apparel, piece goods, and notions",41-425000,Electronic markets and agents and brokers,7.2
+53-5130,"Apparel, piece goods, and notions",42-448000,Clothing stores,6.9
+53-5130,"Apparel, piece goods, and notions",32-313300,Textile and fabric finishing mills,4.5
+53-5130,"Apparel, piece goods, and notions",41-423900,Miscellaneous durable goods,2.5
+53-5130,"Apparel, piece goods, and notions",60-550000,Management of companies and enterprises,2
+53-5130,"Apparel, piece goods, and notions",42-451100,Sporting goods and musical instrument stores,1.7
+53-5130,"Apparel, piece goods, and notions",42-448200,Shoe stores,1.6
+53-5130,"Apparel, piece goods, and notions",43-493000,Warehousing and storage,1.1
+53-5140,Groceries and related products,41-424400,Grocery & related products,73.1
+53-5140,Groceries and related products,42-445200,Specialty food stores,10
+53-5140,Groceries and related products,41-425000,Electronic markets and agents and brokers,7.6
+53-5140,Groceries and related products,42-445100,Grocery stores,2.5
+53-5140,Groceries and related products,43-493000,Warehousing and storage,1.7
+53-5140,Groceries and related products,60-550000,Management of companies and enterprises,1.7
+53-5140,Groceries and related products,32-312100,Beverages,1.6
+53-5150,Farm-product raw materials,41-424500,Farm product raw materials,82.2
+53-5150,Farm-product raw materials,41-425000,Electronic markets and agents and brokers,7.5
+53-5150,Farm-product raw materials,60-550000,Management of companies and enterprises,5.7
+53-5150,Farm-product raw materials,42-444200,Lawn and garden equipment and supplies stores,4.3
+53-5160,Chemicals and allied products,41-424600,Chemical,85.5
+53-5160,Chemicals and allied products,41-425000,Electronic markets and agents and brokers,11.6
+53-5160,Chemicals and allied products,42-453900,Other miscellaneous store retailers,1.5
+53-5170,Petroleum and petroleum products,41-424700,Petroleum,79.6
+53-5170,Petroleum and petroleum products,42-454300,Direct selling establishments,7.8
+53-5170,Petroleum and petroleum products,60-550000,Management of companies and enterprises,6.9
+53-5170,Petroleum and petroleum products,41-425000,Electronic markets and agents and brokers,5
+53-5180,"Beer, wine, and distilled beverages",41-424800,Alcoholic beverage,77.7
+53-5180,"Beer, wine, and distilled beverages",42-445300,"Beer, wine, and liquor stores",15.8
+53-5180,"Beer, wine, and distilled beverages",41-425000,Electronic markets and agents and brokers,3.3
+53-5180,"Beer, wine, and distilled beverages",60-550000,Management of companies and enterprises,2.4
+53-5190,Miscellaneous wholesale trade nondurable goods,41-424900,Miscellaneous nondurable goods,70.1
+53-5190,Miscellaneous wholesale trade nondurable goods,42-444200,Lawn and garden equipment and supplies stores,7.8
+53-5190,Miscellaneous wholesale trade nondurable goods,41-425000,Electronic markets and agents and brokers,6.7
+53-5190,Miscellaneous wholesale trade nondurable goods,60-541800,Advertising and related services,4.5
+53-5190,Miscellaneous wholesale trade nondurable goods,42-453200,"Office supplies, stationery, and gift stores",2.8
+53-5190,Miscellaneous wholesale trade nondurable goods,42-451200,"Book, periodical, and music stores",2.4
+53-5190,Miscellaneous wholesale trade nondurable goods,42-453900,Other miscellaneous store retailers,1.8
+53-5190,Miscellaneous wholesale trade nondurable goods,60-550000,Management of companies and enterprises,1.5
+53-5190,Miscellaneous wholesale trade nondurable goods,41-424300,Apparel & piece goods,1.4
+60-5210,Lumber and other building materials,42-444100,Building material and supplies dealers,97.7
+60-5210,Lumber and other building materials,60-550000,Management of companies and enterprises,1.3
+60-5230,"Paint, glass, and wallpaper stores",42-444100,Building material and supplies dealers,97.3
+60-5230,"Paint, glass, and wallpaper stores",60-550000,Management of companies and enterprises,1.9
+60-5250,Hardware stores,42-444100,Building material and supplies dealers,98.4
+60-5250,Hardware stores,60-550000,Management of companies and enterprises,1.3
+60-5260,Retail nurseries and garden stores,42-444200,Lawn and garden equipment and supplies stores,99.1
+60-5270,Mobile home dealers,42-453900,Other miscellaneous store retailers,99.1
+60-5310,Department stores,42-452100,Department stores,69.4
+60-5310,Department stores,42-452900,Other general merchandise stores,24.7
+60-5310,Department stores,43-493000,Warehousing and storage,2.7
+60-5310,Department stores,60-550000,Management of companies and enterprises,2.5
+60-5330,Variety stores,42-452900,Other general merchandise stores,95.3
+60-5330,Variety stores,43-493000,Warehousing and storage,2.6
+60-5330,Variety stores,60-550000,Management of companies and enterprises,1.7
+60-5390,Miscellaneous general merchandise stores,42-452900,Other general merchandise stores,95.5
+60-5390,Miscellaneous general merchandise stores,43-493000,Warehousing and storage,3.1
+60-5390,Miscellaneous general merchandise stores,60-550000,Management of companies and enterprises,1.1
+60-5410,Grocery stores,42-445100,Grocery stores,82.6
+60-5410,Grocery stores,42-447000,Gasoline stations,9.6
+60-5410,Grocery stores,42-452900,Other general merchandise stores,3.2
+60-5410,Grocery stores,60-550000,Management of companies and enterprises,2.4
+60-5410,Grocery stores,43-493000,Warehousing and storage,1.8
+60-5420,Meat and fish markets,42-445200,Specialty food stores,95.8
+60-5420,Meat and fish markets,42-454300,Direct selling establishments,3.7
+60-5430,Fruit and vegetable markets,42-445200,Specialty food stores,97.2
+60-5430,Fruit and vegetable markets,42-454300,Direct selling establishments,2.4
+60-5440,"Candy, nut, and confectionery stores",42-445200,Specialty food stores,62.1
+60-5440,"Candy, nut, and confectionery stores",32-311300,Sugar and confectionery products,36.4
+60-5440,"Candy, nut, and confectionery stores",60-550000,Management of companies and enterprises,1.1
+60-5460,Retail bakeries,70-722200,Limited-service eating places,45.5
+60-5460,Retail bakeries,32-311800,Bakeries and tortilla manufacturing,36.9
+60-5460,Retail bakeries,42-445200,Specialty food stores,10.3
+60-5460,Retail bakeries,70-722100,Full-service restaurants,6.8
+60-5490,Miscellaneous food stores,42-445200,Specialty food stores,55.3
+60-5490,Miscellaneous food stores,42-446000,Health and personal care stores,43.5
+60-5490,Miscellaneous food stores,60-550000,Management of companies and enterprises,1.1
+60-5510,New and used car dealers,42-441100,Automobile dealers,99.5
+60-5520,Used car dealers,42-441100,Automobile dealers,99.9
+60-5530,Auto and home supply stores,42-441300,"Auto parts, accessories, and tire stores",94.4
+60-5530,Auto and home supply stores,42-452900,Other general merchandise stores,2
+60-5530,Auto and home supply stores,60-550000,Management of companies and enterprises,1.9
+60-5530,Auto and home supply stores,43-493000,Warehousing and storage,1.6
+60-5540,Gasoline service stations,42-447000,Gasoline stations,97.6
+60-5540,Gasoline service stations,60-550000,Management of companies and enterprises,1.9
+60-5550,Boat dealers,42-441200,Other motor vehicle dealers,99.8
+60-5560,Recreational vehicle dealers,42-441200,Other motor vehicle dealers,99
+60-5570,Motorcycle dealers,42-441200,Other motor vehicle dealers,99.8
+60-5590,"Automotive dealers, nec",42-441200,Other motor vehicle dealers,100
+60-5610,Men's and boys' clothing stores,42-448000,Clothing stores,97.8
+60-5610,Men's and boys' clothing stores,60-550000,Management of companies and enterprises,1.8
+60-5620,Women's clothing stores,42-448000,Clothing stores,96
+60-5620,Women's clothing stores,60-550000,Management of companies and enterprises,2.5
+60-5630,Women's accessory and specialty stores,42-448000,Clothing stores,99.8
+60-5640,Children's and infants' wear stores,42-448000,Clothing stores,98.1
+60-5640,Children's and infants' wear stores,60-550000,Management of companies and enterprises,1.2
+60-5650,Family clothing stores,42-448000,Clothing stores,93.4
+60-5650,Family clothing stores,60-550000,Management of companies and enterprises,4.2
+60-5650,Family clothing stores,43-493000,Warehousing and storage,1.7
+60-5660,Shoe stores,42-448200,Shoe stores,96.5
+60-5660,Shoe stores,60-550000,Management of companies and enterprises,2.6
+60-5690,Miscellaneous apparel and accessory stores,42-448000,Clothing stores,87.6
+60-5690,Miscellaneous apparel and accessory stores,32-315200,Cut and sew apparel manufacturing,10
+60-5690,Miscellaneous apparel and accessory stores,60-550000,Management of companies and enterprises,2.2
+60-5710,Furniture and home furnishings stores,42-442100,Furniture stores,45.7
+60-5710,Furniture and home furnishings stores,42-442200,Home furnishings stores,41.1
+60-5710,Furniture and home furnishings stores,31-337100,Household and institutional furniture,8
+60-5710,Furniture and home furnishings stores,60-550000,Management of companies and enterprises,2
+60-5710,Furniture and home furnishings stores,43-493000,Warehousing and storage,1.3
+60-5720,Household appliance stores,42-443000,Electronics and appliance stores,97.9
+60-5720,Household appliance stores,60-550000,Management of companies and enterprises,1.7
+60-5730,"Radio, television, and computer stores",42-443000,Electronics and appliance stores,69.9
+60-5730,"Radio, television, and computer stores",42-451200,"Book, periodical, and music stores",14.8
+60-5730,"Radio, television, and computer stores",42-451100,Sporting goods and musical instrument stores,7.6
+60-5730,"Radio, television, and computer stores",42-441300,"Auto parts, accessories, and tire stores",3.9
+60-5730,"Radio, television, and computer stores",60-550000,Management of companies and enterprises,2.8
+60-5810,Eating and drinking places,70-722100,Full-service restaurants,46.9
+60-5810,Eating and drinking places,70-722200,Limited-service eating places,41.3
+60-5810,Eating and drinking places,70-722300,Special food services,6
+60-5810,Eating and drinking places,70-722400,"Drinking places, alcoholic beverages",4.8
+60-5910,Drug stores and proprietary stores,42-446000,Health and personal care stores,97.2
+60-5910,Drug stores and proprietary stores,60-550000,Management of companies and enterprises,1.4
+60-5910,Drug stores and proprietary stores,43-493000,Warehousing and storage,1.3
+60-5920,Liquor stores,42-445300,"Beer, wine, and liquor stores",99.5
+60-5930,Used merchandise stores,42-453300,Used merchandise stores,79.9
+60-5930,Used merchandise stores,55-522200,Nondepository credit intermediation,18
+60-5930,Used merchandise stores,60-550000,Management of companies and enterprises,1.6
+60-5940,Miscellaneous shopping goods stores,42-451100,Sporting goods and musical instrument stores,34.7
+60-5940,Miscellaneous shopping goods stores,42-453200,"Office supplies, stationery, and gift stores",31.6
+60-5940,Miscellaneous shopping goods stores,42-448300,"Jewelry, luggage, and leather goods stores",15.5
+60-5940,Miscellaneous shopping goods stores,42-451200,"Book, periodical, and music stores",13.2
+60-5940,Miscellaneous shopping goods stores,42-443000,Electronics and appliance stores,2.2
+60-5940,Miscellaneous shopping goods stores,60-550000,Management of companies and enterprises,1.5
+60-5940,Miscellaneous shopping goods stores,43-493000,Warehousing and storage,1.1
+60-5960,Nonstore retailers,42-454100,Electronic shopping and mail-order houses,63.9
+60-5960,Nonstore retailers,42-454200,Vending machine operators,17.1
+60-5960,Nonstore retailers,42-454300,Direct selling establishments,14.5
+60-5960,Nonstore retailers,43-493000,Warehousing and storage,1.4
+60-5960,Nonstore retailers,60-550000,Management of companies and enterprises,1.4
+60-5980,Fuel dealers,42-454300,Direct selling establishments,98.4
+60-5980,Fuel dealers,60-550000,Management of companies and enterprises,1.3
+60-5990,"Retail stores, nec",42-453900,Other miscellaneous store retailers,42.4
+60-5990,"Retail stores, nec",42-446000,Health and personal care stores,27.3
+60-5990,"Retail stores, nec",42-453100,Florists,22.5
+60-5990,"Retail stores, nec",42-443000,Electronics and appliance stores,4
+60-5990,"Retail stores, nec",42-451200,"Book, periodical, and music stores",1.6
+60-5990,"Retail stores, nec",60-550000,Management of companies and enterprises,1.1
+71-6010,Central reserve depositories,55-521000,Monetary authorities - central bank,89.1
+71-6010,Central reserve depositories,55-522200,Nondepository credit intermediation,5.5
+71-6010,Central reserve depositories,60-550000,Management of companies and enterprises,5.3
+71-6020,Commercial banks,55-522100,Depository credit intermediation,87.4
+71-6020,Commercial banks,60-550000,Management of companies and enterprises,6.5
+71-6020,Commercial banks,55-522200,Nondepository credit intermediation,4.3
+71-6030,Savings institutions,55-522100,Depository credit intermediation,91.3
+71-6030,Savings institutions,60-550000,Management of companies and enterprises,8
+71-6060,Credit unions,55-522100,Depository credit intermediation,93.2
+71-6060,Credit unions,60-550000,Management of companies and enterprises,6.6
+71-6080,Foreign banks and branches and agencies,55-522100,Depository credit intermediation,59.7
+71-6080,Foreign banks and branches and agencies,55-522200,Nondepository credit intermediation,36.9
+71-6080,Foreign banks and branches and agencies,60-541900,Other professional and technical services,1.7
+71-6080,Foreign banks and branches and agencies,60-550000,Management of companies and enterprises,1.7
+71-6090,Functions closely related to banking,55-522300,Activities related to credit intermediation,77.6
+71-6090,Functions closely related to banking,55-523900,Other financial investment activities,14.8
+71-6090,Functions closely related to banking,55-523200,Securities and commodity contracts brokerage & exchanges,6.4
+71-6090,Functions closely related to banking,60-550000,Management of companies and enterprises,1.2
+71-6110,Federal and federally sponsored credit agencies,55-522200,Nondepository credit intermediation,99
+71-6140,Personal credit institutions,55-522200,Nondepository credit intermediation,97.9
+71-6140,Personal credit institutions,60-550000,Management of companies and enterprises,1.5
+71-6150,Business credit institutions,55-522200,Nondepository credit intermediation,74
+71-6150,Business credit institutions,55-522300,Activities related to credit intermediation,22.5
+71-6150,Business credit institutions,55-523900,Other financial investment activities,1.8
+71-6160,Mortgage bankers and brokers,55-522200,Nondepository credit intermediation,67.5
+71-6160,Mortgage bankers and brokers,55-522300,Activities related to credit intermediation,30.6
+71-6160,Mortgage bankers and brokers,60-550000,Management of companies and enterprises,1.9
+71-6210,Security brokers and dealers,55-523200,Securities and commodity contracts brokerage & exchanges,95.6
+71-6210,Security brokers and dealers,60-550000,Management of companies and enterprises,2.9
+71-6210,Security brokers and dealers,55-523900,Other financial investment activities,1.4
+71-6230,"Commodity contracts brokers, dealers, and exchanges",55-523200,Securities and commodity contracts brokerage & exchanges,100
+71-6280,Security and commodity services,55-523900,Other financial investment activities,99.1
+71-6710,Holding offices,60-550000,Management of companies and enterprises,99.4
+71-6730,Trusts,80-813200,Grantmaking and giving services,72.6
+71-6730,Trusts,55-523900,Other financial investment activities,17.2
+71-6730,Trusts,55-525900,Other investment pools and funds,8.5
+71-6730,Trusts,55-525100,Insurance and employee benefit funds,1.2
+71-6790,Investment offices and miscellaneous investing,55-525900,Other investment pools and funds,39.8
+71-6790,Investment offices and miscellaneous investing,55-533000,Lessors of nonfinancial intangible assets,33.3
+71-6790,Investment offices and miscellaneous investing,55-523900,Other financial investment activities,22.3
+71-6790,Investment offices and miscellaneous investing,55-523200,Securities and commodity contracts brokerage & exchanges,3.6
+72-6310,Life insurance,55-524100,Insurance carriers,96.9
+72-6310,Life insurance,60-550000,Management of companies and enterprises,2.2
+72-6320,Medical service and health insurance,55-524100,Insurance carriers,93.2
+72-6320,Medical service and health insurance,60-550000,Management of companies and enterprises,4.2
+72-6320,Medical service and health insurance,55-525100,Insurance and employee benefit funds,1.9
+72-6330,"Fire, marine, and casualty insurance",55-524100,Insurance carriers,90.3
+72-6330,"Fire, marine, and casualty insurance",60-550000,Management of companies and enterprises,5.6
+72-6330,"Fire, marine, and casualty insurance",55-525100,Insurance and employee benefit funds,2.5
+72-6330,"Fire, marine, and casualty insurance",50-511100,"Newspaper, book, and directory publishers",1.1
+72-6360,Title insurance,55-524100,Insurance carriers,97.4
+72-6360,Title insurance,60-550000,Management of companies and enterprises,2.3
+72-6390,"Surety insurance and insurance carriers, nec",55-524100,Insurance carriers,30.6
+72-6390,"Surety insurance and insurance carriers, nec",55-524200,"Insurance agencies, brokerages, and related services",30
+72-6390,"Surety insurance and insurance carriers, nec",55-525100,Insurance and employee benefit funds,25.2
+72-6390,"Surety insurance and insurance carriers, nec",55-523900,Other financial investment activities,12.5
+72-6390,"Surety insurance and insurance carriers, nec",60-550000,Management of companies and enterprises,1.3
+72-6410,"Insurance agents, brokers, and services",55-524200,"Insurance agencies, brokerages, and related services",99.4
+73-6510,Real estate operators and lessors,55-531100,Lessors of real estate,97.3
+73-6510,Real estate operators and lessors,70-711300,"Arts and sports promoters, and agents and managers for public figures",1.4
+73-6510,Real estate operators and lessors,60-550000,Management of companies and enterprises,1.1
+73-6530,Real estate agents and managers,55-531300,Activities related to real estate,56.4
+73-6530,Real estate agents and managers,55-531200,Offices of real estate agents and brokers,37.4
+73-6530,Real estate agents and managers,80-813900,Professional and similar organizations,3.8
+73-6530,Real estate agents and managers,60-550000,Management of companies and enterprises,1.6
+73-6540,Title abstract offices,60-541100,Legal services,98.8
+73-6540,Title abstract offices,60-550000,Management of companies and enterprises,1.1
+73-6550,Subdividers and developers,20-237200,Land subdivision,71.1
+73-6550,Subdividers and developers,80-812200,Death care services,27.1
+73-6550,Subdividers and developers,60-550000,Management of companies and enterprises,1.9
+80-0740,Veterinary services,60-541900,Other professional and technical services,99.9
+80-0750,"Animal services, except veterinary",80-812900,Other personal services,53.4
+80-0750,"Animal services, except veterinary",32-311600,Animal slaughtering and processing,4.9
+80-0780,Landscape and horticultural services,60-561700,Services to buildings and dwellings,93.1
+80-0780,Landscape and horticultural services,60-541300,Architectural and engineering services,6.2
+80-7010,Hotels and motels,70-721100,"Traveler accommodations, & other longer-term accommodations",98.9
+80-7030,Camps and recreational vehicle parks,70-721200,RV parks and recreational camps,99.5
+80-7040,"Rooming & boarding houses, membership-basis org. hotels",70-721100,"Traveler accommodations, & other longer-term accommodations",99.8
+80-7210,"Laundry, cleaning, and garment services",80-812300,Dry-cleaning and laundry services,87.2
+80-7210,"Laundry, cleaning, and garment services",60-561700,Services to buildings and dwellings,10.2
+80-7210,"Laundry, cleaning, and garment services",80-811400,Household goods repair and maintenance,1.4
+80-7220,"Photographic studios, portrait",60-541900,Other professional and technical services,99.3
+80-7230,Beauty shops,80-812100,Personal care services,96.8
+80-7230,Beauty shops,65-611500,Technical and trade schools,2.8
+80-7240,Barber shops,80-812100,Personal care services,96
+80-7240,Barber shops,65-611500,Technical and trade schools,3.9
+80-7250,Shoe repair shops and shoeshine parlors,80-811400,Household goods repair and maintenance,96.1
+80-7250,Shoe repair shops and shoeshine parlors,80-812900,Other personal services,3.5
+80-7260,Funeral service and crematories,80-812200,Death care services,99.6
+80-7290,Miscellaneous personal services,60-541200,Accounting and bookkeeping services,51.2
+80-7290,Miscellaneous personal services,80-812100,Personal care services,26.2
+80-7290,Miscellaneous personal services,80-812900,Other personal services,14.7
+80-7290,Miscellaneous personal services,55-532200,Consumer goods rental,6.4
+80-7310,Advertising,60-541800,Advertising and related services,99.6
+80-7320,Credit reporting and collection,60-561400,Business support services,96.4
+80-7320,Credit reporting and collection,60-550000,Management of companies and enterprises,2.9
+80-7330,"Mailing, reproduction, and stenographic services",60-561400,Business support services,33.2
+80-7330,"Mailing, reproduction, and stenographic services",60-541800,Advertising and related services,26
+80-7330,"Mailing, reproduction, and stenographic services",60-541400,Specialized design services,23.8
+80-7330,"Mailing, reproduction, and stenographic services",32-323000,Printing and related support activities,6.4
+80-7330,"Mailing, reproduction, and stenographic services",50-511100,"Newspaper, book, and directory publishers",5.8
+80-7330,"Mailing, reproduction, and stenographic services",60-541900,Other professional and technical services,3.6
+80-7340,Services to buildings,60-561700,Services to buildings and dwellings,99.3
+80-7350,Miscellaneous equipment rental and leasing,55-532200,Consumer goods rental,36.9
+80-7350,Miscellaneous equipment rental and leasing,55-532400,Machinery and equipment rental and leasing,27.7
+80-7350,Miscellaneous equipment rental and leasing,55-532300,General rental centers,22.6
+80-7350,Miscellaneous equipment rental and leasing,20-238900,Other specialty trade contractors,8.5
+80-7350,Miscellaneous equipment rental and leasing,60-562900,Remediation and other waste services,2.2
+80-7350,Miscellaneous equipment rental and leasing,60-550000,Management of companies and enterprises,1.5
+80-7360,Personnel supply services,60-561300,Employment services,97.7
+80-7360,Personnel supply services,60-541600,Management and technical consulting services,1.8
+80-7370,Computer and data processing services,60-541500,Computer systems design and related services,58
+80-7370,Computer and data processing services,50-518200,Data processing and related services,13.7
+80-7370,Computer and data processing services,50-511200,Software publishers,12.4
+80-7370,Computer and data processing services,50-518100,ISPs and web search portals,8.5
+80-7370,Computer and data processing services,50-516000,Internet publishing and broadcasting,1.8
+80-7370,Computer and data processing services,80-811200,Electronic equipment repair and maintenance,1.7
+80-7370,Computer and data processing services,31-334600,Magnetic media mfg. and reproduction,1.2
+80-7370,Computer and data processing services,60-550000,Management of companies and enterprises,1.2
+80-7380,Miscellaneous business services,60-561600,Investigation and security services,38.4
+80-7380,Miscellaneous business services,60-561400,Business support services,26.8
+80-7380,Miscellaneous business services,60-561900,Other support services,15.4
+80-7380,Miscellaneous business services,80-812900,Other personal services,4
+80-7380,Miscellaneous business services,60-541400,Specialized design services,2.8
+80-7380,Miscellaneous business services,60-541900,Other professional and technical services,1.9
+80-7380,Miscellaneous business services,60-541300,Architectural and engineering services,1.5
+80-7380,Miscellaneous business services,60-561500,Travel arrangement and reservation services,1.5
+80-7380,Miscellaneous business services,60-541800,Advertising and related services,1.4
+80-7510,"Automotive rentals, without drivers",55-532100,Automotive equipment rental and leasing,93.9
+80-7510,"Automotive rentals, without drivers",60-550000,Management of companies and enterprises,4
+80-7520,Automobile parking,80-812900,Other personal services,97.2
+80-7520,Automobile parking,60-550000,Management of companies and enterprises,2.6
+80-7530,Automotive repair shops,80-811100,Automotive repair and maintenance,98.3
+80-7530,Automotive repair shops,32-326200,Rubber products,1.2
+80-7540,"Automotive services, except repair",80-811100,Automotive repair and maintenance,82.8
+80-7540,"Automotive services, except repair",43-488400,Support activities for road transportation,16.5
+80-7620,Electrical repair shops,80-811200,Electronic equipment repair and maintenance,49.3
+80-7620,Electrical repair shops,80-811400,Household goods repair and maintenance,20
+80-7620,Electrical repair shops,80-811300,Commercial machinery repair and maintenance,14
+80-7620,Electrical repair shops,42-443000,Electronics and appliance stores,13.5
+80-7620,Electrical repair shops,20-238200,Building equipment contractors,3.1
+80-7640,Reupholstery and furniture repair,80-811400,Household goods repair and maintenance,97.1
+80-7640,Reupholstery and furniture repair,70-711500,"Independent artists, writers, and performers",2.8
+80-7690,Watch and miscellaneous repair shops,80-811300,Commercial machinery repair and maintenance,59.1
+80-7690,Watch and miscellaneous repair shops,80-811400,Household goods repair and maintenance,7.9
+80-7690,Watch and miscellaneous repair shops,60-562900,Remediation and other waste services,7.6
+80-7690,Watch and miscellaneous repair shops,60-561600,Investigation and security services,6.9
+80-7690,Watch and miscellaneous repair shops,80-811200,Electronic equipment repair and maintenance,6.6
+80-7690,Watch and miscellaneous repair shops,42-444200,Lawn and garden equipment and supplies stores,2.8
+80-7690,Watch and miscellaneous repair shops,42-442200,Home furnishings stores,2.5
+80-7690,Watch and miscellaneous repair shops,60-561700,Services to buildings and dwellings,2.1
+80-7690,Watch and miscellaneous repair shops,42-448300,"Jewelry, luggage, and leather goods stores",1.4
+80-7810,Motion picture production and services,50-512100,Motion picture and video industries,74.5
+80-7810,Motion picture production and services,60-541200,Accounting and bookkeeping services,15.7
+80-7810,Motion picture production and services,31-334600,Magnetic media mfg. and reproduction,4
+80-7810,Motion picture production and services,70-711500,"Independent artists, writers, and performers",2.3
+80-7810,Motion picture production and services,60-561300,Employment services,2
+80-7810,Motion picture production and services,55-532400,Machinery and equipment rental and leasing,1.2
+80-7820,Motion picture distribution and services,50-512100,Motion picture and video industries,75.5
+80-7820,Motion picture distribution and services,41-423900,Miscellaneous durable goods,15.4
+80-7820,Motion picture distribution and services,41-425000,Electronic markets and agents and brokers,4.3
+80-7820,Motion picture distribution and services,60-550000,Management of companies and enterprises,2.4
+80-7820,Motion picture distribution and services,50-519000,Other information services,1.2
+80-7820,Motion picture distribution and services,43-493000,Warehousing and storage,1.1
+80-7830,Motion picture theaters,50-512100,Motion picture and video industries,98.5
+80-7830,Motion picture theaters,60-550000,Management of companies and enterprises,1.5
+80-7840,Video tape rental,55-532200,Consumer goods rental,98.7
+80-7840,Video tape rental,60-550000,Management of companies and enterprises,1.3
+80-7910,"Dance studios, schools, and halls",65-611600,Other schools and instruction,89.3
+80-7910,"Dance studios, schools, and halls",70-713900,Other amusement and recreation industries,10.6
+80-7920,"Producers, orchestras, and entertainers",70-711100,Performing arts companies,60.8
+80-7920,"Producers, orchestras, and entertainers",70-711300,"Arts and sports promoters, & agents & managers for public figures",22
+80-7920,"Producers, orchestras, and entertainers",70-711500,"Independent artists, writers, and performers",7.8
+80-7920,"Producers, orchestras, and entertainers",55-532400,Machinery and equipment rental and leasing,2.7
+80-7920,"Producers, orchestras, and entertainers",60-561500,Travel arrangement and reservation services,2.4
+80-7920,"Producers, orchestras, and entertainers",50-512200,Sound recording industries,2.2
+80-7920,"Producers, orchestras, and entertainers",60-561300,Employment services,1.6
+80-7930,Bowling centers,70-713900,Other amusement and recreation industries,99.5
+80-7940,Commercial sports,70-711200,Spectator sports,82.2
+80-7940,Commercial sports,70-711300,"Arts and sports promoters, & agents & managers for public figures",16.8
+80-7990,Miscellaneous amusement and recreation services,70-713900,Other amusement and recreation industries,67.3
+80-7990,Miscellaneous amusement and recreation services,70-713200,Gambling industries,12.4
+80-7990,Miscellaneous amusement and recreation services,70-713100,Amusement parks and arcades,11.6
+80-7990,Miscellaneous amusement and recreation services,65-611600,Other schools and instruction,3.7
+80-8010,Offices and clinics of medical doctors,65-621100,Offices of physicians,92.5
+80-8010,Offices and clinics of medical doctors,65-621400,Outpatient care centers,5.8
+80-8010,Offices and clinics of medical doctors,60-550000,Management of companies and enterprises,1.4
+80-8020,Offices and clinics of dentists,65-621200,Offices of dentists,99.8
+80-8030,Offices and clinics of osteopathic physician,65-621100,Offices of physicians,99.8
+80-8040,Offices and clinics of other health practitioners,65-621300,Offices of other health practitioners,99.3
+80-8050,Nursing and personal care facilities,65-623100,Nursing care facilities,83.7
+80-8050,Nursing and personal care facilities,65-623300,Community care facilities for the elderly,11.9
+80-8050,Nursing and personal care facilities,65-623200,Residential mental health facilities,3.7
+80-8060,Hospitals,65-622100,General medical and surgical hospitals,93.6
+80-8060,Hospitals,65-622300,Other hospitals,3.2
+80-8060,Hospitals,65-622200,Psychiatric and substance abuse hospitals,2.1
+80-8070,Medical and dental laboratories,65-621500,Medical and diagnostic laboratories,75.8
+80-8070,Medical and dental laboratories,31-339100,Medical equipment and supplies,21.5
+80-8070,Medical and dental laboratories,60-550000,Management of companies and enterprises,2.5
+80-8080,Home health care services,65-621600,Home health care services,98.7
+80-8090,"Health and allied services, nec",65-621400,Outpatient care centers,76.2
+80-8090,"Health and allied services, nec",65-621900,Other ambulatory health care services,20.4
+80-8090,"Health and allied services, nec",60-550000,Management of companies and enterprises,2.2
+80-8110,Legal services,60-541100,Legal services,99.1
+80-8210,Elementary and secondary schools,65-611100,Elementary and secondary schools,99.4
+80-8220,Colleges and universities,65-611300,Colleges and universities,94.2
+80-8220,Colleges and universities,65-611200,Junior colleges,4.3
+80-8220,Colleges and universities,60-550000,Management of companies and enterprises,1.5
+80-8230,Libraries,50-519000,Other information services,99.9
+80-8240,Vocational schools,65-611500,Technical and trade schools,55.3
+80-8240,Vocational schools,65-611400,"Business, computer, and management training",44
+80-8290,"Schools and educational services, nec",65-611600,Other schools and instruction,58.6
+80-8290,"Schools and educational services, nec",65-611400,"Business, computer, and management training",20.8
+80-8290,"Schools and educational services, nec",65-611700,Educational support services,10.6
+80-8290,"Schools and educational services, nec",65-611500,Technical and trade schools,9.2
+80-8320,Individual and family services,65-624100,Individual and family services,83.5
+80-8320,Individual and family services,65-624200,Emergency and other relief services,14.4
+80-8320,Individual and family services,60-550000,Management of companies and enterprises,2
+80-8330,Job training and related services,65-624300,Vocational rehabilitation services,97.3
+80-8330,Job training and related services,60-550000,Management of companies and enterprises,2.4
+80-8350,Child day care services,65-624400,Child day care services,98.8
+80-8350,Child day care services,60-550000,Management of companies and enterprises,1.2
+80-8360,Residential care,65-623200,Residential mental health facilities,45.7
+80-8360,Residential care,65-623300,Community care facilities for the elderly,32.6
+80-8360,Residential care,65-623900,Other residential care facilities,19
+80-8360,Residential care,60-550000,Management of companies and enterprises,2.4
+80-8390,"Social services, nec",80-813300,Social advocacy organizations,59.9
+80-8390,"Social services, nec",80-813200,Grantmaking and giving services,37.8
+80-8390,"Social services, nec",60-550000,Management of companies and enterprises,2.2
+80-8420,Museums and botanical and zoological gardens,70-712000,"Museums, historical sites, zoos, and parks",99.4
+80-8610,Business associations,80-813900,Professional and similar organizations,99.7
+80-8620,Professional organizations,80-813900,Professional and similar organizations,97.7
+80-8620,Professional organizations,60-550000,Management of companies and enterprises,2.2
+80-8630,Labor organizations,80-813900,Professional and similar organizations,99.1
+80-8640,Civic and social associations,80-813400,Civic and social organizations,87.1
+80-8640,Civic and social associations,80-813900,Professional and similar organizations,10.3
+80-8640,Civic and social associations,80-813300,Social advocacy organizations,1.5
+80-8640,Civic and social associations,60-550000,Management of companies and enterprises,1.1
+80-8660,Religious organizations,80-813100,Religious organizations,99.3
+80-8690,"Political and membership organizations, nec",60-561500,Travel arrangement and reservation services,36.2
+80-8690,"Political and membership organizations, nec",80-813900,Professional and similar organizations,21.9
+80-8690,"Political and membership organizations, nec",80-813300,Social advocacy organizations,20.1
+80-8690,"Political and membership organizations, nec",80-813400,Civic and social organizations,18.3
+80-8690,"Political and membership organizations, nec",60-550000,Management of companies and enterprises,3.3
+80-8710,Engineering and architectural services,60-541300,Architectural and engineering services,99.3
+80-8720,"Accounting, auditing, and bookkeeping",60-541200,Accounting and bookkeeping services,99.2
+80-8730,Research and testing services,60-541700,Scientific research and development services,65.7
+80-8730,Research and testing services,60-541900,Other professional and technical services,17.6
+80-8730,Research and testing services,60-541300,Architectural and engineering services,15.7
+80-8740,Management and public relations,60-541600,Management and technical consulting services,56
+80-8740,Management and public relations,60-561100,Office administrative services,22.6
+80-8740,Management and public relations,60-561200,Facilities support services,8.6
+80-8740,Management and public relations,60-541800,Advertising and related services,4.8
+80-8740,Management and public relations,20-236200,Nonresidential building,2.3
+80-8740,Management and public relations,65-611700,Educational support services,1.7
+80-8740,Management and public relations,60-541300,Architectural and engineering services,1.3
+80-8990,"Services, nec",60-541600,Management and technical consulting services,45.6
+80-8990,"Services, nec",70-711500,"Independent artists, writers, and performers",26.3
+80-8990,"Services, nec",60-541900,Other professional and technical services,7.6
+80-8990,"Services, nec",50-512200,Sound recording industries,7.3
+80-8990,"Services, nec",50-519000,Other information services,5.3
+80-8990,"Services, nec",50-518100,ISPs and web search portals,4.4
+80-8990,"Services, nec",50-516000,Internet publishing and broadcasting,3.1
