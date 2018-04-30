@@ -15,6 +15,7 @@ I,,Q,,
 I,,R,,
 I,,S,,
 J,,O,,
+111000,,11,crops,
 111110,Soybean Farming,111,"Growing of cereals (except rice), leguminous crops and oil seeds", 
 111120,Oilseed (except Soybean) Farming,111,"Growing of cereals (except rice), leguminous crops and oil seeds", 
 111130,Dry Pea and Bean Farming,111,"Growing of cereals (except rice), leguminous crops and oil seeds", 
@@ -64,6 +65,7 @@ J,,O,,
 111998,All Other Miscellaneous Crop Farming,230,Gathering of non-wood forest products,gathering maple sap in the wild
 111998,All Other Miscellaneous Crop Farming,1072,Manufacture of sugar,maple sugars and syrups produced in a separate central facility 
 111998,All Other Miscellaneous Crop Farming,012X,Growing of perennial crops,"ISIC group level link - combinations of fruit, nut, beverage and spice crops, based on primary"
+112000,,140,,
 112111,Beef Cattle Ranching and Farming,141,Raising of cattle and buffaloes, 
 112112,Cattle Feedlots,141,Raising of cattle and buffaloes, 
 112120,Dairy Cattle and Milk Production,141,Raising of cattle and buffaloes, 
@@ -90,12 +92,14 @@ J,,O,,
 112990,All Other Animal Production,149,Raising of other animals,"other animal farms including cats, crickets and other insects, dogs, pet birds"
 112990,All Other Animal Production,150,Mixed farming,"combinations of crops, livestock, and animal specialties (primarily but less than 66% livestock)"
 112990,All Other Animal Production,014X,Animal production,"ISIC group level link - other general livestock farms including combinations of animals, such as horses, asses, mules, cattle, sheep and goats"
+113000,,200,,
 113110,Timber Tract Operations,210,Silvaculture and other forestry activities,operating timber tracts
 113210,Forest Nurseries and Gathering of Forest Products,210,Silvaculture and other forestry activities,except gathering forest products in the wild
 113210,Forest Nurseries and Gathering of Forest Products,230,Gathering of non-wood forest products,gathering forest products in the wild
 113310,Logging,220,Logging,except separate log hauling in the forest and production of wood chips in the forest
 113310,Logging,240,Support services to forestry,separate log hauling in the forest without logging
 113310,Logging,1610,Sawmilling and planing of wood,"production of wood chips in the forest, portable chipper mills"
+114000,,300,,
 114111,Finfish Fishing,311,Marine fishing,marine finfish fishing
 114111,Finfish Fishing,312,Freshwater fishing,freshwater finfish fishing 
 114112,Shellfish Fishing,311,Marine fishing,marine shellfish fishing
@@ -114,13 +118,16 @@ J,,O,,
 115210,Support Activities for Animal Production,162,Support activities for animal production,except vaccinating livestock not performed by veterinarians
 115210,Support Activities for Animal Production,7500,Veterinary activities,vaccinating livestock not performed by veterinarians
 115310,Support Activities for Forestry,240,Support services to forestry, 
+211000,,600,,
 211111,Crude Petroleum and Natural Gas Extraction,510,Mining of hard coal,liquefying and extracting coal 
 211111,Crude Petroleum and Natural Gas Extraction,610,Extraction of crude petroleum,extraction of crude petroleum 
 211111,Crude Petroleum and Natural Gas Extraction,620,Extraction of natural gas,extraction of natural gas
 211112,Natural Gas Liquid Extraction,620,Extraction of natural gas, 
+212100,,500,,
 212111,Bituminous Coal and Lignite Surface Mining,520,Mining of lignite, 
 212112,Bituminous Coal Underground Mining,520,Mining of lignite, 
 212113,Anthracite Mining,510,Mining of hard coal, 
+212200,,700,,
 212210,Iron Ore Mining,710,Mining of iron ores, 
 212221,Gold Ore Mining,729,Mining of other non-ferrous metal ores, 
 212222,Silver Ore Mining,729,Mining of other non-ferrous metal ores, 
@@ -130,6 +137,7 @@ J,,O,,
 212291,Uranium-Radium-Vanadium Ore Mining,729,Mining of other non-ferrous metal ores,vanadium mining and/or beneficiating
 212299,All Other Metal Ore Mining,721,Mining or uranium and thorium ores,thorium mining and/or beneficiating
 212299,All Other Metal Ore Mining,729,Mining of other non-ferrous metal ores,except thorium mining and/or beneficiating
+212300,,800,,
 212311,Dimension Stone Mining and Quarrying,810,"Quarrying of stone, sand and clay",mining or quarrying slate
 212312,Crushed and Broken Limestone Mining and Quarrying,810,"Quarrying of stone, sand and clay",except quarrying or mining marl
 212312,Crushed and Broken Limestone Mining and Quarrying,891,Mining of chemical and fertilizer minerals,quarrying or mining marl
@@ -166,6 +174,7 @@ J,,O,,
 221310,Water Supply and Irrigation Systems,4930,Transport via pipeline,water pipelines (long distance)
 221320,Sewage Treatment Facilities,3700,Sewerage, 
 221330,Steam and Air-Conditioning Supply,3530,Steam and air conditioning supply, 
+236000,,4100,,
 236115,New Single-Family Housing (except Operative Builders),4100,Construction of buildings, 
 236116,New Multifamily Housing Construction (except Operative Builders),4100,Construction of buildings, 
 236117,New Housing Operative Builders,4100,Construction of buildings, 
@@ -297,6 +306,7 @@ J,,O,,
 311999,All Other Miscellaneous Food Manufacturing,1030,Processing and preserving of fruits and vegetables,fresh cut or peeled fruits and vegetables
 311999,All Other Miscellaneous Food Manufacturing,1075,Manufacture of prepared meals and dishes,fried noodles and dried pasta dish mixes made entirely of purchased dried ingredients
 311999,All Other Miscellaneous Food Manufacturing,1079,Manufacture of other food products n.e.c.,"except fresh cut or peeled fruits and vegetables, fried noodles, and dried pasta dish mixes made entirely from purchased dried ingredients"
+312100,,1100,,
 312111,Soft Drink Manufacturing,1104,Manufacture of soft drinks; production of mineral waters and other bottled waters, 
 312112,Bottled Water Manufacturing,1104,Manufacture of soft drinks; production of mineral waters and other bottled waters, 
 312113,Ice Manufacturing,3530,Steam and air conditioning supply, 
@@ -305,9 +315,11 @@ J,,O,,
 312130,Wineries,1102,Manufacture of wines,except brandies and fruit spirits
 312140,Distilleries,1101,"Distilling, rectifying and blending of spirits",except potable ethyl alcohol
 312140,Distilleries,2011,Manufacture of basic chemicals,manufacture of potable ethyl alcohol
+312200,,1200,,
 312210,Tobacco Stemming and Redrying,1200,Manufacture of tobacco products, 
 312221,Cigarette Manufacturing,1200,Manufacture of tobacco products, 
 312229,Other Tobacco Product Manufacturing,1200,Manufacture of tobacco products, 
+313000,,1300,,
 313111,Yarn Spinning Mills,1311,Preparation and spinning of textile fibres, 
 313112,"Yarn Texturizing, Throwing, and Twisting Mills",1311,Preparation and spinning of textile fibres, 
 313113,Thread Mills,1311,Preparation and spinning of textile fibres, 
@@ -341,6 +353,7 @@ J,,O,,
 314999,All Other Miscellaneous Textile Product Mills,1394,"Manufacture of cordage, rope, twine and netting",knotted rope net products made from purchased rope
 314999,All Other Miscellaneous Textile Product Mills,1399,Manufacture of other textiles n.e.c.,"bats, batting, upholstery filling, textile fire hose, and similar industrial textile products; powder puffs and mitts"
 314999,All Other Miscellaneous Textile Product Mills,1410,"Manufacture of wearing apparel, except fur apparel",cloth diapers 
+315000,,1400,,
 315111,Sheer Hosiery Mills,1430,Manufacture of knitted and crocheted apparel, 
 315119,Other Hosiery and Sock Mills,1430,Manufacture of knitted and crocheted apparel, 
 315191,Outerwear Knitting Mills,1430,Manufacture of knitted and crocheted apparel, 
@@ -372,7 +385,9 @@ J,,O,,
 315999,Other Apparel Accessories and Other Apparel Manufacturing,1399,Manufacture of other textiles n.e.c.,"hat, cap, apparel, umbrella, and similar trimmings made from purchased fabrics"
 315999,Other Apparel Accessories and Other Apparel Manufacturing,1410,"Manufacture of wearing apparel, except fur apparel","except rubber bathing caps and aprons; hat, cap, umbrella, and similar trimmings made from purchased fabrics"
 315999,Other Apparel Accessories and Other Apparel Manufacturing,2219,Manufacture of other rubber products,rubber bathing caps and aprons
+316000,,1510,,
 316110,Leather and Hide Tanning and Finishing,1511,Tanning and dressing of leather; dressing and dyeing of fur, 
+316200,,1520,,
 316211,Rubber and Plastics Footwear Manufacturing,1520,Manufacture of footwear, 
 316212,House Slipper Manufacturing,1520,Manufacture of footwear, 
 316213,Men's Footwear (except Athletic) Manufacturing,1520,Manufacture of footwear, 
@@ -384,6 +399,7 @@ J,,O,,
 316999,All Other Leather Good Manufacturing,1410,"Manufacture of wearing apparel, except fur apparel",leather industrial work accessories; protective leather garments
 316999,All Other Leather Good Manufacturing,1512,"Manufacture of luggage, handbags and the like, saddlery and harness","except leather garments and leather footwear cut stock (uppers, soles, etc.)"
 316999,All Other Leather Good Manufacturing,1520,Manufacture of footwear,"footwear cut stock (uppers, soles, etc.)"
+321000,,1600,,
 321113,Sawmills,1610,Sawmilling and planing of wood,except shingles and shakes made in sawmills
 321113,Sawmills,1622,Manufacture of builders' carpentry and joinery,shingles and shakes made in sawmills
 321114,Wood Preservation,1610,Sawmilling and planing of wood, 
@@ -407,6 +423,7 @@ J,,O,,
 321999,All Other Miscellaneous Wood Product Manufacturing,1623,Manufacture of wooden containers,wooden cable reels (cable drums)
 321999,All Other Miscellaneous Wood Product Manufacturing,1629,"Manufacture of other products of wood; manufacture of articles of cork, straw and plaiting materials","except excelsior, wood wool, kiln drying of lumber, cable drums, and plastic shoe lasts"
 321999,All Other Miscellaneous Wood Product Manufacturing,2220,Manufacture of plastics products,plastic shoe lasts
+322100,,1710,,
 322110,Pulp Mills,1701,"Manufacture of pulp, paper and paperboard", 
 322121,Paper (except Newsprint) Mills,1701,"Manufacture of pulp, paper and paperboard",paper mills
 322121,Paper (except Newsprint) Mills,1702,Manufacture of corrugated paper and paperboard and of containers of paper and paperboard,corrugated paper or paperboard or containers made in paper mills
@@ -416,6 +433,7 @@ J,,O,,
 322130,Paperboard Mills,1701,"Manufacture of pulp, paper and paperboard",paperboard 
 322130,Paperboard Mills,1702,Manufacture of corrugated paper and paperboard and of containers of paper and paperboard,corrugated paperboard or containers made in paperboard mills
 322130,Paperboard Mills,1709,Manufacture of other articles of paper and paperboard,manufacture of other articles of paper in paperboard mills
+322200,,1720,,
 322211,Corrugated and Solid Fiber Box Manufacturing,1702,Manufacture of corrugated paper and paperboard and of containers of paper and paperboard, 
 322212,Folding Paperboard Box Manufacturing,1702,Manufacture of corrugated paper and paperboard and of containers of paper and paperboard, 
 322213,Setup Paperboard Box Manufacturing,1702,Manufacture of corrugated paper and paperboard and of containers of paper and paperboard, 
@@ -443,6 +461,7 @@ J,,O,,
 322299,All Other Converted Paper Product Manufacturing,1701,"Manufacture of pulp, paper and paperboard",crepe paper (or crinkling paper) made from purchased paper
 322299,All Other Converted Paper Product Manufacturing,1702,Manufacture of corrugated paper and paperboard and of containers of paper and paperboard,die-cut paper products (except office use) made from purchased paper or paperboard
 322299,All Other Converted Paper Product Manufacturing,1709,Manufacture of other articles of paper and paperboard,except crepe paper and die-cut paper products (except office use) made from purchased paper
+323000,,1810,,
 323110,Commercial Lithographic Printing,1811,Printing, 
 323111,Commercial Gravure Printing,1811,Printing, 
 323112,Commercial Flexographic Printing,1811,Printing, 
@@ -459,6 +478,7 @@ J,,O,,
 323119,Other Commercial Printing,1811,Printing, 
 323121,Tradebinding and Related Work,1812,Service activities related to printing, 
 323122,Prepress Services,1812,Service activities related to printing, 
+324000,,1900,,
 324110,Petroleum Refineries,1920,Manufacture of refined petroleum products, 
 324121,Asphalt Paving Mixture and Block Manufacturing,2399,Manufacture of other non-metallic mineral products n.e.c., 
 324122,Asphalt Shingle and Coating Materials Manufacturing,2399,Manufacture of other non-metallic mineral products n.e.c., 
@@ -493,6 +513,7 @@ J,,O,,
 325312,Phosphatic Fertilizer Manufacturing,2012,Manufacture of fertilizers and nitrogen compounds,except phosphoric acid
 325314,Fertilizer (Mixing Only) Manufacturing,2012,Manufacture of fertilizers and nitrogen compounds, 
 325320,Pesticide and Other Agricultural Chemical Manufacturing,2021,Manufacture of pesticides and other agrochemical products, 
+325400,,2100,,
 325411,Medicinal and Botanical Manufacturing,2100,"Manufacture of pharmaceuticals, medicinal chemical and botanical products", 
 325412,Pharmaceutical Preparation Manufacturing,2100,"Manufacture of pharmaceuticals, medicinal chemical and botanical products", 
 325413,In-Vitro Diagnostic Substance Manufacturing,2029,Manufacture of other chemical products n.e.c.,diagnostic reagents 
@@ -572,6 +593,7 @@ J,,O,,
 327999,All Other Miscellaneous Nonmetallic Mineral Product Manufacturing,2395,"Manufacture of articles of concrete, cement and plaster","dry mix mortar, dry mix concrete, stucco, and asbestos cement products"
 327999,All Other Miscellaneous Nonmetallic Mineral Product Manufacturing,2399,Manufacture of other non-metallic mineral products n.e.c.,"except dry mix mortar, dry mix concrete, stucco, asbestos cement products, and manufacturing/working but not setting synthetic precious or semiprecious stones for jewelry uses"
 327999,All Other Miscellaneous Nonmetallic Mineral Product Manufacturing,3211,Manufacture of jewellery and related articles,manufacturing and working but not setting synthetic precious or semiprecious stones for jewelry uses
+331000,,2400,,
 331111,Iron and Steel Mills,2410,Manufacture of basic iron and steel, 
 331112,Electrometallurgical Ferroalloy Product Manufacturing,2410,Manufacture of basic iron and steel, 
 331210,Iron and Steel Pipe and Tube Manufacturing from Purchased Steel,2431,Casting of iron and steel, 
@@ -824,6 +846,7 @@ J,,O,,
 334517,Irradiation Apparatus Manufacturing,2660,"Manufacture of irradiation, electromedical and electrotherapeutic equipment", 
 334518,"Watch, Clock, and Part Manufacturing",2652,Manufacture of watches and clocks, 
 334519,Other Measuring and Controlling Device Manufacturing,2651,"Manufacture of measuring, testing, navigating, and control equipment", 
+334600,,1820,,
 334611,Software Reproducing,1820,Reproduction of recorded media, 
 334612,"Prerecorded Compact Disc (except Software), Tape, and Record Reproducing",1820,Reproduction of recorded media, 
 334613,Magnetic and Optical Recording Media Manufacturing,2680,Manufacture of magnetic and optical media, 
@@ -908,6 +931,7 @@ J,,O,,
 336999,All Other Transportation Equipment Manufacturing,2930,Manufacture of parts and accessories for motor vehicles,"ATV, snowmobile, and golf cart parts"
 336999,All Other Transportation Equipment Manufacturing,3012,Building of pleasure and sporting boats,personal watercraft
 336999,All Other Transportation Equipment Manufacturing,3099,Manufacture of other transport equipment n.e.c.,"animal drawn wagons and buggies, vendor carts and similar"
+337000,,3100,,
 337110,Wood Kitchen Cabinet and Counter Top Manufacturing,3100,Manufacture of furniture, 
 337121,Upholstered Household Furniture Manufacturing,3100,Manufacture of furniture, 
 337122,Nonupholstered Wood Household Furniture Manufacturing,3100,Manufacture of furniture, 
@@ -996,6 +1020,7 @@ J,,O,,
 339999,All Other Miscellaneous Manufacturing,3220,Manufacture of musical instruments,music boxes and whistles
 339999,All Other Miscellaneous Manufacturing,3240,Manufacture of games and toys,"coin operated game machines, puppets, slot machines"
 339999,All Other Miscellaneous Manufacturing,3290,Other manufacturing n.e.c.,"except coin operated game machines, puppets, slot machines, music boxes, whistles, fire extinguishers, picture frames, hair nets, potpourri, and miscellaneous plastics items"
+420000,,4600,,
 423110,Automobile and Other Motor Vehicle Merchant Wholesalers,4510,Sale of motor vehicles,"except motor vehicle bodies and motorcycles, wholesale"
 423110,Automobile and Other Motor Vehicle Merchant Wholesalers,4530,Sale of motor vehicle parts and accessories,"motor vehicle bodies, wholesale"
 423110,Automobile and Other Motor Vehicle Merchant Wholesalers,4540,"Sale, maintenance and repair of motorcycles and related parts and accessories",motorcycle wholesalers
@@ -1117,6 +1142,7 @@ J,,O,,
 425120,Wholesale Trade Agents and Brokers,4530,Sale of motor vehicle parts and accessories,parts agents and brokers
 425120,Wholesale Trade Agents and Brokers,4540,"Sale, maintenance and repair of motorcycles and related parts and accessories",motorcycle agents and brokers
 425120,Wholesale Trade Agents and Brokers,4610,Wholesale on a fee or contract basis,"except agents and brokers for motor vehicles, motorcycles, and parts"
+440000,,4700,,
 441110,New Car Dealers,4510,Sale of motor vehicles, 
 441120,Used Car Dealers,4510,Sale of motor vehicles, 
 441210,Recreational Vehicle Dealers,4510,Sale of motor vehicles,except RV parts and accessories dealers
@@ -1223,6 +1249,7 @@ J,,O,,
 454390,Other Direct Selling Establishments ,4782,"Retail sale via stalls and markets of textiles, clothing and footwear",temporary apparel stands
 454390,Other Direct Selling Establishments ,4789,Retail sale via stalls and markets of other goods,"temporary stands (except newsstands), seasonal stands, such as temporary fruit stands and Christmas tree stands, etc., flea market stands, bazaars, street vendors"
 454390,Other Direct Selling Establishments ,4799,"Other retail sale not in stores, stalls or markets","except temporary stands for food, beverage, tobacco, apparel, street vendors, and flea market stands"
+481000,,5100,,
 481111,Scheduled Passenger Air Transportation,5110,Passenger air transport, 
 481112,Scheduled Freight Air Transportation,5120,Freight air transport, 
 481211,Nonscheduled Chartered Passenger Air Transportation,5110,Passenger air transport, 
@@ -1231,6 +1258,7 @@ J,,O,,
 482111,Line-Haul Railroads,4911,"Passenger rail transport, interurban",interurban passenger rail transportation
 482111,Line-Haul Railroads,4912,Freight rail transport,except interurban passenger rail transportation
 482112,Short Line Railroads,4912,Freight rail transport, 
+483000,,5000,,
 483111,Deep Sea Freight Transport,5012,Sea and coastal freight water transport, 
 483112,Deep Sea Passenger Transportation,5011,Sea and coastal passenger water transport, 
 483113,Coastal and Great Lakes Freight Transportation,5012,Sea and coastal freight water transport, 
@@ -1293,7 +1321,9 @@ J,,O,,
 488999,All Other Support Activities for Transportation,5221,Service activities incidental to land transportation,"except liquefaction of natural gas at the mine site, nongovernment space flight centers, and arrangement of van or car pools"
 488999,All Other Support Activities for Transportation,5223,Service activities incidental to air transportation,nongovernment space flight operations centers not providing space transportation
 488999,All Other Support Activities for Transportation,5229,Other transportation support activities,arrangement of car pools and van pools
+491000,,5300,,
 491110,Postal Service,5310,Postal activities, 
+492000,,5300,,
 492110,Couriers,5320,Courier activities, 
 492210,Local Messengers and Local Delivery,5320,Courier activities, 
 493110,General Warehousing and Storage,5210,Warehousing and storage, 
@@ -1328,6 +1358,7 @@ J,,O,,
 515120,Television Broadcasting,6120,Wireless telecommunications activities,transmission only
 515210,Cable and Other Subscription Programming,6020,Television programming and broadcasting activities,except transmission only
 515210,Cable and Other Subscription Programming,6120,Wireless telecommunications activities,transmission only
+517000,,6100,,
 517110,Wired Telecommunications Carriers,6110,Wired telecommunications activities,except direct-to-home satellite television service
 517110,Wired Telecommunications Carriers,6130,Satellite telecommunications activities,direct-to-home satellite television service
 517210,Wireless Telecommunications Carriers (except Satellite),6120,Wireless telecommunications activities, 
@@ -1381,6 +1412,7 @@ J,,O,,
 523991,"Trust, Fiduciary, and Custody Activities",6619,Other activities auxiliary to financial service activities, 
 523999,Miscellaneous Financial Investment Activities,6612,Security and commodity contracts brokerage,gas and oil lease brokers offices
 523999,Miscellaneous Financial Investment Activities,6619,Other monetary intermediation,except gas and oil lease brokers offices
+524000,,6500,,
 524113,Direct Life Insurance Carriers,6511,Life insurance, 
 524114,Direct Health and Medical Insurance Carriers,6512,Non-life insurance, 
 524126,Direct Property and Causality Insurance Carriers,6512,Non-life insurance, 
@@ -1397,6 +1429,7 @@ J,,O,,
 525910,Open-End Investment Funds,6430,"Trusts, funds and similar financial entities", 
 525920,"Trusts, Estates, and Agency Accounts",6430,"Trusts, funds and similar financial entities", 
 525990,Other Financial Vehicles,6430,"Trusts, funds and similar financial entities", 
+531000,,6800,,
 531110,Lessors of Residential Buildings and Dwellings,6810,Real estate activities with own or leased property, 
 531120,Lessors of Nonresidential Buildings (except Miniwarehouses),6810,Real estate activities with own or leased property, 
 531130,Lessors of Miniwarehouses and Self-Storage Units,6810,Real estate activities with own or leased property, 
@@ -1406,6 +1439,7 @@ J,,O,,
 531312,Nonresidential Property Managers,6820,Real estate activities on a fee or contract basis, 
 531320,Offices of Real Estate Appraisers,6820,Real estate activities on a fee or contract basis, 
 531390,Other Activities Related to Real Estate,6820,Real estate activities on a fee or contract basis, 
+532000,,7700,,
 532111,Passenger Car Rental,7710,Renting and leasing of motor vehicles, 
 532112,Passenger Car Leasing,7710,Renting and leasing of motor vehicles, 
 532120,"Truck, Utility Trailer, and RV (Recreational Vehicle) Rental and Leasing",7710,Renting and leasing of motor vehicles,except rental and leasing of RVs
@@ -1444,10 +1478,12 @@ J,,O,,
 541420,Industrial Design Services,7410,Specialized design activities, 
 541430,Graphic Design Services,7410,Specialized design activities, 
 541490,Other Specialized Design Services,7410,Specialized design activities, 
+541500,,6200,,
 541511,Custom Computer Programming Services,6201,Computer programming activities, 
 541512,Computer Systems Design Services,6202,Computer consultancy and computer facilities management services, 
 541513,Computer Facilities Management Services,6202,Computer consultancy and computer facilities management services, 
 541519,Other Computer Related Services,6209,Other information technology and computer service activities, 
+541600,,7000,,
 541611,Administrative Management and General Management Consulting Services,7020,Management consultancy activities, 
 541612,Human Resources and Executive Search Consulting Services,6629,Other activities auxiliary to insurance and pension funding,actuarial consulting services
 541612,Human Resources and Executive Search Consulting Services,7020,Management consultancy activities,except actuarial consulting services
@@ -1457,6 +1493,7 @@ J,,O,,
 541618,Other Management Consulting Services,7490,"Other professional, scientific and technical activities n.e.c.", 
 541620,Environmental Consulting Services,7490,"Other professional, scientific and technical activities n.e.c.", 
 541690,Other Scientific and Technical Consulting Services,7490,"Other professional, scientific and technical activities n.e.c.", 
+541700,,7200,,
 541711,Research and Development in Biotechnology,7210,Research and experimental development on natural sciences and engineering, 
 541712,"Research and Development in the Physical, Engineering, and Life Sciences (except Biotechnology) ",7210,Research and experimental development on natural sciences and engineering, 
 541720,Research and Development in the Social Sciences and Humanities,7220,Research and experimental development on social sciences and humanities, 
@@ -1480,9 +1517,11 @@ J,,O,,
 551111,Offices of Bank Holding Companies,6420,Activities of holding companies, 
 551112,Offices of Other Holding Companies,6420,Activities of holding companies, 
 551114,"Corporate, Subsidiary, and Regional Managing Offices",7010,Activities of head offices, 
+561000,,8200,,
 561110,Office Administrative Services,8211,Combined office administrative service activities, 
 561210,Facilities Support Services,8110,Combined facilities support services,except private contract operation of prisons
 561210,Facilities Support Services,8423,Public order and safety activities,private contract operation of prisons
+561300,,7800,,
 561311,Employment Placement Agencies,7810,Activities of employment placement agencies, 
 561312,Executive Search Services,7810,Activities of employment placement agencies, 
 561320,Temporary Help Services,7820,Temporary employment agency activities, 
@@ -1499,10 +1538,12 @@ J,,O,,
 561492,Court Reporting and Stenotype Services,8299,Other business support activities n.e.c., 
 561499,All Other Business Support Services,8292,Packaging activities,barcode attaching services (labeling services)
 561499,All Other Business Support Services,8299,Other business support activities n.e.c.,except barcode attaching services (labeling services)
+561500,,7900,,
 561510,Travel Agencies,7911,Travel agency activities, 
 561520,Tour Operators,7912,Tour operator activities, 
 561591,Convention and Visitors Bureaus,7990,Other reservation service and related activities, 
 561599,All Other Travel Arrangement and Reservation Services,7990,Other reservation service and related activities, 
+561600,,8000,,
 561611,Investigation Services,8010,Private security activities,"fingerprinting, polygraph services"
 561611,Investigation Services,8030,Investigation activities,except fingerprinting and polygraph services
 561612,Security Guards and Patrol Services,8010,Private security activities, 
@@ -1599,6 +1640,7 @@ J,,O,,
 624230,Emergency and Other Relief Services,8890,Other social work activities without accommodation, 
 624310,Vocational Rehabilitation Services,8890,Other social work activities without accommodation, 
 624410,Child Day Care Services,8890,Other social work activities without accommodation, 
+710000,,9000,,
 711110,Theater Companies and Dinner Theaters,9000,"Creative, arts and entertainment activities", 
 711120,Dance Companies,9000,"Creative, arts and entertainment activities", 
 711130,Musical Groups and Artists,9000,"Creative, arts and entertainment activities", 
@@ -1619,12 +1661,14 @@ J,,O,,
 711510,"Independent Artists, Writers, and Performers",3319,Repair of other equipment ,restoration services for organs and similar instruments 
 711510,"Independent Artists, Writers, and Performers",7420,Photographic activities,independent photojournalists
 711510,"Independent Artists, Writers, and Performers",9000,"Creative, arts and entertainment activities","except independent photojournalists, restoration services for organs and similar antique instruments, and taxidermists"
+712000,,9100,,
 712110,Museums,9102,Museum activities and operation of historical sites and buildings, 
 712120,Historical Sites,9102,Museum activities and operation of historical sites and buildings, 
 712130,Zoos and Botanical Gardens,9103,Botanical and zoological gardens and nature reserves activities, 
 712190,Nature Parks and Other Similar Institutions,9103,Botanical and zoological gardens and nature reserves activities, 
 713110,Amusement and Theme Parks,9321,Activities of amusement parks and theme parks, 
 713120,Amusement Arcades,9329,Other amusement and recreation activities n.e.c., 
+713200,,9200,,
 713210,Casinos (except Casino Hotels),9200,Gambling and betting activities, 
 713290,Other Gambling Industries,9200,Gambling and betting activities, 
 713910,Golf Courses and Country Clubs,9311,Operation of sports facilities, 
@@ -1686,6 +1730,7 @@ J,,O,,
 811310,Commercial and Industrial Machinery and Equipment (except Automotive and Electronic) Repair and Maintenance,3319,Repair of other equipment ,"repair of miscellaneous commercial and industrial equipment, such as fishing nets, fertilizer bags, plastics and rubber products, non-metallic mineral products, parking meters, and commercial timing mechanisms"
 811310,Commercial and Industrial Machinery and Equipment (except Automotive and Electronic) Repair and Maintenance,4520,Maintenance and repair of motor vehicles,repair of trailers
 811310,Commercial and Industrial Machinery and Equipment (except Automotive and Electronic) Repair and Maintenance,8129,Other building and industrial cleaning activities,cleaning industrial machinery 
+811400,,9500,,
 811411,Home and Garden Equipment Repair and Maintenance,3312,Repair of machinery,"repair of power tools,  hand-held type"
 811411,Home and Garden Equipment Repair and Maintenance ,9522,Repair of household appliances and home and garden equipment,except repair of hand-held power tools
 811412,Appliance Repair and Maintenance ,9522,Repair of household appliances and home and garden equipment,
@@ -1709,6 +1754,7 @@ J,,O,,
 812320,Drycleaning and Laundry Services (except Coin-Operated),9601,Washing and (dry-) cleaning of textile and fur products, 
 812331,Linen Supply,9601,Washing and (dry-) cleaning of textile and fur products, 
 812332,Industrial Launderers,9601,Washing and (dry-) cleaning of textile and fur products, 
+812900,,9600,,
 812910,Pet Care (except Veterinary) Services,9609,Other personal service activities n.e.c., 
 812921,Photofinishing Laboratories (except One-Hour),7420,Photographic activities, 
 812922,One-Hour Photofinishing,7420,Photographic activities, 
@@ -1717,6 +1763,7 @@ J,,O,,
 812990,All Other Personal Services,6190,Other telecommunications activities,pay telephone concession operators
 812990,All Other Personal Services,9529,Repair of other personal and household goods,baby shoe bronzing
 812990,All Other Personal Services,9609,Other personal service activities n.e.c.,except baby shoe bronzing and pay telephone concession operators
+813000,,9400,,
 813110,Religious Organizations,9491,Activities of religious organizations, 
 813211,Grantmaking Foundations,9499,Activities of other membership organizations n.e.c., 
 813212,Voluntary Health Organizations,9499,Activities of other membership organizations n.e.c., 
@@ -1731,6 +1778,7 @@ J,,O,,
 813940,Political Organizations,9492,Activities of political organizations, 
 813990,"Other Similar Organizations (except Business, Professional, Labor, and Political Organizations)",9319,Other sports activities,sports leagues and regulating bodies
 813990,"Other Similar Organizations (except Business, Professional, Labor, and Political Organizations)",9499,Activities of other membership organizations n.e.c.,except sports leagues and regulating bodies
+814000,,9700,,
 814110,Private Households,9700,Activities of households as employers of domestic personnel, 
 921110,Executive Offices ,8411,General public administration activities, 
 921120,Legislative Bodies,8411,General public administration activities, 
