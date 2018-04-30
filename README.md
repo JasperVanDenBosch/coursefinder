@@ -1,7 +1,7 @@
 # coursefinder
 Recommend courses from the unistats dataset for a given industry.
 
-The data are presumed to be at `~/data/coursefinder/`. 
+The data are presumed to be at `~/data/unistats/`. 
 
 In the directory where this code is:
 
