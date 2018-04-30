@@ -1,16 +1,11 @@
 import pandas
 import logging
+import pkg_resources
+from os.path import join
 logger = logging.getLogger(__name__)
+datadir = pkg_resources.resource_filename('coursefinder', '../data')
 
-"""
-# To determine mismatch: 
-
-geos = pandas.read_csv('data/geographies.csv')
-post_counties = areas.Former_postal_county.unique()
-geo_counties = geos['Unnamed: 4'].unique()
-set(geo_counties).difference(set(post_counties))
-"""
-
+geos = pandas.read_csv(join(datadir, 'geographies.csv'))
 
 crosswalk = {
     'Argyllshire': ['Argyll'],
