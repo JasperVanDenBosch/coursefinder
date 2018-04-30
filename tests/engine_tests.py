@@ -7,14 +7,14 @@ class EngineTests(TestCase):
         from coursefinder.engine import Engine
         from coursefinder.exceptions import InvalidCriteriaException
         with self.assertRaises(InvalidCriteriaException):
-            # SIC 0 does not exist
-            Engine().recommendCourses([0], [])
+            # 'Wizardry' does not exist
+            Engine().recommendCourses(['Wizardry'], [])
 
     def test_nodata_sic2naics(self):
         from coursefinder.engine import Engine
         from coursefinder.exceptions import MissingDataException
         with self.assertRaises(MissingDataException):
-            # SIC 1111 does not have a corresponding NAICS 2002 code
-            Engine().recommendCourses([1111], [])
+            # Wheat (SIC 1111) does not have a corresponding NAICS 2002 code
+            Engine().recommendCourses(['Wheat'], [])
 
 

@@ -5,7 +5,7 @@ logger = logging.getLogger(__name__)
 
 class Engine(object):
 
-    def recommendCourses(self, industry_codes, geo_names):
+    def recommendCourses(self, industry_names, geo_names):
         logger.debug('Loading data..')
         from coursefinder.industries import industries, levels
         from coursefinder.crosswalks import allCrosswalkTables, crosswalk_codes
@@ -16,16 +16,17 @@ class Engine(object):
         from coursefinder.postcode_areas import geo_names_to_postcode_areas
 
         codes = []
-        for code in industry_codes:
-            if code in industries.index:
-                industry = industries.loc[code]
-                name = industry[levels].dropna().values[0]
-                print('\nIndustry name: ' + name)
+        for name in industry_names:
+            industry_row = industries.lvl3==name
+            if industry_row.any():
+                industry = industries[industry_row]
+                code = industry.first_valid_index()
+                logger.debug('SIC: %d', code)
                 logger.debug('SIC %d division: %s', code, industry['div'])
                 logger.debug('SIC %d level: %s', code, industry.level)
                 codes.append(code)
             else:
-                logger.debug('Unknown SIC: %d', code)
+                logger.debug('Unknown industry: %s', name)
 
         if codes == []:
             raise InvalidCriteriaException('None of the SIC codes valid.')

@@ -10,8 +10,8 @@ class CommandlineInterface(object):
 
     def parseArguments(self):
         parser = argparse.ArgumentParser()
-        parser.add_argument('industry_codes', type=int, nargs='+',
-                            help='One or more SIC codes of industry sectors.')
+        parser.add_argument('industries', type=str, nargs='+',
+                            help='One or more industry sector names.')
         parser.add_argument('--regions', type=str, nargs='*', default=[],
                             help='Confine recommendations to these areas.')
         parser.add_argument('--debug', action='store_const',
@@ -20,7 +20,7 @@ class CommandlineInterface(object):
         args = parser.parse_args()
         logging.basicConfig(level=args.debug)
         logger.debug('Verbosity level: %d', args.debug)
-        self.industries = args.industry_codes
+        self.industries = args.industries
         self.regions = args.regions
 
     def recommendCourses(self):
