@@ -45,7 +45,7 @@ class Engine(object):
 
         subset = joblist[joblist.JOB.isin(sectorJobs.index)]
         # P(occupation|industry)
-        subset = subset.assign(poccind=sectorJobs.loc[subset.JOB].values)
+        subset = subset.join(sectorJobs, on='JOB')
         # P(industry|course) for given occupation
         subset = subset.assign(pind=(subset.PERC/100)*subset.poccind)
         # identify unique courses:
