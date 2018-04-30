@@ -19,6 +19,11 @@ jobs:
           # fallback to using the latest cache if no exact match is found
           - v1-dependencies-
       - run:
+          name: install sample data
+          command: |
+            mkdir -p /home/circleci/data/unistats/
+            cp sample_unistats/*.csv /home/circleci/data/unistats/
+      - run:
           name: install dependencies
           command: |
             python3 -m venv env
