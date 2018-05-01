@@ -15,3 +15,6 @@ level = industries[levels].stack().index.get_level_values(1)
 industries['level'] = level.str[-1].astype(int)
 industries.set_index('SIC', inplace=True)
 industries['name'] = industries[levels].fillna('').sum(1)
+
+def industries_as_tree():
+    pass

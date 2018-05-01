@@ -26,3 +26,14 @@ crosswalk = {
     'Tayside': ['Angus', 'Kinross-shire', 'Perthshire'],
     'Yorkshire': ['South Yorkshire', 'West Yorkshire', 'North Yorkshire'],
 }
+
+def geographies_as_tree():
+    countries = geos.country.unique().tolist()
+    tree = []
+    for country in countries:
+        country_branch = {'text': country, 'nodes': []}
+        for county in geos.county[geos.country==country].tolist():
+            country_branch['nodes'].append({'text': county})
+        country_branch['tags'] = [str(len(country_branch['nodes']))]
+        tree.append(country_branch)
+    return tree
