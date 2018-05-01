@@ -18,12 +18,20 @@
 
 
 
-<div id="geo-tree" class="col-sm-4"></div>
+<div id="geography-tree" class="col-sm-4"></div>
+<div id="industry-tree" class="col-sm-4"></div>
 
 <script>
     var regions = {{ regions_json|safe }};
-    $('#geo-tree').treeview({
+    var industries = {{ industries_json|safe }};
+    $('#geography-tree').treeview({
         data: regions,
+        levels: 1,
+        multiSelect: true,
+        showTags: true,
+    });
+    $('#industry-tree').treeview({
+        data: industries,
         levels: 1,
         multiSelect: true,
         showTags: true,

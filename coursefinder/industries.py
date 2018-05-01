@@ -16,5 +16,25 @@ industries['level'] = level.str[-1].astype(int)
 industries.set_index('SIC', inplace=True)
 industries['name'] = industries[levels].fillna('').sum(1)
 
+def list_child_branches(industries, index, at_level):
+    branches = []
+    ngrantbranches = 0
+    while index < industries.shape[0]:
+        industry = industries.iloc[index]
+        if industry.level == at_level:
+            branch = {'text': industry['name']}
+            children, n = list_child_branches(industries, index+1, at_level+1)
+            if children:
+                index += n
+                branch['nodes'] = children
+                branch['tags'] = [str(len(children))]
+                ngrantbranches += n
+            branches.append(branch)
+            index += 1
+        else:
+            break
+    return branches, len(branches) + ngrantbranches
+
 def industries_as_tree():
-    pass
+    branches, _ = list_child_branches(industries, index=0, at_level=0)
+    return branches
