@@ -4,6 +4,7 @@ from pyramid.config import Configurator
 log = logging.getLogger(__name__)
 from coursefinder.geographies import geographies_as_tree
 from coursefinder.industries import industries_as_tree
+from coursefinder.engine import Engine
 
 
 def main(global_config, **settings):
@@ -18,6 +19,12 @@ def main(global_config, **settings):
         renderer='templates/home.jinja2',
         http_cache=0,
     )
+    config.add_route('courses', '/courses')
+    config.add_view(courses,
+        route_name='courses',
+        renderer='json',
+        http_cache=0,
+    )
     return config.make_wsgi_app()
 
 
@@ -26,4 +33,9 @@ def home(request):
         'regions_json': json.dumps(geographies_as_tree()),
         'industries_json': json.dumps(industries_as_tree())
     }
+
+def courses(request):
+    courses = Engine().recommendCourses(['Legislative bodies'], [])
+    courses = courses.where(courses.notnull(), other=None)
+    return  list(courses.T.to_dict().values())
 

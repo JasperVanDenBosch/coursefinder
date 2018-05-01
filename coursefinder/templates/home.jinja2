@@ -5,21 +5,20 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <title>CourseFinder.life</title>
-
-            <!-- Required Stylesheets -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-
-    <!-- Required Javascript -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     <script src="{{ request.static_url('coursefinder:static/bootstrap-treeview.js') }}"></script>
 </head>
 <body>
 <h1>Welcome to CourseFinder.life</h1>
 
-
-
 <div id="geography-tree" class="col-sm-4"></div>
 <div id="industry-tree" class="col-sm-4"></div>
+
+<div class="col-sm-4">
+    <button id="find" class="btn btn-default btn-lg">find courses</button>
+    <ol id="courses" class="list-group"></ol>
+</div>
 
 <script>
     var regions = {{ regions_json|safe }};
@@ -36,8 +35,29 @@
         multiSelect: true,
         showTags: true,
     });
+    var renderCourse = function(course) {
+        return $('<li class="list-group-item">'+course.TITLE+'</li>').hide();
+    };
+    $('#find').click(function() {
+        $('#find').addClass('disabled');
+        $('#courses').empty();
+        $.ajax('courses')  
+            .done(function(data) {
+                $.each(data, function(c, course) {
+                    console.log(course);
+                    var courseElement = renderCourse(course);
+                    $('#courses').append(courseElement);
+                    courseElement.show('slow');
+                });
+            })
+            .fail(function() {
+                $('#courses').append('<p>no courses found</p>');
+            })
+            .always(function() {
+                $('#find').removeClass('disabled');
+            });
+    });
 </script>
-
 
 </body>
 </html>
