@@ -16,9 +16,7 @@ nginx python3-pip supervisor
 
 ## Example
 ```
-$ coursefinder 9121 --regions Argyllshire Lothian
-
-Industry name: Legislative bodies
+$ coursefinder "Legislative bodies" --regions Argyllshire Lothian
 
 
 score: 0.17
