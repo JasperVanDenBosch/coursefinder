@@ -12,13 +12,25 @@
         #courses {
             list-style: decimal inside;
         }
-        
         #courses li {
             display: list-item;
         }
-        #tld {color: grey}
+        #tld {
+            color: grey
+        }
+        .provider {
+            margin-right: 0.5em;
+        }
         .jumbotron {
             padding-left: 2em;
+            padding-right: 1em;
+        }
+        #find {
+            margin-bottom:0.5em;
+        }
+        #find.btn-default:hover {
+            color: #FFFFFF;
+            background-color: #428bca;
         }
     </style>
 </head>
@@ -30,10 +42,9 @@
 
 <div id="geography-tree" class="col-sm-2"></div>
 <div id="industry-tree" class="col-sm-4"></div>
-
 <div class="col-sm-6">
-    <button id="find" class="btn btn-default btn-lg" style="margin-bottom:0.5em">find courses</button>
-    <p id="none-found" class="well" style="display: none">Sorry. No courses found.</p>
+    <button id="find" class="btn btn-default btn-lg">find courses</button>
+    <p id="status" class="well" style="display: none"></p>
     <ol id="courses" class="list-group"></ol>
 </div>
 
@@ -53,33 +64,60 @@
         showTags: true,
     });
     var renderCourse = function(course) {
-        return $('<li class="list-group-item">'+course.TITLE+'</li>').hide();
+
+        var $provider = $('<a>', {
+            href: course.CRSEURL,
+            target: '_blank',
+            class: 'provider'
+        });
+        $provider.append(course.VIEW_NAME);
+        var $li = $('<li>', {class: 'list-group-item'}).hide();
+        var $title = $('<h4>');
+        $title.append(course.TITLE);
+        var query = '?q='+course.LATITUDE+','+course.LONGITUDE;
+        $map = $('<a>', {
+                href: 'http://maps.google.com/maps'+query,
+                target: '_blank',
+                class: 'map'
+            });
+        $map.append('<span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span>');
+        $li.append($title);
+        $li.append($provider);
+        $li.append($map);
+        return $li.hide();
     };
     var name_only = function(node) { return node.text };
     $('#find').click(function() {
+        $('#courses').empty();
         var ind_nodes = $('#industry-tree').treeview('getSelected');
         var geo_nodes = $('#geography-tree').treeview('getSelected');
-        $('#find').blur().addClass('disabled');
-        $('#none-found').hide();
-        $('#courses').empty();
-        $.ajax('courses', {
-            data: {
-                industries: $.map(ind_nodes, name_only),
-                geographies:  $.map(geo_nodes, name_only)
-            }})  
-            .done(function(data) {
-                $.each(data, function(c, course) {
-                    var courseElement = renderCourse(course);
-                    $('#courses').append(courseElement);
-                    courseElement.show('slow');
+        if(ind_nodes.length === 0) {
+            $('#status').text('Please select at least one industry.');
+            $('#status').show('slow');
+        }
+        else {
+            $('#status').hide();
+            $('#find').blur().addClass('disabled');
+            $.ajax('courses', {
+                data: {
+                    industries: $.map(ind_nodes, name_only),
+                    geographies:  $.map(geo_nodes, name_only)
+                }})  
+                .done(function(data) {
+                    $.each(data, function(c, course) {
+                        var courseElement = renderCourse(course);
+                        $('#courses').append(courseElement);
+                        courseElement.show('slow');
+                    });
+                })
+                .fail(function() {
+                    $('#status').text('Sorry. No courses found.');
+                    $('#status').show('normal');
+                })
+                .always(function() {
+                    $('#find').removeClass('disabled');
                 });
-            })
-            .fail(function() {
-                $('#none-found').show('normal');
-            })
-            .always(function() {
-                $('#find').removeClass('disabled');
-            });
+        }
     });
 </script>
 
