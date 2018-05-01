@@ -35,7 +35,9 @@ def home(request):
     }
 
 def courses(request):
-    courses = Engine().recommendCourses(['Legislative bodies'], [])
+    industries = request.GET.getall('industries[]')
+    geographies = request.GET.getall('geographies[]')
+    courses = Engine().recommendCourses(industries, geographies)
     courses = courses.where(courses.notnull(), other=None)
     return  list(courses.T.to_dict().values())
 

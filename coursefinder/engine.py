@@ -22,11 +22,9 @@ class Engine(object):
                 logger.debug('SIC: %s', code)
                 logger.debug('SIC %s level: %d', code, industry.level)
                 codes.append(code)
-            else:
-                logger.debug('Unknown industry: %s', name)
 
         if codes == []:
-            raise InvalidCriteriaException('None of the SIC codes valid.')
+            raise InvalidCriteriaException('None of the industry names valid.')
 
         areas = geo_names_to_postcode_areas(geo_names)
         # add provider info columns (name, location, etc)
@@ -53,5 +51,5 @@ class Engine(object):
         pind_by_job = comsbj_groups['pind'].mean()
         # sum over jobs
         pind = pind_by_job.groupby(courseIndexCols).sum()
-        # add P(industry|course) to courses table and select 5 top matches
-        return courses_in_range.join(pind).nlargest(5, columns='pind')
+        # add P(industry|course) to courses table and select 10 top matches
+        return courses_in_range.join(pind).nlargest(10, columns='pind')
