@@ -17,6 +17,7 @@
 
 <div class="col-sm-4">
     <button id="find" class="btn btn-default btn-lg">find courses</button>
+    <p id="none-found" class="well" style="display: none">Sorry. No courses found.</p>
     <ol id="courses" class="list-group"></ol>
 </div>
 
@@ -40,6 +41,7 @@
     };
     $('#find').click(function() {
         $('#find').addClass('disabled');
+        $('#none-found').hide();
         $('#courses').empty();
         $.ajax('courses')  
             .done(function(data) {
@@ -51,7 +53,7 @@
                 });
             })
             .fail(function() {
-                $('#courses').append('<p>no courses found</p>');
+                $('#none-found').show('normal');
             })
             .always(function() {
                 $('#find').removeClass('disabled');
