@@ -18,6 +18,9 @@
         #tld {
             color: grey
         }
+        .provider {
+            margin-right: 0.5em;
+        }
         .jumbotron {
             padding-left: 2em;
             padding-right: 1em;
@@ -61,14 +64,33 @@
         showTags: true,
     });
     var renderCourse = function(course) {
-        return $('<li class="list-group-item">'+course.TITLE+'</li>').hide();
+
+        var $provider = $('<a>', {
+            href: course.CRSEURL,
+            target: '_blank',
+            class: 'provider'
+        });
+        $provider.append(course.VIEW_NAME);
+        var $li = $('<li>', {class: 'list-group-item'}).hide();
+        var $title = $('<h4>');
+        $title.append(course.TITLE);
+        var query = '?q='+course.LATITUDE+','+course.LONGITUDE;
+        $map = $('<a>', {
+                href: 'http://maps.google.com/maps'+query,
+                target: '_blank',
+                class: 'map'
+            });
+        $map.append('<span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span>');
+        $li.append($title);
+        $li.append($provider);
+        $li.append($map);
+        return $li.hide();
     };
     var name_only = function(node) { return node.text };
     $('#find').click(function() {
         $('#courses').empty();
         var ind_nodes = $('#industry-tree').treeview('getSelected');
         var geo_nodes = $('#geography-tree').treeview('getSelected');
-        console.log(ind_nodes)
         if(ind_nodes.length === 0) {
             $('#status').text('Please select at least one industry.');
             $('#status').show('slow');
