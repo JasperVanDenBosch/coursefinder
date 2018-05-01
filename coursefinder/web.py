@@ -12,12 +12,12 @@ def main(global_config, **settings):
     """
     config = Configurator(settings=settings)
     config.include('pyramid_jinja2')
-    config.add_static_view('static', 'static', cache_max_age=10)
+    config.add_static_view('static', 'static', cache_max_age=600)
     config.add_route('home', '/')
     config.add_view(home,
         route_name='home',
         renderer='templates/home.jinja2',
-        http_cache=0,
+        http_cache=600,
     )
     config.add_route('courses', '/courses')
     config.add_view(courses,
