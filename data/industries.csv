@@ -1,98 +1,98 @@
 SIC,lvl0,lvl1,lvl2,lvl3
 A,"Agriculture, Forestry, And Fishing",,,
-0100,,Agricultural production-crop,,
-0110,,,Cash grains,
-0111,,,,Wheat
-0112,,,,Rice
-0115,,,,Corn
-0116,,,,Soybeans
-0119,,,,"Cash grains, nec"
-0130,,,"Field crops, except cash grains",
-0131,,,,Cotton
-0132,,,,Tobacco
-0133,,,,Sugarcane and sugar beets
-0134,,,,Irish potatoes
-0139,,,,"Field crops, except cash grains, nec"
-0160,,,Vegetables and melons,
-0161,,,,Vegetables and melons
-0170,,,Fruits and tree nuts,
-0171,,,,Berry crops
-0172,,,,Grapes
-0173,,,,Tree nuts
-0174,,,,Citrus fruits
-0175,,,,Deciduous tree fruits
-0179,,,,"Fruits and tree nuts, nec"
-0180,,, Horticultural specialties,
-0181,,,,Ornamental nursery products
-0182,,,,Food crops grown under cover
-0189,,,, Horticultural specialties
+100,,Agricultural production-crop,,
+110,,,Cash grains,
+111,,,,Wheat
+112,,,,Rice
+115,,,,Corn
+116,,,,Soybeans
+119,,,,"Cash grains, nec"
+130,,,"Field crops, except cash grains",
+131,,,,Cotton
+132,,,,Tobacco
+133,,,,Sugarcane and sugar beets
+134,,,,Irish potatoes
+139,,,,"Field crops, except cash grains, nec"
+160,,,Vegetables and melons,
+161,,,,Vegetables and melons
+170,,,Fruits and tree nuts,
+171,,,,Berry crops
+172,,,,Grapes
+173,,,,Tree nuts
+174,,,,Citrus fruits
+175,,,,Deciduous tree fruits
+179,,,,"Fruits and tree nuts, nec"
+180,,,Horticultural specialties,
+181,,,,Ornamental nursery products
+182,,,,Food crops grown under cover
+189,,,, Horticultural specialties
 190,,,"General farms, primarily crop",
-0191,,,,"General farms, primarily crop"
-0200,,"Agricultural production, livestock and animal specialties",,
-0210,,,"Livestock, except dairy and poultry",
-0211,,,,Beef cattle feedlots
-0212,,,,"Beef cattle, except feedlots"
-0213,,,,Hogs
-0214,,,,Sheep and goats
-0219,,,,"General livestock, nec"
-0240,,,Dairy farms,
-0241,,,,Dairy farms
-0250,,,Poultry and eggs,
-0251,,,,"Broiler, fryer, and roaster chickens"
-0252,,,,Chicken eggs
-0253,,,,Turkeys and turkey eggs
-0254,,,,Poultry hatcheries
-0259,,,,"Poultry and eggs, nec"
-0270,,,Animal specialties,
-0271,,,,Fur-bearing animals and rabbits
-0272,,,,Horses and other equines
-0273,,,,Animal aquaculture
-0279,,,,"Animal specialties, nec"
-0290,,,"General farms, primarily livestock and animal specialties",
-0291,,,,"General farms, primarily animal"
-0700,,Agricultural services,,
-0710,,,Soil preparation services,
-0711,,,,Soil preparation services
-0720,,,Crop Services,
-0721,,,,Crop planting and protecting
-0722,,,,Crop harvesting
-0723,,,,Crop preparation services for market
-0724,,,,Cotton ginning
-0729,,,,General crop services
-0740,,,Veterinary services ,
-0741,,,,Veterinary services for livestock
-0742,,,,"Veterinary services, specialties"
-0750,,,"Animal services, except veterinary",
-0751,,,,"Livestock services, exc. veterinary"
-0752,,,,Animal specialty services
-0760,,,Farm labor and management services,
-0761,,,,Farm labor contractors
-0762,,,,Farm management services
-0780,,,Landscape and horticultural services,
-0781,,,,Landscape counseling and planning
-0782,,,,Lawn and garden services
-0783,,,,Ornamental shrub and tree services
-0800,,Forestry,,
-0810,,,Timber tracts,
-0811,,,,Timber tracts
-0820,,,Forest nurseries and tree seed gathering and extracting,
-0821,,,Forest nurseries and tree seed gathering and extracting,
-0830,,,Forest nurseries and gathering of forest products,
-0831,,,,Forest products
-0840,,,"Gathering of miscellaneous forest products, except tree seeds",
-0843,,,,Extraction of pine gum
-0849,,,,Gathering of forest products
-0850,,,Forestry services,
-0851,,,,Forestry services
-0900,,"Fishing, hunting, and trapping",,
-0910,,,Commercial fishing,
-0912,,,,Finfish
-0913,,,,Shellfish
-0919,,,,Miscellaneous marine products
-0920,,,Fish hatcheries and preserves,
-0921,,,,Fish hatcheries and preserves
-0970,,,"Hunting, trapping, game propagation",
-0971,,,,"Hunting, trapping, game propagation"
+191,,,,"General farms, primarily crop"
+200,,"Agricultural production, livestock and animal specialties",,
+210,,,"Livestock, except dairy and poultry",
+211,,,,Beef cattle feedlots
+212,,,,"Beef cattle, except feedlots"
+213,,,,Hogs
+214,,,,Sheep and goats
+219,,,,"General livestock, nec"
+240,,,Dairy farms,
+241,,,,Dairy farms
+250,,,Poultry and eggs,
+251,,,,"Broiler, fryer, and roaster chickens"
+252,,,,Chicken eggs
+253,,,,Turkeys and turkey eggs
+254,,,,Poultry hatcheries
+259,,,,"Poultry and eggs, nec"
+270,,,Animal specialties,
+271,,,,Fur-bearing animals and rabbits
+272,,,,Horses and other equines
+273,,,,Animal aquaculture
+279,,,,"Animal specialties, nec"
+290,,,"General farms, primarily livestock and animal specialties",
+291,,,,"General farms, primarily animal"
+700,,Agricultural services,,
+710,,,Soil preparation services,
+711,,,,Soil preparation services
+720,,,Crop Services,
+721,,,,Crop planting and protecting
+722,,,,Crop harvesting
+723,,,,Crop preparation services for market
+724,,,,Cotton ginning
+729,,,,General crop services
+740,,,Veterinary services ,
+741,,,,Veterinary services for livestock
+742,,,,"Veterinary services, specialties"
+750,,,"Animal services, except veterinary",
+751,,,,"Livestock services, exc. veterinary"
+752,,,,Animal specialty services
+760,,,Farm labor and management services,
+761,,,,Farm labor contractors
+762,,,,Farm management services
+780,,,Landscape and horticultural services,
+781,,,,Landscape counseling and planning
+782,,,,Lawn and garden services
+783,,,,Ornamental shrub and tree services
+800,,Forestry,,
+810,,,Timber tracts,
+811,,,,Timber tracts
+820,,,Forest nurseries and tree seed gathering and extracting,
+821,,,Forest nurseries and tree seed gathering and extracting,
+830,,,Forest nurseries and gathering of forest products,
+831,,,,Forest products
+840,,,"Gathering of miscellaneous forest products, except tree seeds",
+843,,,,Extraction of pine gum
+849,,,,Gathering of forest products
+850,,,Forestry services,
+851,,,,Forestry services
+900,,"Fishing, hunting, and trapping",,
+910,,,Commercial fishing,
+912,,,,Finfish
+913,,,,Shellfish
+919,,,,Miscellaneous marine products
+920,,,Fish hatcheries and preserves,
+921,,,,Fish hatcheries and preserves
+970,,,"Hunting, trapping, game propagation",
+971,,,,"Hunting, trapping, game propagation"
 ,,,,
 B,Mining,,,
 1000,,Metal mining,,
